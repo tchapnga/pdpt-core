@@ -1,0 +1,75 @@
+{
+ "5R-4K-4T-180L-1": {
+  "lns_feasible": true,
+  "lns_best": 578.24,
+  "lns_t_best": 1.02,
+  "lns_vehicles": 4,
+  "lns_transfers": 4
+ },
+ "5R-4K-4T-180L-4": {
+  "lns_feasible": true,
+  "lns_best": 483.39,
+  "lns_t_best": 0.93,
+  "lns_vehicles": 3,
+  "lns_transfers": 4
+ },
+ "5R-4K-4T-180L-6": {
+  "lns_feasible": false,
+  "lns_best": null,
+  "cp_status": "INFEASIBLE",
+  "cp_time": 101.2,
+  "cp_scale": 100,
+  "cp_rounding": "relax",
+  "workers": 4
+ },
+ "5R-4K-4T-180L-8": {
+  "lns_feasible": true,
+  "lns_best": 532.44,
+  "lns_t_best": 1.67,
+  "lns_vehicles": 4,
+  "lns_transfers": 5
+ },
+ "5R-4K-4T-180L-9": {
+  "lns_feasible": false,
+  "lns_best": null,
+  "cp_status": "INFEASIBLE",
+  "cp_time": 141.7,
+  "cp_scale": 100,
+  "cp_rounding": "relax",
+  "workers": 4
+ },
+ "5R-4K-4T-180M-1": {
+  "lns_feasible": false,
+  "lns_best": null,
+  "cp_status": "INFEASIBLE",
+  "cp_time": 334.1,
+  "cp_scale": 100,
+  "cp_rounding": "relax",
+  "workers": 4
+ },
+ "5R-4K-4T-180M-4": {
+  "lns_feasible": false,
+  "lns_best": null,
+  "cp_status": "INFEASIBLE",
+  "cp_time": 155.6,
+  "cp_scale": 100,
+  "cp_rounding": "relax",
+  "workers": 4
+ },
+ "5R-4K-4T-180M-7": {
+  "lns_feasible": true,
+  "lns_best": 519.06,
+  "lns_t_best": 16.15,
+  "lns_vehicles": 4,
+  "lns_transfers": 4
+ },
+ "5R-4K-4T-180M-9": {
+  "lns_feasible": false,
+  "lns_best": null,
+  "cp_status": "INFEASIBLE",
+  "cp_time": 168.2,
+  "cp_scale": 100,
+  "cp_rounding": "relax",
+  "workers": 4
+ }
+}

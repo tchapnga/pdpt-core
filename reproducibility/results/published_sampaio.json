@@ -1,0 +1,362 @@
+{
+ "SA50-4T-180_long": {
+  "rp_cost": 6322.1,
+  "rp_veh": 39.0,
+  "best_dD": -47.7,
+  "best_dV": -46.2,
+  "best_trans": 47.2,
+  "avg_dD": -45.8,
+  "avg_dV": -44.1,
+  "start": "sr"
+ },
+ "SA50-4T-180_mixed": {
+  "rp_cost": 4116.3,
+  "rp_veh": 24.8,
+  "best_dD": -30.7,
+  "best_dV": -27.4,
+  "best_trans": 40.1,
+  "avg_dD": -27.4,
+  "avg_dV": -23.8,
+  "start": "sr"
+ },
+ "SA50-4T-180_short": {
+  "rp_cost": 2459.2,
+  "rp_veh": 15.0,
+  "best_dD": -2.3,
+  "best_dV": -2.7,
+  "best_trans": 8.6,
+  "avg_dD": -1.1,
+  "avg_dV": -0.4,
+  "start": "sr"
+ },
+ "SA50-4T-240_long": {
+  "rp_cost": 3864.7,
+  "rp_veh": 18.8,
+  "best_dD": -25.6,
+  "best_dV": -13.3,
+  "best_trans": 47.7,
+  "avg_dD": -19.4,
+  "avg_dV": -10.6,
+  "start": "sr"
+ },
+ "SA50-4T-240_mixed": {
+  "rp_cost": 3012.0,
+  "rp_veh": 15.1,
+  "best_dD": -11.3,
+  "best_dV": -5.3,
+  "best_trans": 26.3,
+  "avg_dD": -6.5,
+  "avg_dV": -2.4,
+  "start": "sr"
+ },
+ "SA50-4T-240_short": {
+  "rp_cost": 2195.1,
+  "rp_veh": 11.8,
+  "best_dD": -1.8,
+  "best_dV": 0.0,
+  "best_trans": 12.2,
+  "avg_dD": -0.6,
+  "avg_dV": 0.0,
+  "start": "sr"
+ },
+ "SA50-4T-300_long": {
+  "rp_cost": 3653.1,
+  "rp_veh": 16.6,
+  "best_dD": -20.4,
+  "best_dV": -3.0,
+  "best_trans": 46.5,
+  "avg_dD": -13.5,
+  "avg_dV": -2.2,
+  "start": "sr"
+ },
+ "SA50-4T-300_mixed": {
+  "rp_cost": 2952.8,
+  "rp_veh": 14.4,
+  "best_dD": -8.6,
+  "best_dV": 0.7,
+  "best_trans": 29.2,
+  "avg_dD": -4.1,
+  "avg_dV": -0.6,
+  "start": "sr"
+ },
+ "SA50-4T-300_short": {
+  "rp_cost": 2188.9,
+  "rp_veh": 11.7,
+  "best_dD": -0.8,
+  "best_dV": -1.7,
+  "best_trans": 5.8,
+  "avg_dD": -0.3,
+  "avg_dV": -0.7,
+  "start": "sr"
+ },
+ "SA50-5T-180_long": {
+  "rp_cost": 6322.1,
+  "rp_veh": 39.0,
+  "best_dD": -46.6,
+  "best_dV": -45.9,
+  "best_trans": 44.4,
+  "avg_dD": -45.1,
+  "avg_dV": -43.7,
+  "start": "sr"
+ },
+ "SA50-5T-180_mixed": {
+  "rp_cost": 4116.3,
+  "rp_veh": 24.8,
+  "best_dD": -31.2,
+  "best_dV": -28.2,
+  "best_trans": 37.4,
+  "avg_dD": -29.2,
+  "avg_dV": -26.2,
+  "start": "sr"
+ },
+ "SA50-5T-180_short": {
+  "rp_cost": 2459.2,
+  "rp_veh": 15.0,
+  "best_dD": -4.9,
+  "best_dV": -4.0,
+  "best_trans": 14.2,
+  "avg_dD": -2.7,
+  "avg_dV": -2.1,
+  "start": "sr"
+ },
+ "SA50-5T-240_long": {
+  "rp_cost": 3864.7,
+  "rp_veh": 18.8,
+  "best_dD": -28.5,
+  "best_dV": -18.1,
+  "best_trans": 47.4,
+  "avg_dD": -23.2,
+  "avg_dV": -12.7,
+  "start": "sr"
+ },
+ "SA50-5T-240_mixed": {
+  "rp_cost": 3012.0,
+  "rp_veh": 15.1,
+  "best_dD": -15.2,
+  "best_dV": -6.6,
+  "best_trans": 34.7,
+  "avg_dD": -8.4,
+  "avg_dV": -2.6,
+  "start": "sr"
+ },
+ "SA50-5T-240_short": {
+  "rp_cost": 2195.1,
+  "rp_veh": 11.8,
+  "best_dD": -2.2,
+  "best_dV": 0.0,
+  "best_trans": 12.5,
+  "avg_dD": -0.9,
+  "avg_dV": 0.0,
+  "start": "sr"
+ },
+ "SA50-5T-300_long": {
+  "rp_cost": 3653.1,
+  "rp_veh": 16.6,
+  "best_dD": -22.8,
+  "best_dV": -5.4,
+  "best_trans": 46.7,
+  "avg_dD": -17.7,
+  "avg_dV": -2.2,
+  "start": "sr"
+ },
+ "SA50-5T-300_mixed": {
+  "rp_cost": 2952.8,
+  "rp_veh": 14.4,
+  "best_dD": -11.6,
+  "best_dV": -1.4,
+  "best_trans": 33.5,
+  "avg_dD": -6.0,
+  "avg_dV": -1.3,
+  "start": "sr"
+ },
+ "SA50-5T-300_short": {
+  "rp_cost": 2188.9,
+  "rp_veh": 11.7,
+  "best_dD": -1.3,
+  "best_dV": 0.0,
+  "best_trans": 4.3,
+  "avg_dD": -0.4,
+  "avg_dV": -0.5,
+  "start": "sr"
+ },
+ "SA75-5T-180_long": {
+  "rp_cost": 8883.3,
+  "rp_veh": 53.8,
+  "best_dD": -50.0,
+  "best_dV": -47.6,
+  "best_trans": 70.8,
+  "avg_dD": -48.0,
+  "avg_dV": -45.7,
+  "start": "st"
+ },
+ "SA75-5T-180_mixed": {
+  "rp_cost": 5166.8,
+  "rp_veh": 30.8,
+  "best_dD": -31.0,
+  "best_dV": -26.6,
+  "best_trans": 57.0,
+  "avg_dD": -27.8,
+  "avg_dV": -23.2,
+  "start": "st"
+ },
+ "SA75-5T-180_short": {
+  "rp_cost": 3268.6,
+  "rp_veh": 19.6,
+  "best_dD": -3.3,
+  "best_dV": 2.0,
+  "best_trans": 42.5,
+  "avg_dD": -0.5,
+  "avg_dV": 3.8,
+  "start": "st"
+ },
+ "SA75-5T-240_long": {
+  "rp_cost": 5162.3,
+  "rp_veh": 24.7,
+  "best_dD": -29.1,
+  "best_dV": -17.0,
+  "best_trans": 71.4,
+  "avg_dD": -25.9,
+  "avg_dV": -13.5,
+  "start": "st"
+ },
+ "SA75-5T-240_mixed": {
+  "rp_cost": 3743.1,
+  "rp_veh": 18.7,
+  "best_dD": -14.2,
+  "best_dV": -1.1,
+  "best_trans": 62.5,
+  "avg_dD": -9.3,
+  "avg_dV": 0.2,
+  "start": "st"
+ },
+ "SA75-5T-240_short": {
+  "rp_cost": 2932.6,
+  "rp_veh": 15.5,
+  "best_dD": 0.6,
+  "best_dV": 7.7,
+  "best_trans": 26.4,
+  "avg_dD": 3.3,
+  "avg_dV": 11.6,
+  "start": "st"
+ },
+ "SA75-5T-300_long": {
+  "rp_cost": 4941.4,
+  "rp_veh": 22.6,
+  "best_dD": -25.5,
+  "best_dV": -11.9,
+  "best_trans": 71.8,
+  "avg_dD": -20.3,
+  "avg_dV": -6.8,
+  "start": "st"
+ },
+ "SA75-5T-300_mixed": {
+  "rp_cost": 3668.5,
+  "rp_veh": 17.8,
+  "best_dD": -12.2,
+  "best_dV": 1.7,
+  "best_trans": 64.7,
+  "avg_dD": -7.1,
+  "avg_dV": 4.3,
+  "start": "st"
+ },
+ "SA75-5T-300_short": {
+  "rp_cost": 2924.9,
+  "rp_veh": 15.7,
+  "best_dD": 0.1,
+  "best_dV": 5.7,
+  "best_trans": 50.1,
+  "avg_dD": 4.5,
+  "avg_dV": 11.0,
+  "start": "st"
+ },
+ "SA100-5T-180_long": {
+  "rp_cost": 11613.5,
+  "rp_veh": 69.7,
+  "best_dD": -53.1,
+  "best_dV": -50.5,
+  "best_trans": 97.6,
+  "avg_dD": -51.1,
+  "avg_dV": -48.2,
+  "start": "st"
+ },
+ "SA100-5T-180_mixed": {
+  "rp_cost": 7309.3,
+  "rp_veh": 43.3,
+  "best_dD": -35.4,
+  "best_dV": -30.9,
+  "best_trans": 90.6,
+  "avg_dD": -35.2,
+  "avg_dV": -30.5,
+  "start": "st"
+ },
+ "SA100-5T-180_short": {
+  "rp_cost": 4071.9,
+  "rp_veh": 24.0,
+  "best_dD": -5.9,
+  "best_dV": 0.8,
+  "best_trans": 67.9,
+  "avg_dD": -2.4,
+  "avg_dV": 3.0,
+  "start": "st"
+ },
+ "SA100-5T-240_long": {
+  "rp_cost": 6481.8,
+  "rp_veh": 30.6,
+  "best_dD": -30.9,
+  "best_dV": -17.3,
+  "best_trans": 96.4,
+  "avg_dD": -27.3,
+  "avg_dV": -13.5,
+  "start": "st"
+ },
+ "SA100-5T-240_mixed": {
+  "rp_cost": 5069.5,
+  "rp_veh": 24.9,
+  "best_dD": -20.8,
+  "best_dV": -7.2,
+  "best_trans": 93.0,
+  "avg_dD": -16.7,
+  "avg_dV": -4.3,
+  "start": "st"
+ },
+ "SA100-5T-240_short": {
+  "rp_cost": 3618.9,
+  "rp_veh": 19.3,
+  "best_dD": -3.0,
+  "best_dV": 6.2,
+  "best_trans": 73.3,
+  "avg_dD": 0.0,
+  "avg_dV": 6.4,
+  "start": "st"
+ },
+ "SA100-5T-300_long": {
+  "rp_cost": 6186.0,
+  "rp_veh": 28.2,
+  "best_dD": -26.0,
+  "best_dV": -9.9,
+  "best_trans": 98.0,
+  "avg_dD": -22.3,
+  "avg_dV": -6.0,
+  "start": "st"
+ },
+ "SA100-5T-300_mixed": {
+  "rp_cost": 4985.4,
+  "rp_veh": 23.7,
+  "best_dD": -17.9,
+  "best_dV": -1.7,
+  "best_trans": 93.7,
+  "avg_dD": -12.1,
+  "avg_dV": 0.5,
+  "start": "st"
+ },
+ "SA100-5T-300_short": {
+  "rp_cost": 3619.7,
+  "rp_veh": 19.1,
+  "best_dD": -2.1,
+  "best_dV": 7.3,
+  "best_trans": 59.7,
+  "avg_dD": 1.2,
+  "avg_dV": 7.0,
+  "start": "st"
+ }
+}

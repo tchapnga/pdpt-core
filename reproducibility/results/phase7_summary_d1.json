@@ -1,0 +1,6531 @@
+{
+ "margin": 0.5,
+ "alpha": 0.05,
+ "closure": {
+  "cells_closed": 528,
+  "max_change_points": 3.7397593893780834
+ },
+ "closure_pool": {
+  "cells_closed": 872,
+  "max_change_points": 3.7397593893780834
+ },
+ "closed": {
+  "sizes": {
+   "20": {
+    "map": {
+     "yards_H1_S1_W30": {
+      "days": 19,
+      "delta_cost": -1.4013026953375631,
+      "wins": 7,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.008980238763039383,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_S1_W60": {
+      "days": 19,
+      "delta_cost": -2.0838135532143456,
+      "wins": 10,
+      "delta_trucks": -0.47368421052631576,
+      "p": 0.002531016063133932,
+      "p_holm": 0.02277914456820539
+     },
+     "yards_H1_S1_W120": {
+      "days": 19,
+      "delta_cost": -4.169607219632627,
+      "wins": 16,
+      "delta_trucks": -1,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_H1_S1_Winf": {
+      "days": 19,
+      "delta_cost": -5.406347955808836,
+      "wins": 16,
+      "delta_trucks": -1.1578947368421053,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_H1_S2_W30": {
+      "days": 19,
+      "delta_cost": -1.4076590764379235,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_S2_W60": {
+      "days": 19,
+      "delta_cost": -2.210328706027835,
+      "wins": 11,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.0016728090579254406,
+      "p_holm": 0.016728090579254406
+     },
+     "yards_H1_S2_W120": {
+      "days": 19,
+      "delta_cost": -4.4618505367391865,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_H1_S2_W240": {
+      "days": 19,
+      "delta_cost": -5.940559202769005,
+      "wins": 16,
+      "delta_trucks": -1.3157894736842106,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_H1_S2_Winf": {
+      "days": 19,
+      "delta_cost": -6.1612669546554,
+      "wins": 16,
+      "delta_trucks": -1.368421052631579,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_H1_S3_W30": {
+      "days": 19,
+      "delta_cost": -1.4166374647461066,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_S3_W60": {
+      "days": 19,
+      "delta_cost": -2.3988633883816646,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_H1_S3_W120": {
+      "days": 19,
+      "delta_cost": -4.5231691009277775,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_H1_S3_Winf": {
+      "days": 19,
+      "delta_cost": -6.258733297797036,
+      "wins": 16,
+      "delta_trucks": -1.4210526315789473,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_H1_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -1.4166374647461066,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -2.4913200350564346,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_H1_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -4.590355988000498,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_H1_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -6.286532433892208,
+      "wins": 16,
+      "delta_trucks": -1.4210526315789473,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_H2_S2_Winf": {
+      "days": 19,
+      "delta_cost": -6.33518831518518,
+      "wins": 17,
+      "delta_trucks": -1.4210526315789473,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_H2_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -6.458050909185514,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_Hinf_S1_W30": {
+      "days": 19,
+      "delta_cost": -1.4102810836457462,
+      "wins": 7,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.008980238763039383,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S1_W60": {
+      "days": 19,
+      "delta_cost": -2.2786814714386185,
+      "wins": 12,
+      "delta_trucks": -0.631578947368421,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.01219746805330377
+     },
+     "yards_Hinf_S1_W120": {
+      "days": 19,
+      "delta_cost": -4.303390677014547,
+      "wins": 16,
+      "delta_trucks": -1,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_Hinf_S1_Winf": {
+      "days": 19,
+      "delta_cost": -5.5901622336296235,
+      "wins": 16,
+      "delta_trucks": -1.2105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_Hinf_S2_W30": {
+      "days": 19,
+      "delta_cost": -1.4166374647461066,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S2_W60": {
+      "days": 19,
+      "delta_cost": -2.3542609646440282,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_Hinf_S2_W120": {
+      "days": 19,
+      "delta_cost": -4.613454457016528,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_Hinf_S2_Winf": {
+      "days": 19,
+      "delta_cost": -6.341458695439995,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_Hinf_S3_W30": {
+      "days": 19,
+      "delta_cost": -1.4203266044964988,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S3_W60": {
+      "days": 19,
+      "delta_cost": -2.5055393431876722,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_Hinf_S3_W120": {
+      "days": 19,
+      "delta_cost": -4.698037357056008,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_Hinf_S3_Winf": {
+      "days": 19,
+      "delta_cost": -6.430251773090343,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_Hinf_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -1.4203266044964988,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -2.5663861914511026,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_Hinf_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -4.751516853461044,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.006566657918619953
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -6.536051378059841,
+      "wins": 17,
+      "delta_trucks": -1.5263157894736843,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     }
+    },
+    "contrasts": {
+     "i_handling": [
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.1801917407845948,
+       "mean_trucks": -0.10526315789473684,
+       "p": 0.017960477526078766,
+       "p_tost": 0.0008136232214458145,
+       "p_holm": 0.1077628651564726,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.006270380254815387,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.31731050786291415,
+       "p_tost": 1.00393280621324e-05,
+       "p_holm": 0.6346210157258283,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H2_S2_Winf",
+       "days": 19,
+       "mean": -0.1739213605297794,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.027707849358079864,
+       "p_tost": 0.0007421910597093991,
+       "p_holm": 0.1385392467903993,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.24951894416763362,
+       "mean_trucks": -0.10526315789473684,
+       "p": 0.043114446783075355,
+       "p_tost": 0.0071511314939673425,
+       "p_holm": 0.17245778713230142,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.07800046887432739,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.31731050786291415,
+       "p_tost": 0.0003233745612882382,
+       "p_holm": 0.6346210157258283,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_H2_Sinf_Winf",
+       "days": 19,
+       "mean": -0.17151847529330622,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.043114446783075355,
+       "p_tost": 0.0006641472145490774,
+       "p_holm": 0.17245778713230142,
+       "verdict": "equivalent"
+      }
+     ],
+     "ii_storage": [
+      {
+       "a": "yards_H1_S1_Winf",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.7549189988465642,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.011718685599768628,
+       "p_tost": 0.049802259948162085,
+       "p_holm": 0.03515605679930588,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H1_S3_Winf",
+       "days": 19,
+       "mean": -0.09746634314163648,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.043114446783075355,
+       "p_tost": 0.0006641472145490774,
+       "p_holm": 0.08622889356615071,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S3_Winf",
+       "b": "yards_H1_Sinf_Winf",
+       "days": 19,
+       "mean": -0.027799136095171064,
+       "mean_trucks": 0,
+       "p": 0.17971249487899976,
+       "p_tost": 1.4310524666199882e-05,
+       "p_holm": 0.17971249487899976,
+       "verdict": "equivalent"
+      }
+     ],
+     "iii_dwell": [
+      {
+       "a": "yards_H1_S2_W30",
+       "b": "yards_H1_S2_W60",
+       "days": 19,
+       "mean": -0.8026696295899115,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.007685794055213263,
+       "p_tost": 0.37166283702619946,
+       "p_holm": 0.015371588110426526,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W60",
+       "b": "yards_H1_S2_W120",
+       "days": 19,
+       "mean": -2.2515218307113516,
+       "mean_trucks": -0.5263157894736842,
+       "p": 0.0009815397525216685,
+       "p_tost": 0.9965507090570682,
+       "p_holm": 0.0029446192575650057,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W120",
+       "b": "yards_H1_S2_W240",
+       "days": 19,
+       "mean": -1.4787086660298183,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.0006549583433856954,
+       "p_tost": 0.9866392982966127,
+       "p_holm": 0.0026198333735427816,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W240",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.22070775188639535,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.017960477526078766,
+       "p_tost": 0.0009369645062881314,
+       "p_holm": 0.017960477526078766,
+       "verdict": "different"
+      }
+     ],
+     "iv_interaction": {
+      "days": 19,
+      "mean": -0.47267799624128254,
+      "p": 0.09116079400519664,
+      "verdict": "inconclusive"
+     }
+    },
+    "saturation": {
+     "yards_H1_S1_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.407894736842104,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_H1_S1_W60": {
+      "peak_storage_mean": 0.5263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 22.45736842105263,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 0.6842105263157895
+     },
+     "yards_H1_S1_W120": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.06105263157895,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S1_Winf": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 185.18315789473684,
+      "max_dwell_max": 498.74,
+      "transfers_mean": 1.736842105263158
+     },
+     "yards_H1_S2_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 9.093684210526316,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.42105263157894735
+     },
+     "yards_H1_S2_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 23.102105263157895,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1
+     },
+     "yards_H1_S2_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 81.27684210526316,
+      "max_dwell_max": 119.74,
+      "transfers_mean": 2
+     },
+     "yards_H1_S2_W240": {
+      "peak_storage_mean": 1.1578947368421053,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 155.47578947368422,
+      "max_dwell_max": 239.56,
+      "transfers_mean": 2.0526315789473686
+     },
+     "yards_H1_S2_Winf": {
+      "peak_storage_mean": 1.2105263157894737,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 208.29263157894738,
+      "max_dwell_max": 563.44,
+      "transfers_mean": 2.1052631578947367
+     },
+     "yards_H1_S3_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_H1_S3_W60": {
+      "peak_storage_mean": 0.631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 27.00842105263158,
+      "max_dwell_max": 59.59,
+      "transfers_mean": 1.2105263157894737
+     },
+     "yards_H1_S3_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.3878947368421,
+      "max_dwell_max": 118.44,
+      "transfers_mean": 1.8421052631578947
+     },
+     "yards_H1_S3_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 207.54684210526315,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_H1_Sinf_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_H1_Sinf_W60": {
+      "peak_storage_mean": 0.7368421052631579,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 33.32684210526316,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1.2105263157894737
+     },
+     "yards_H1_Sinf_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 81.15315789473684,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 2
+     },
+     "yards_H1_Sinf_Winf": {
+      "peak_storage_mean": 1.4736842105263157,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 211.0536842105263,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_H2_S2_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 221.38947368421054,
+      "max_dwell_max": 563.44,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_H2_Sinf_Winf": {
+      "peak_storage_mean": 1.4736842105263157,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 207.50736842105263,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_Hinf_S1_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_S1_W60": {
+      "peak_storage_mean": 0.631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 29.423684210526314,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1.1578947368421053
+     },
+     "yards_Hinf_S1_W120": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 76.30842105263157,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S1_Winf": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 185.95894736842106,
+      "max_dwell_max": 498.74,
+      "transfers_mean": 1.894736842105263
+     },
+     "yards_Hinf_S2_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.407894736842104,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_S2_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 23.631052631578946,
+      "max_dwell_max": 59.69,
+      "transfers_mean": 0.8421052631578947
+     },
+     "yards_Hinf_S2_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 81.07894736842105,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 2.1052631578947367
+     },
+     "yards_Hinf_S2_Winf": {
+      "peak_storage_mean": 1.3157894736842106,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 201.0863157894737,
+      "max_dwell_max": 563.44,
+      "transfers_mean": 2.263157894736842
+     },
+     "yards_Hinf_S3_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.69578947368421,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.47368421052631576
+     },
+     "yards_Hinf_S3_W60": {
+      "peak_storage_mean": 0.631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 29.228947368421053,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1.105263157894737
+     },
+     "yards_Hinf_S3_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 80.64421052631579,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 1.9473684210526316
+     },
+     "yards_Hinf_S3_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 213.74,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3157894736842106
+     },
+     "yards_Hinf_Sinf_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_Sinf_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 23.266315789473683,
+      "max_dwell_max": 59.91,
+      "transfers_mean": 0.7894736842105263
+     },
+     "yards_Hinf_Sinf_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 75.1778947368421,
+      "max_dwell_max": 117.81,
+      "transfers_mean": 1.8421052631578947
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "peak_storage_mean": 1.631578947368421,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 219.89894736842106,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.473684210526316
+     }
+    }
+   },
+   "30": {
+    "map": {
+     "yards_H1_S1_W30": {
+      "days": 19,
+      "delta_cost": -0.6609403939454598,
+      "wins": 5,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.021557223391537678,
+      "p_holm": 0.08622889356615071
+     },
+     "yards_H1_S1_W60": {
+      "days": 19,
+      "delta_cost": -1.935873453290208,
+      "wins": 12,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_H1_S1_W120": {
+      "days": 19,
+      "delta_cost": -3.3292910036427985,
+      "wins": 16,
+      "delta_trucks": -1,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_S1_Winf": {
+      "days": 19,
+      "delta_cost": -4.224519803822956,
+      "wins": 19,
+      "delta_trucks": -1.3157894736842106,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H1_S2_W30": {
+      "days": 19,
+      "delta_cost": -0.6897511821915879,
+      "wins": 5,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.021557223391537678,
+      "p_holm": 0.08622889356615071
+     },
+     "yards_H1_S2_W60": {
+      "days": 19,
+      "delta_cost": -1.9433737430741311,
+      "wins": 12,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_H1_S2_W120": {
+      "days": 19,
+      "delta_cost": -3.397772260386865,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_S2_W240": {
+      "days": 19,
+      "delta_cost": -4.877999042133984,
+      "wins": 17,
+      "delta_trucks": -1.5789473684210527,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.0036631565024061166
+     },
+     "yards_H1_S2_Winf": {
+      "days": 19,
+      "delta_cost": -5.384086715662947,
+      "wins": 19,
+      "delta_trucks": -1.736842105263158,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H1_S3_W30": {
+      "days": 19,
+      "delta_cost": -0.7392617532783875,
+      "wins": 5,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.021557223391537678,
+      "p_holm": 0.08622889356615071
+     },
+     "yards_H1_S3_W60": {
+      "days": 19,
+      "delta_cost": -1.95871858070601,
+      "wins": 12,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_H1_S3_W120": {
+      "days": 19,
+      "delta_cost": -3.4576826485949614,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_S3_Winf": {
+      "days": 19,
+      "delta_cost": -5.518197690664376,
+      "wins": 19,
+      "delta_trucks": -1.736842105263158,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H1_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -0.7616288383468862,
+      "wins": 5,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.021557223391537678,
+      "p_holm": 0.08622889356615071
+     },
+     "yards_H1_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -1.95871858070601,
+      "wins": 12,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_H1_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -3.6320109966429044,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -5.527222468774603,
+      "wins": 19,
+      "delta_trucks": -1.736842105263158,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H2_S2_Winf": {
+      "days": 19,
+      "delta_cost": -5.4236035511496095,
+      "wins": 19,
+      "delta_trucks": -1.736842105263158,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H2_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -5.56593210256791,
+      "wins": 19,
+      "delta_trucks": -1.736842105263158,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_Hinf_S1_W30": {
+      "days": 19,
+      "delta_cost": -0.8332539106855935,
+      "wins": 6,
+      "delta_trucks": -0.2631578947368421,
+      "p": 0.013853924679039932,
+      "p_holm": 0.06926962339519965
+     },
+     "yards_Hinf_S1_W60": {
+      "days": 19,
+      "delta_cost": -1.938550793723684,
+      "wins": 12,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_Hinf_S1_W120": {
+      "days": 19,
+      "delta_cost": -3.4426388777649257,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_S1_Winf": {
+      "days": 19,
+      "delta_cost": -4.270470997118924,
+      "wins": 19,
+      "delta_trucks": -1.3157894736842106,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_Hinf_S2_W30": {
+      "days": 19,
+      "delta_cost": -0.9836483881149456,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S2_W60": {
+      "days": 19,
+      "delta_cost": -2.013726174187109,
+      "wins": 12,
+      "delta_trucks": -0.631578947368421,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_Hinf_S2_W120": {
+      "days": 19,
+      "delta_cost": -3.597454320345474,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_S2_Winf": {
+      "days": 19,
+      "delta_cost": -5.4658546551579565,
+      "wins": 19,
+      "delta_trucks": -1.736842105263158,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_Hinf_S3_W30": {
+      "days": 19,
+      "delta_cost": -1.0379821549839892,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S3_W60": {
+      "days": 19,
+      "delta_cost": -2.127986167404313,
+      "wins": 12,
+      "delta_trucks": -0.631578947368421,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_Hinf_S3_W120": {
+      "days": 19,
+      "delta_cost": -3.665291393816977,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_S3_Winf": {
+      "days": 19,
+      "delta_cost": -5.6052828456834325,
+      "wins": 19,
+      "delta_trucks": -1.7894736842105263,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_Hinf_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -1.078726268352826,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -2.194346167615502,
+      "wins": 12,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_Hinf_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -3.6916146345085923,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -5.608932248809974,
+      "wins": 19,
+      "delta_trucks": -1.7894736842105263,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     }
+    },
+    "contrasts": {
+     "i_handling": [
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.08176793949501014,
+       "mean_trucks": 0,
+       "p": 0.007685794055213263,
+       "p_tost": 5.964839818835005e-05,
+       "p_holm": 0.046114764331279576,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H2_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.042251104008347085,
+       "mean_trucks": 0,
+       "p": 0.10880943004054568,
+       "p_tost": 2.3155620768768076e-05,
+       "p_holm": 0.13577830972365798,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H2_S2_Winf",
+       "days": 19,
+       "mean": -0.03951683548666306,
+       "mean_trucks": 0,
+       "p": 0.017960477526078766,
+       "p_tost": 4.0958264387744285e-05,
+       "p_holm": 0.07184191010431507,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.08170978003537073,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.011718685599768628,
+       "p_tost": 4.5940622347538816e-05,
+       "p_holm": 0.058593427998843144,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.04300014624206471,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.06788915486182899,
+       "p_tost": 2.453094557784451e-05,
+       "p_holm": 0.13577830972365798,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_H2_Sinf_Winf",
+       "days": 19,
+       "mean": -0.038709633793306025,
+       "mean_trucks": 0,
+       "p": 0.043114446783075355,
+       "p_tost": 3.007209763616055e-05,
+       "p_holm": 0.12934334034922607,
+       "verdict": "equivalent"
+      }
+     ],
+     "ii_storage": [
+      {
+       "a": "yards_H1_S1_Winf",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -1.1595669118399916,
+       "mean_trucks": -0.42105263157894735,
+       "p": 0.00043777719457466354,
+       "p_tost": 0.842903333596399,
+       "p_holm": 0.0013133315837239906,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H1_S3_Winf",
+       "days": 19,
+       "mean": -0.13411097500142938,
+       "mean_trucks": 0,
+       "p": 0.011718685599768628,
+       "p_tost": 0.0010085560877551069,
+       "p_holm": 0.023437371199537257,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S3_Winf",
+       "b": "yards_H1_Sinf_Winf",
+       "days": 19,
+       "mean": -0.009024778110227248,
+       "mean_trucks": 0,
+       "p": 0.17971249487899976,
+       "p_tost": 1.4310524666199882e-05,
+       "p_holm": 0.17971249487899976,
+       "verdict": "equivalent"
+      }
+     ],
+     "iii_dwell": [
+      {
+       "a": "yards_H1_S2_W30",
+       "b": "yards_H1_S2_W60",
+       "days": 19,
+       "mean": -1.253622560882543,
+       "mean_trucks": -0.3684210526315789,
+       "p": 0.0033456181158508813,
+       "p_tost": 0.9030005665262775,
+       "p_holm": 0.0066912362317017625,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W60",
+       "b": "yards_H1_S2_W120",
+       "days": 19,
+       "mean": -1.454398517312734,
+       "mean_trucks": -0.47368421052631576,
+       "p": 0.00043777719457466354,
+       "p_tost": 0.9649784448659269,
+       "p_holm": 0.0017511087782986542,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W120",
+       "b": "yards_H1_S2_W240",
+       "days": 19,
+       "mean": -1.4802267817471189,
+       "mean_trucks": -0.5263157894736842,
+       "p": 0.0006549583433856954,
+       "p_tost": 0.9937471604149772,
+       "p_holm": 0.001964875030157086,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W240",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.5060876735289627,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.0033456181158508813,
+       "p_tost": 0.09699943347372253,
+       "p_holm": 0.0066912362317017625,
+       "verdict": "different"
+      }
+     ],
+     "iv_interaction": {
+      "days": 19,
+      "mean": -1.2798575375358463,
+      "p": 0.00043777719457466354,
+      "verdict": "different"
+     }
+    },
+    "saturation": {
+     "yards_H1_S1_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.277894736842105,
+      "max_dwell_max": 29.33,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_S1_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 29.426315789473684,
+      "max_dwell_max": 59.06,
+      "transfers_mean": 0.7368421052631579
+     },
+     "yards_H1_S1_W120": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 88.55947368421053,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_H1_S1_Winf": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 226.4463157894737,
+      "max_dwell_max": 413.1,
+      "transfers_mean": 2
+     },
+     "yards_H1_S2_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.681052631578948,
+      "max_dwell_max": 29.81,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_S2_W60": {
+      "peak_storage_mean": 0.5263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 25.93,
+      "max_dwell_max": 59.06,
+      "transfers_mean": 0.631578947368421
+     },
+     "yards_H1_S2_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 87.52421052631578,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_H1_S2_W240": {
+      "peak_storage_mean": 1.368421052631579,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 170.17631578947368,
+      "max_dwell_max": 239.68,
+      "transfers_mean": 2.3157894736842106
+     },
+     "yards_H1_S2_Winf": {
+      "peak_storage_mean": 1.5263157894736843,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 248.8057894736842,
+      "max_dwell_max": 450.39,
+      "transfers_mean": 2.6315789473684212
+     },
+     "yards_H1_S3_W30": {
+      "peak_storage_mean": 0.21052631578947367,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 4.49421052631579,
+      "max_dwell_max": 26.23,
+      "transfers_mean": 0.21052631578947367
+     },
+     "yards_H1_S3_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 27.124736842105264,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.7368421052631579
+     },
+     "yards_H1_S3_W120": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 81.46368421052631,
+      "max_dwell_max": 119.33,
+      "transfers_mean": 1.2105263157894737
+     },
+     "yards_H1_S3_Winf": {
+      "peak_storage_mean": 1.736842105263158,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 238.4463157894737,
+      "max_dwell_max": 407.99,
+      "transfers_mean": 2.5789473684210527
+     },
+     "yards_H1_Sinf_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.3,
+      "max_dwell_max": 29.33,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_Sinf_W60": {
+      "peak_storage_mean": 0.5263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 26.30315789473684,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.8421052631578947
+     },
+     "yards_H1_Sinf_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 87.74315789473684,
+      "max_dwell_max": 119.48,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_H1_Sinf_Winf": {
+      "peak_storage_mean": 1.7894736842105263,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 233.69315789473683,
+      "max_dwell_max": 461.02,
+      "transfers_mean": 2.6842105263157894
+     },
+     "yards_H2_S2_Winf": {
+      "peak_storage_mean": 1.631578947368421,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 247.00578947368422,
+      "max_dwell_max": 404.79,
+      "transfers_mean": 2.789473684210526
+     },
+     "yards_H2_Sinf_Winf": {
+      "peak_storage_mean": 1.6842105263157894,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 226.84,
+      "max_dwell_max": 404.29,
+      "transfers_mean": 2.5789473684210527
+     },
+     "yards_Hinf_S1_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.575263157894737,
+      "max_dwell_max": 29.81,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S1_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 29.70157894736842,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.7894736842105263
+     },
+     "yards_Hinf_S1_W120": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.08105263157894,
+      "max_dwell_max": 118.96,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_Hinf_S1_Winf": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 195.36105263157896,
+      "max_dwell_max": 400.01,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S2_W30": {
+      "peak_storage_mean": 0.3157894736842105,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.122105263157895,
+      "max_dwell_max": 29.82,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_S2_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 26.868947368421054,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.8947368421052632
+     },
+     "yards_Hinf_S2_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 89.87421052631579,
+      "max_dwell_max": 119.54,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S2_Winf": {
+      "peak_storage_mean": 1.4736842105263157,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 239.5821052631579,
+      "max_dwell_max": 401.28,
+      "transfers_mean": 2.4210526315789473
+     },
+     "yards_Hinf_S3_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.003684210526316,
+      "max_dwell_max": 29.69,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S3_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 26.572105263157894,
+      "max_dwell_max": 59.06,
+      "transfers_mean": 0.7368421052631579
+     },
+     "yards_Hinf_S3_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 88.70052631578947,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_Hinf_S3_Winf": {
+      "peak_storage_mean": 2.0,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 266.7042105263158,
+      "max_dwell_max": 407.48,
+      "transfers_mean": 2.9473684210526314
+     },
+     "yards_Hinf_Sinf_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.157368421052632,
+      "max_dwell_max": 29.81,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_Sinf_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 25.82894736842105,
+      "max_dwell_max": 59.03,
+      "transfers_mean": 0.9473684210526315
+     },
+     "yards_Hinf_Sinf_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 90.85631578947368,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "peak_storage_mean": 1.736842105263158,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 219.27789473684211,
+      "max_dwell_max": 407.48,
+      "transfers_mean": 2.6842105263157894
+     }
+    }
+   },
+   "50": {
+    "map": {
+     "yards_H1_S1_W30": {
+      "days": 19,
+      "delta_cost": -0.019277163028971023,
+      "wins": 1,
+      "delta_trucks": 0,
+      "p": 0.8272762347653871,
+      "p_holm": 1.0
+     },
+     "yards_H1_S1_W60": {
+      "days": 19,
+      "delta_cost": -0.4727083723186853,
+      "wins": 6,
+      "delta_trucks": -0.2631578947368421,
+      "p": 0.03723091570870273,
+      "p_holm": 0.2606164099609191
+     },
+     "yards_H1_S1_W120": {
+      "days": 19,
+      "delta_cost": -1.1454085545420063,
+      "wins": 13,
+      "delta_trucks": -0.7368421052631579,
+      "p": 0.0013538538590129523,
+      "p_holm": 0.02301551560322019
+     },
+     "yards_H1_S1_Winf": {
+      "days": 19,
+      "delta_cost": -1.987327997545731,
+      "wins": 15,
+      "delta_trucks": -0.9473684210526315,
+      "p": 0.0002513150322900971,
+      "p_holm": 0.005780245742672233
+     },
+     "yards_H1_S2_W30": {
+      "days": 19,
+      "delta_cost": -0.10903855471122013,
+      "wins": 3,
+      "delta_trucks": -0.05263157894736842,
+      "p": 0.3000897435702769,
+      "p_holm": 1.0
+     },
+     "yards_H1_S2_W60": {
+      "days": 19,
+      "delta_cost": -0.5554012781045637,
+      "wins": 8,
+      "delta_trucks": -0.3157894736842105,
+      "p": 0.008302439051861368,
+      "p_holm": 0.09962926862233641
+     },
+     "yards_H1_S2_W120": {
+      "days": 19,
+      "delta_cost": -1.5848059780943216,
+      "wins": 15,
+      "delta_trucks": -0.8421052631578947,
+      "p": 0.0002995597005840259,
+      "p_holm": 0.005780245742672233
+     },
+     "yards_H1_S2_W240": {
+      "days": 19,
+      "delta_cost": -2.335528814702731,
+      "wins": 16,
+      "delta_trucks": -1.2105263157894737,
+      "p": 0.0001635063314664326,
+      "p_holm": 0.004578177281060113
+     },
+     "yards_H1_S2_Winf": {
+      "days": 19,
+      "delta_cost": -2.909689385298614,
+      "wins": 16,
+      "delta_trucks": -1.368421052631579,
+      "p": 0.0001635063314664326,
+      "p_holm": 0.004578177281060113
+     },
+     "yards_H1_S3_W30": {
+      "days": 19,
+      "delta_cost": -0.12779970305316984,
+      "wins": 3,
+      "delta_trucks": -0.05263157894736842,
+      "p": 0.3000897435702769,
+      "p_holm": 1.0
+     },
+     "yards_H1_S3_W60": {
+      "days": 19,
+      "delta_cost": -0.6005076019921262,
+      "wins": 8,
+      "delta_trucks": -0.3157894736842105,
+      "p": 0.008302439051861368,
+      "p_holm": 0.09962926862233641
+     },
+     "yards_H1_S3_W120": {
+      "days": 19,
+      "delta_cost": -1.8009871825606796,
+      "wins": 15,
+      "delta_trucks": -0.8947368421052632,
+      "p": 0.0002995597005840259,
+      "p_holm": 0.005780245742672233
+     },
+     "yards_H1_S3_Winf": {
+      "days": 19,
+      "delta_cost": -3.1799443290679505,
+      "wins": 17,
+      "delta_trucks": -1.5789473684210527,
+      "p": 0.0001166146670247956,
+      "p_holm": 0.0034984400107438683
+     },
+     "yards_H1_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -0.12779970305316984,
+      "wins": 3,
+      "delta_trucks": -0.05263157894736842,
+      "p": 0.3000897435702769,
+      "p_holm": 1.0
+     },
+     "yards_H1_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -0.6784044911905961,
+      "wins": 9,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.0049627429226616285,
+      "p_holm": 0.0694784009172628
+     },
+     "yards_H1_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -1.8781620509762433,
+      "wins": 16,
+      "delta_trucks": -0.9473684210526315,
+      "p": 0.00019308878502170184,
+      "p_holm": 0.004634130840520844
+     },
+     "yards_H1_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -3.299639218934519,
+      "wins": 18,
+      "delta_trucks": -1.736842105263158,
+      "p": 9.821836310615567e-05,
+      "p_holm": 0.0033394243456092926
+     },
+     "yards_H2_S2_Winf": {
+      "days": 19,
+      "delta_cost": -3.325167245660681,
+      "wins": 17,
+      "delta_trucks": -1.6842105263157894,
+      "p": 9.5367431640625e-06,
+      "p_holm": 0.0003337860107421875
+     },
+     "yards_H2_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -3.6723773580112655,
+      "wins": 18,
+      "delta_trucks": -1.894736842105263,
+      "p": 9.821836310615567e-05,
+      "p_holm": 0.0033394243456092926
+     },
+     "yards_Hinf_S1_W30": {
+      "days": 19,
+      "delta_cost": -0.10131377965760276,
+      "wins": 2,
+      "delta_trucks": -0.05263157894736842,
+      "p": 0.5671138125036893,
+      "p_holm": 1.0
+     },
+     "yards_Hinf_S1_W60": {
+      "days": 19,
+      "delta_cost": -0.5272212347340374,
+      "wins": 7,
+      "delta_trucks": -0.3157894736842105,
+      "p": 0.020429921856403147,
+      "p_holm": 0.1838692967076283
+     },
+     "yards_Hinf_S1_W120": {
+      "days": 19,
+      "delta_cost": -1.5653643025579453,
+      "wins": 15,
+      "delta_trucks": -0.8421052631578947,
+      "p": 0.0002513150322900971,
+      "p_holm": 0.005780245742672233
+     },
+     "yards_Hinf_S1_Winf": {
+      "days": 19,
+      "delta_cost": -2.206521357187503,
+      "wins": 16,
+      "delta_trucks": -1,
+      "p": 0.0001635063314664326,
+      "p_holm": 0.004578177281060113
+     },
+     "yards_Hinf_S2_W30": {
+      "days": 19,
+      "delta_cost": -0.15726271704232211,
+      "wins": 4,
+      "delta_trucks": -0.10526315789473684,
+      "p": 0.08647745899421033,
+      "p_holm": 0.518864753965262
+     },
+     "yards_Hinf_S2_W60": {
+      "days": 19,
+      "delta_cost": -0.6106757334747882,
+      "wins": 8,
+      "delta_trucks": -0.3157894736842105,
+      "p": 0.005431112352407814,
+      "p_holm": 0.07060446058130158
+     },
+     "yards_Hinf_S2_W120": {
+      "days": 19,
+      "delta_cost": -1.8801386718704922,
+      "wins": 15,
+      "delta_trucks": -0.9473684210526315,
+      "p": 0.0002656213913766471,
+      "p_holm": 0.005780245742672233
+     },
+     "yards_Hinf_S2_Winf": {
+      "days": 19,
+      "delta_cost": -3.36405305538716,
+      "wins": 17,
+      "delta_trucks": -1.6842105263157894,
+      "p": 0.0001166146670247956,
+      "p_holm": 0.0034984400107438683
+     },
+     "yards_Hinf_S3_W30": {
+      "days": 19,
+      "delta_cost": -0.21012739027159896,
+      "wins": 5,
+      "delta_trucks": -0.15789473684210525,
+      "p": 0.03148952560722761,
+      "p_holm": 0.2519162048578209
+     },
+     "yards_Hinf_S3_W60": {
+      "days": 19,
+      "delta_cost": -0.646428191589958,
+      "wins": 9,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.0034552149039073997,
+      "p_holm": 0.051828223558611
+     },
+     "yards_Hinf_S3_W120": {
+      "days": 19,
+      "delta_cost": -2.0398876252421503,
+      "wins": 15,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.0002656213913766471,
+      "p_holm": 0.005780245742672233
+     },
+     "yards_Hinf_S3_Winf": {
+      "days": 19,
+      "delta_cost": -3.619562658600331,
+      "wins": 18,
+      "delta_trucks": -1.894736842105263,
+      "p": 9.821836310615567e-05,
+      "p_holm": 0.0033394243456092926
+     },
+     "yards_Hinf_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -0.3059517056484072,
+      "wins": 6,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.017845950058402206,
+      "p_holm": 0.17845950058402205
+     },
+     "yards_Hinf_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -0.7269717789993261,
+      "wins": 10,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.0022195463283960775,
+      "p_holm": 0.03551274125433724
+     },
+     "yards_Hinf_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -2.150114606362134,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.0001757662842537316,
+      "p_holm": 0.004578177281060113
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -3.8418770106193025,
+      "wins": 18,
+      "delta_trucks": -1.9473684210526316,
+      "p": 9.821836310615567e-05,
+      "p_holm": 0.0033394243456092926
+     }
+    },
+    "contrasts": {
+     "i_handling": [
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.4543636700885458,
+       "mean_trucks": -0.3157894736842105,
+       "p": 0.0009815397525216685,
+       "p_tost": 0.20998369062145228,
+       "p_holm": 0.004907698762608342,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H2_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.03888580972647905,
+       "mean_trucks": 0,
+       "p": 0.017960477526078766,
+       "p_tost": 4.0958264387744285e-05,
+       "p_holm": 0.023437371199537257,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H2_S2_Winf",
+       "days": 19,
+       "mean": -0.41547786036206674,
+       "mean_trucks": -0.3157894736842105,
+       "p": 0.0033456181158508813,
+       "p_tost": 0.14564236838533118,
+       "p_holm": 0.013382472463403525,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.5422377916847836,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.0006549583433856954,
+       "p_tost": 0.4045071484537923,
+       "p_holm": 0.003929750060314172,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H2_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.16949965260803704,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.011718685599768628,
+       "p_tost": 0.001157490000164185,
+       "p_holm": 0.023437371199537257,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_H2_Sinf_Winf",
+       "days": 19,
+       "mean": -0.3727381390767465,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.0033456181158508813,
+       "p_tost": 0.04804236091706534,
+       "p_holm": 0.013382472463403525,
+       "verdict": "different"
+      }
+     ],
+     "ii_storage": [
+      {
+       "a": "yards_H1_S1_Winf",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.9223613877528832,
+       "mean_trucks": -0.42105263157894735,
+       "p": 0.00019643672621231134,
+       "p_tost": 0.9562854766845703,
+       "p_holm": 0.000589310178636934,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H1_S3_Winf",
+       "days": 19,
+       "mean": -0.2702549437693365,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.0033456181158508813,
+       "p_tost": 0.017402713299475032,
+       "p_holm": 0.0066912362317017625,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S3_Winf",
+       "b": "yards_H1_Sinf_Winf",
+       "days": 19,
+       "mean": -0.11969488986656814,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.027707849358079864,
+       "p_tost": 9.910895325344852e-05,
+       "p_holm": 0.027707849358079864,
+       "verdict": "different"
+      }
+     ],
+     "iii_dwell": [
+      {
+       "a": "yards_H1_S2_W30",
+       "b": "yards_H1_S2_W60",
+       "days": 19,
+       "mean": -0.4463627233933436,
+       "mean_trucks": -0.2631578947368421,
+       "p": 0.017960477526078766,
+       "p_tost": 0.1808513902362207,
+       "p_holm": 0.017960477526078766,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W60",
+       "b": "yards_H1_S2_W120",
+       "days": 19,
+       "mean": -1.029404699989758,
+       "mean_trucks": -0.5263157894736842,
+       "p": 0.0009815397525216685,
+       "p_tost": 0.961989199388259,
+       "p_holm": 0.003926159010086674,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W120",
+       "b": "yards_H1_S2_W240",
+       "days": 19,
+       "mean": -0.7507228366084097,
+       "mean_trucks": -0.3684210526315789,
+       "p": 0.0009815397525216685,
+       "p_tost": 0.8014471782277894,
+       "p_holm": 0.003926159010086674,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W240",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.574160570595883,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.002217721464237049,
+       "p_tost": 0.23315372538397433,
+       "p_holm": 0.004435442928474098,
+       "verdict": "different"
+      }
+     ],
+     "iv_interaction": {
+      "days": 19,
+      "mean": -1.1066151025168771,
+      "p": 9.5367431640625e-05,
+      "verdict": "different"
+     }
+    },
+    "saturation": {
+     "yards_H1_S1_W30": {
+      "peak_storage_mean": 0.05263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 1.2647368421052632,
+      "max_dwell_max": 24.03,
+      "transfers_mean": 0.05263157894736842
+     },
+     "yards_H1_S1_W60": {
+      "peak_storage_mean": 0.3157894736842105,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 17.844210526315788,
+      "max_dwell_max": 59.78,
+      "transfers_mean": 0.5263157894736842
+     },
+     "yards_H1_S1_W120": {
+      "peak_storage_mean": 0.6842105263157895,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 73.90157894736842,
+      "max_dwell_max": 119.81,
+      "transfers_mean": 1.3157894736842106
+     },
+     "yards_H1_S1_Winf": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 173.68315789473684,
+      "max_dwell_max": 387.89,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S2_W30": {
+      "peak_storage_mean": 0.10526315789473684,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 2.0494736842105263,
+      "max_dwell_max": 20.91,
+      "transfers_mean": 0.10526315789473684
+     },
+     "yards_H1_S2_W60": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 12.718421052631578,
+      "max_dwell_max": 57.66,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_S2_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.83421052631579,
+      "max_dwell_max": 119.63,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S2_W240": {
+      "peak_storage_mean": 1.368421052631579,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 166.45263157894738,
+      "max_dwell_max": 238.74,
+      "transfers_mean": 2.263157894736842
+     },
+     "yards_H1_S2_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 214.84736842105264,
+      "max_dwell_max": 406.6,
+      "transfers_mean": 2.6315789473684212
+     },
+     "yards_H1_S3_W30": {
+      "peak_storage_mean": 0.05263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 1.2594736842105263,
+      "max_dwell_max": 23.93,
+      "transfers_mean": 0.05263157894736842
+     },
+     "yards_H1_S3_W60": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 10.38,
+      "max_dwell_max": 56.66,
+      "transfers_mean": 0.2631578947368421
+     },
+     "yards_H1_S3_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 63.03,
+      "max_dwell_max": 119.81,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S3_Winf": {
+      "peak_storage_mean": 1.736842105263158,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 250.48,
+      "max_dwell_max": 442.69,
+      "transfers_mean": 3.0526315789473686
+     },
+     "yards_H1_Sinf_W30": {
+      "peak_storage_mean": 0.10526315789473684,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 2.2268421052631577,
+      "max_dwell_max": 21.4,
+      "transfers_mean": 0.10526315789473684
+     },
+     "yards_H1_Sinf_W60": {
+      "peak_storage_mean": 0.42105263157894735,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 17.951052631578946,
+      "max_dwell_max": 59.25,
+      "transfers_mean": 0.631578947368421
+     },
+     "yards_H1_Sinf_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 78.03315789473685,
+      "max_dwell_max": 119.75,
+      "transfers_mean": 1.8421052631578947
+     },
+     "yards_H1_Sinf_Winf": {
+      "peak_storage_mean": 2.1578947368421053,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 244.42684210526315,
+      "max_dwell_max": 405.05,
+      "transfers_mean": 3.4210526315789473
+     },
+     "yards_H2_S2_Winf": {
+      "peak_storage_mean": 1.631578947368421,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 242.77421052631578,
+      "max_dwell_max": 499.25,
+      "transfers_mean": 3.263157894736842
+     },
+     "yards_H2_Sinf_Winf": {
+      "peak_storage_mean": 2.210526315789474,
+      "peak_storage_max": 5.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 271.1584210526316,
+      "max_dwell_max": 507.3,
+      "transfers_mean": 3.8947368421052633
+     },
+     "yards_Hinf_S1_W30": {
+      "peak_storage_mean": 0.10526315789473684,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 2.365263157894737,
+      "max_dwell_max": 24.03,
+      "transfers_mean": 0.10526315789473684
+     },
+     "yards_Hinf_S1_W60": {
+      "peak_storage_mean": 0.3157894736842105,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 14.193684210526316,
+      "max_dwell_max": 57.31,
+      "transfers_mean": 0.47368421052631576
+     },
+     "yards_Hinf_S1_W120": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 83.95421052631579,
+      "max_dwell_max": 118.63,
+      "transfers_mean": 1.4210526315789473
+     },
+     "yards_Hinf_S1_Winf": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 199.16526315789474,
+      "max_dwell_max": 392.48,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S2_W30": {
+      "peak_storage_mean": 0.15789473684210525,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 3.938421052631579,
+      "max_dwell_max": 29.89,
+      "transfers_mean": 0.15789473684210525
+     },
+     "yards_Hinf_S2_W60": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 13.64578947368421,
+      "max_dwell_max": 57.84,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S2_W120": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 78.10421052631578,
+      "max_dwell_max": 119.3,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_Hinf_S2_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 210.86789473684212,
+      "max_dwell_max": 472.04,
+      "transfers_mean": 2.789473684210526
+     },
+     "yards_Hinf_S3_W30": {
+      "peak_storage_mean": 0.21052631578947367,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 5.623157894736842,
+      "max_dwell_max": 29.79,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S3_W60": {
+      "peak_storage_mean": 0.47368421052631576,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 20.34842105263158,
+      "max_dwell_max": 59.2,
+      "transfers_mean": 0.6842105263157895
+     },
+     "yards_Hinf_S3_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 78.68842105263158,
+      "max_dwell_max": 119.64,
+      "transfers_mean": 1.7894736842105263
+     },
+     "yards_Hinf_S3_Winf": {
+      "peak_storage_mean": 2.1578947368421053,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 259.46210526315787,
+      "max_dwell_max": 394.41,
+      "transfers_mean": 3.5789473684210527
+     },
+     "yards_Hinf_Sinf_W30": {
+      "peak_storage_mean": 0.15789473684210525,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 4.33421052631579,
+      "max_dwell_max": 29.66,
+      "transfers_mean": 0.21052631578947367
+     },
+     "yards_Hinf_Sinf_W60": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 16.965263157894736,
+      "max_dwell_max": 58.48,
+      "transfers_mean": 0.5789473684210527
+     },
+     "yards_Hinf_Sinf_W120": {
+      "peak_storage_mean": 1.1578947368421053,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 84.68263157894737,
+      "max_dwell_max": 119.05,
+      "transfers_mean": 1.894736842105263
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "peak_storage_mean": 2.3684210526315788,
+      "peak_storage_max": 5.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 256.34684210526314,
+      "max_dwell_max": 407.54,
+      "transfers_mean": 3.789473684210526
+     }
+    }
+   }
+  }
+ },
+ "raw": {
+  "sizes": {
+   "20": {
+    "map": {
+     "yards_H1_S1_W30": {
+      "days": 19,
+      "delta_cost": -1.4013026953375631,
+      "wins": 7,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.008980238763039383,
+      "p_holm": 0.07184191010431507
+     },
+     "yards_H1_S1_W60": {
+      "days": 19,
+      "delta_cost": -2.0838135532143456,
+      "wins": 10,
+      "delta_trucks": -0.47368421052631576,
+      "p": 0.002531016063133932,
+      "p_holm": 0.025310160631339323
+     },
+     "yards_H1_S1_W120": {
+      "days": 19,
+      "delta_cost": -4.169607219632627,
+      "wins": 16,
+      "delta_trucks": -1,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_H1_S1_Winf": {
+      "days": 19,
+      "delta_cost": -5.38538696762011,
+      "wins": 16,
+      "delta_trucks": -1.1578947368421053,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_H1_S2_W30": {
+      "days": 19,
+      "delta_cost": -1.273278239523907,
+      "wins": 7,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.008980238763039383,
+      "p_holm": 0.07184191010431507
+     },
+     "yards_H1_S2_W60": {
+      "days": 19,
+      "delta_cost": -2.1636654111082763,
+      "wins": 10,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.002531016063133932,
+      "p_holm": 0.025310160631339323
+     },
+     "yards_H1_S2_W120": {
+      "days": 19,
+      "delta_cost": -4.4303623451369925,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_H1_S2_W240": {
+      "days": 19,
+      "delta_cost": -5.940559202769005,
+      "wins": 16,
+      "delta_trucks": -1.3157894736842106,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_H1_S2_Winf": {
+      "days": 19,
+      "delta_cost": -6.133584400511598,
+      "wins": 16,
+      "delta_trucks": -1.368421052631579,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_H1_S3_W30": {
+      "days": 19,
+      "delta_cost": -1.4102810836457462,
+      "wins": 7,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.008980238763039383,
+      "p_holm": 0.07184191010431507
+     },
+     "yards_H1_S3_W60": {
+      "days": 19,
+      "delta_cost": -2.24101253366738,
+      "wins": 12,
+      "delta_trucks": -0.631578947368421,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.016632910981777868
+     },
+     "yards_H1_S3_W120": {
+      "days": 19,
+      "delta_cost": -4.4618480563455565,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_H1_S3_Winf": {
+      "days": 19,
+      "delta_cost": -6.251984342367883,
+      "wins": 16,
+      "delta_trucks": -1.4210526315789473,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_H1_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -1.4060740249662014,
+      "wins": 7,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.008980238763039383,
+      "p_holm": 0.07184191010431507
+     },
+     "yards_H1_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -2.484852138498174,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_H1_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -4.5407452418485805,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_H1_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -6.2655837415634945,
+      "wins": 16,
+      "delta_trucks": -1.4210526315789473,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_H2_S2_Winf": {
+      "days": 19,
+      "delta_cost": -6.314288260101653,
+      "wins": 17,
+      "delta_trucks": -1.4210526315789473,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_H2_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -6.317279367580393,
+      "wins": 16,
+      "delta_trucks": -1.4210526315789473,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_Hinf_S1_W30": {
+      "days": 19,
+      "delta_cost": -1.4102810836457462,
+      "wins": 7,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.008980238763039383,
+      "p_holm": 0.07184191010431507
+     },
+     "yards_Hinf_S1_W60": {
+      "days": 19,
+      "delta_cost": -2.2786814714386185,
+      "wins": 12,
+      "delta_trucks": -0.631578947368421,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.016632910981777868
+     },
+     "yards_Hinf_S1_W120": {
+      "days": 19,
+      "delta_cost": -4.035889071804091,
+      "wins": 15,
+      "delta_trucks": -0.9473684210526315,
+      "p": 0.0003274791716928477,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_Hinf_S1_Winf": {
+      "days": 19,
+      "delta_cost": -5.589767249409882,
+      "wins": 16,
+      "delta_trucks": -1.2105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_Hinf_S2_W30": {
+      "days": 19,
+      "delta_cost": -1.4013026953375631,
+      "wins": 7,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.008980238763039383,
+      "p_holm": 0.07184191010431507
+     },
+     "yards_Hinf_S2_W60": {
+      "days": 19,
+      "delta_cost": -2.063044514476757,
+      "wins": 11,
+      "delta_trucks": -0.5263157894736842,
+      "p": 0.0016728090579254406,
+      "p_holm": 0.02007370869510529
+     },
+     "yards_Hinf_S2_W120": {
+      "days": 19,
+      "delta_cost": -4.548109634974421,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_Hinf_S2_Winf": {
+      "days": 19,
+      "delta_cost": -6.153603756957954,
+      "wins": 16,
+      "delta_trucks": -1.4210526315789473,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_Hinf_S3_W30": {
+      "days": 19,
+      "delta_cost": -1.4139702233961384,
+      "wins": 7,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.008980238763039383,
+      "p_holm": 0.07184191010431507
+     },
+     "yards_Hinf_S3_W60": {
+      "days": 19,
+      "delta_cost": -2.2069996337590645,
+      "wins": 12,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.016632910981777868
+     },
+     "yards_Hinf_S3_W120": {
+      "days": 19,
+      "delta_cost": -4.526643016155134,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_Hinf_S3_Winf": {
+      "days": 19,
+      "delta_cost": -6.249785501053452,
+      "wins": 16,
+      "delta_trucks": -1.4210526315789473,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_Hinf_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -1.4090804141339552,
+      "wins": 7,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.008980238763039383,
+      "p_holm": 0.07184191010431507
+     },
+     "yards_Hinf_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -2.165899134947928,
+      "wins": 11,
+      "delta_trucks": -0.5263157894736842,
+      "p": 0.0016728090579254406,
+      "p_holm": 0.02007370869510529
+     },
+     "yards_Hinf_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -4.571959429635699,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -6.304887380396806,
+      "wins": 16,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.007442212307769281
+     }
+    },
+    "contrasts": {
+     "i_handling": [
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.02001935644635569,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.47690655496758394,
+       "p_tost": 6.799714114439532e-05,
+       "p_holm": 1.0,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": 0.16068450314369911,
+       "mean_trucks": 0,
+       "p": 0.23672357063785732,
+       "p_tost": 0.0009369645062881314,
+       "p_holm": 0.9468942825514293,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H2_S2_Winf",
+       "days": 19,
+       "mean": -0.1807038595900548,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.017960477526078766,
+       "p_tost": 0.0008136232214458145,
+       "p_holm": 0.1077628651564726,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.03930363883331194,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.49896229860376107,
+       "p_tost": 0.0007053851047387796,
+       "p_holm": 1.0,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": 0.0123919871835868,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.5929800980174267,
+       "p_tost": 0.0004237358546240693,
+       "p_holm": 1.0,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_H2_Sinf_Winf",
+       "days": 19,
+       "mean": -0.05169562601689874,
+       "mean_trucks": 0,
+       "p": 0.04252247799805163,
+       "p_tost": 4.0958264387744285e-05,
+       "p_holm": 0.21261238999025817,
+       "verdict": "equivalent"
+      }
+     ],
+     "ii_storage": [
+      {
+       "a": "yards_H1_S1_Winf",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.7481974328914878,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.010862224704815628,
+       "p_tost": 0.04665461701925338,
+       "p_holm": 0.032586674114446885,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H1_S3_Winf",
+       "days": 19,
+       "mean": -0.11839994185628527,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.027991815485665747,
+       "p_tost": 0.0008136232214458145,
+       "p_holm": 0.055983630971331494,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S3_Winf",
+       "b": "yards_H1_Sinf_Winf",
+       "days": 19,
+       "mean": -0.01359939919561135,
+       "mean_trucks": 0,
+       "p": 0.4652088184521418,
+       "p_tost": 2.453094557784451e-05,
+       "p_holm": 0.4652088184521418,
+       "verdict": "equivalent"
+      }
+     ],
+     "iii_dwell": [
+      {
+       "a": "yards_H1_S2_W30",
+       "b": "yards_H1_S2_W60",
+       "days": 19,
+       "mean": -0.890387171584369,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.007685794055213263,
+       "p_tost": 0.3411540313817058,
+       "p_holm": 0.015371588110426526,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W60",
+       "b": "yards_H1_S2_W120",
+       "days": 19,
+       "mean": -2.266696934028716,
+       "mean_trucks": -0.5263157894736842,
+       "p": 0.0009815397525216685,
+       "p_tost": 0.9965507090570682,
+       "p_holm": 0.0029446192575650057,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W120",
+       "b": "yards_H1_S2_W240",
+       "days": 19,
+       "mean": -1.5101968576320126,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.0006549583433856954,
+       "p_tost": 0.9879598796331681,
+       "p_holm": 0.0026198333735427816,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W240",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.19302519774259302,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.08583095844428565,
+       "p_tost": 0.0010707703530708028,
+       "p_holm": 0.08583095844428565,
+       "verdict": "equivalent"
+      }
+     ],
+     "iv_interaction": {
+      "days": 19,
+      "mean": -0.4791581886595561,
+      "p": 0.04798974969495946,
+      "verdict": "different"
+     }
+    },
+    "saturation": {
+     "yards_H1_S1_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.407894736842104,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_H1_S1_W60": {
+      "peak_storage_mean": 0.5263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 22.45736842105263,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 0.6842105263157895
+     },
+     "yards_H1_S1_W120": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.06105263157895,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S1_Winf": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 185.18315789473684,
+      "max_dwell_max": 498.74,
+      "transfers_mean": 1.736842105263158
+     },
+     "yards_H1_S2_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 9.093684210526316,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.42105263157894735
+     },
+     "yards_H1_S2_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 23.102105263157895,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1
+     },
+     "yards_H1_S2_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 81.27684210526316,
+      "max_dwell_max": 119.74,
+      "transfers_mean": 2
+     },
+     "yards_H1_S2_W240": {
+      "peak_storage_mean": 1.1578947368421053,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 155.47578947368422,
+      "max_dwell_max": 239.56,
+      "transfers_mean": 2.0526315789473686
+     },
+     "yards_H1_S2_Winf": {
+      "peak_storage_mean": 1.2105263157894737,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 208.29263157894738,
+      "max_dwell_max": 563.44,
+      "transfers_mean": 2.1052631578947367
+     },
+     "yards_H1_S3_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_H1_S3_W60": {
+      "peak_storage_mean": 0.631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 27.00842105263158,
+      "max_dwell_max": 59.59,
+      "transfers_mean": 1.2105263157894737
+     },
+     "yards_H1_S3_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.3878947368421,
+      "max_dwell_max": 118.44,
+      "transfers_mean": 1.8421052631578947
+     },
+     "yards_H1_S3_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 207.54684210526315,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_H1_Sinf_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_H1_Sinf_W60": {
+      "peak_storage_mean": 0.7368421052631579,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 33.32684210526316,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1.2105263157894737
+     },
+     "yards_H1_Sinf_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 81.15315789473684,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 2
+     },
+     "yards_H1_Sinf_Winf": {
+      "peak_storage_mean": 1.4736842105263157,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 211.0536842105263,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_H2_S2_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 221.38947368421054,
+      "max_dwell_max": 563.44,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_H2_Sinf_Winf": {
+      "peak_storage_mean": 1.4736842105263157,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 207.50736842105263,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_Hinf_S1_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_S1_W60": {
+      "peak_storage_mean": 0.631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 29.423684210526314,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1.1578947368421053
+     },
+     "yards_Hinf_S1_W120": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 76.30842105263157,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S1_Winf": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 185.95894736842106,
+      "max_dwell_max": 498.74,
+      "transfers_mean": 1.894736842105263
+     },
+     "yards_Hinf_S2_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.407894736842104,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_S2_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 23.631052631578946,
+      "max_dwell_max": 59.69,
+      "transfers_mean": 0.8421052631578947
+     },
+     "yards_Hinf_S2_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 81.07894736842105,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 2.1052631578947367
+     },
+     "yards_Hinf_S2_Winf": {
+      "peak_storage_mean": 1.3157894736842106,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 201.0863157894737,
+      "max_dwell_max": 563.44,
+      "transfers_mean": 2.263157894736842
+     },
+     "yards_Hinf_S3_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.69578947368421,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.47368421052631576
+     },
+     "yards_Hinf_S3_W60": {
+      "peak_storage_mean": 0.631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 29.228947368421053,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1.105263157894737
+     },
+     "yards_Hinf_S3_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 80.64421052631579,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 1.9473684210526316
+     },
+     "yards_Hinf_S3_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 213.74,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3157894736842106
+     },
+     "yards_Hinf_Sinf_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_Sinf_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 23.266315789473683,
+      "max_dwell_max": 59.91,
+      "transfers_mean": 0.7894736842105263
+     },
+     "yards_Hinf_Sinf_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 75.1778947368421,
+      "max_dwell_max": 117.81,
+      "transfers_mean": 1.8421052631578947
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "peak_storage_mean": 1.631578947368421,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 219.89894736842106,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.473684210526316
+     }
+    }
+   },
+   "30": {
+    "map": {
+     "yards_H1_S1_W30": {
+      "days": 19,
+      "delta_cost": -0.6609403939454598,
+      "wins": 5,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.021557223391537678,
+      "p_holm": 0.11083139743231946
+     },
+     "yards_H1_S1_W60": {
+      "days": 19,
+      "delta_cost": -1.935873453290208,
+      "wins": 12,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_H1_S1_W120": {
+      "days": 19,
+      "delta_cost": -3.3292910036427985,
+      "wins": 16,
+      "delta_trucks": -1,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_S1_Winf": {
+      "days": 19,
+      "delta_cost": -4.215414418149727,
+      "wins": 19,
+      "delta_trucks": -1.3157894736842106,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H1_S2_W30": {
+      "days": 19,
+      "delta_cost": -0.6707559873249839,
+      "wins": 5,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.021557223391537678,
+      "p_holm": 0.11083139743231946
+     },
+     "yards_H1_S2_W60": {
+      "days": 19,
+      "delta_cost": -1.62769694394926,
+      "wins": 10,
+      "delta_trucks": -0.47368421052631576,
+      "p": 0.002531016063133932,
+      "p_holm": 0.030372192757607185
+     },
+     "yards_H1_S2_W120": {
+      "days": 19,
+      "delta_cost": -3.203770011098643,
+      "wins": 16,
+      "delta_trucks": -1,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_S2_W240": {
+      "days": 19,
+      "delta_cost": -4.845820058018002,
+      "wins": 17,
+      "delta_trucks": -1.5789473684210527,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.004542314062983584
+     },
+     "yards_H1_S2_Winf": {
+      "days": 19,
+      "delta_cost": -5.223340565360835,
+      "wins": 18,
+      "delta_trucks": -1.6842105263157894,
+      "p": 9.821836310615567e-05,
+      "p_holm": 0.0031429876193969815
+     },
+     "yards_H1_S3_W30": {
+      "days": 19,
+      "delta_cost": -0.6233728376871254,
+      "wins": 4,
+      "delta_trucks": -0.15789473684210525,
+      "p": 0.033944577430914495,
+      "p_holm": 0.11083139743231946
+     },
+     "yards_H1_S3_W60": {
+      "days": 19,
+      "delta_cost": -1.5880391595167123,
+      "wins": 10,
+      "delta_trucks": -0.47368421052631576,
+      "p": 0.002531016063133932,
+      "p_holm": 0.030372192757607185
+     },
+     "yards_H1_S3_W120": {
+      "days": 19,
+      "delta_cost": -3.1011413623726645,
+      "wins": 15,
+      "delta_trucks": -0.9473684210526315,
+      "p": 0.0003274791716928477,
+      "p_holm": 0.005894625090471259
+     },
+     "yards_H1_S3_Winf": {
+      "days": 19,
+      "delta_cost": -5.346059474050222,
+      "wins": 17,
+      "delta_trucks": -1.631578947368421,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.004542314062983584
+     },
+     "yards_H1_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -0.725688047696301,
+      "wins": 5,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.021557223391537678,
+      "p_holm": 0.11083139743231946
+     },
+     "yards_H1_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -1.6687237024536052,
+      "wins": 11,
+      "delta_trucks": -0.5263157894736842,
+      "p": 0.0016728090579254406,
+      "p_holm": 0.02509213586888161
+     },
+     "yards_H1_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -3.267417721276533,
+      "wins": 16,
+      "delta_trucks": -1,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -5.215084732374785,
+      "wins": 17,
+      "delta_trucks": -1.6842105263157894,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.004542314062983584
+     },
+     "yards_H2_S2_Winf": {
+      "days": 19,
+      "delta_cost": -5.267556479973043,
+      "wins": 19,
+      "delta_trucks": -1.736842105263158,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H2_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -5.3849145655100115,
+      "wins": 17,
+      "delta_trucks": -1.6842105263157894,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.004542314062983584
+     },
+     "yards_Hinf_S1_W30": {
+      "days": 19,
+      "delta_cost": -0.8261979960903831,
+      "wins": 6,
+      "delta_trucks": -0.2631578947368421,
+      "p": 0.013853924679039932,
+      "p_holm": 0.11083139743231946
+     },
+     "yards_Hinf_S1_W60": {
+      "days": 19,
+      "delta_cost": -1.7036131705383353,
+      "wins": 11,
+      "delta_trucks": -0.5263157894736842,
+      "p": 0.0016728090579254406,
+      "p_holm": 0.02509213586888161
+     },
+     "yards_Hinf_S1_W120": {
+      "days": 19,
+      "delta_cost": -3.0898752780304206,
+      "wins": 15,
+      "delta_trucks": -0.9473684210526315,
+      "p": 0.0003274791716928477,
+      "p_holm": 0.005894625090471259
+     },
+     "yards_Hinf_S1_Winf": {
+      "days": 19,
+      "delta_cost": -4.188998978844202,
+      "wins": 17,
+      "delta_trucks": -1.2105263157894737,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.004542314062983584
+     },
+     "yards_Hinf_S2_W30": {
+      "days": 19,
+      "delta_cost": -0.7205800899830969,
+      "wins": 6,
+      "delta_trucks": -0.2631578947368421,
+      "p": 0.013853924679039932,
+      "p_holm": 0.11083139743231946
+     },
+     "yards_Hinf_S2_W60": {
+      "days": 19,
+      "delta_cost": -1.6390284201689969,
+      "wins": 11,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.0016728090579254406,
+      "p_holm": 0.02509213586888161
+     },
+     "yards_Hinf_S2_W120": {
+      "days": 19,
+      "delta_cost": -3.389971090272067,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_S2_Winf": {
+      "days": 19,
+      "delta_cost": -5.197606022682243,
+      "wins": 17,
+      "delta_trucks": -1.631578947368421,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.004542314062983584
+     },
+     "yards_Hinf_S3_W30": {
+      "days": 19,
+      "delta_cost": -0.7367636647403154,
+      "wins": 5,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.021557223391537678,
+      "p_holm": 0.11083139743231946
+     },
+     "yards_Hinf_S3_W60": {
+      "days": 19,
+      "delta_cost": -1.844183992340907,
+      "wins": 10,
+      "delta_trucks": -0.5263157894736842,
+      "p": 0.002531016063133932,
+      "p_holm": 0.030372192757607185
+     },
+     "yards_Hinf_S3_W120": {
+      "days": 19,
+      "delta_cost": -3.3159558179394795,
+      "wins": 16,
+      "delta_trucks": -1,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_S3_Winf": {
+      "days": 19,
+      "delta_cost": -5.526514183121828,
+      "wins": 19,
+      "delta_trucks": -1.7894736842105263,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_Hinf_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -0.8724186291989461,
+      "wins": 6,
+      "delta_trucks": -0.2631578947368421,
+      "p": 0.013853924679039932,
+      "p_holm": 0.11083139743231946
+     },
+     "yards_Hinf_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -1.7397114724080243,
+      "wins": 10,
+      "delta_trucks": -0.5789473684210527,
+      "p": 0.002531016063133932,
+      "p_holm": 0.030372192757607185
+     },
+     "yards_Hinf_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -3.3011335730709765,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -5.36279767346331,
+      "wins": 17,
+      "delta_trucks": -1.631578947368421,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.004542314062983584
+     }
+    },
+    "contrasts": {
+     "i_handling": [
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": 0.025734542678592348,
+       "mean_trucks": 0.05263157894736842,
+       "p": 0.7173808884143212,
+       "p_tost": 0.0009679192385072741,
+       "p_holm": 1.0,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": 0.06995045729080104,
+       "mean_trucks": 0.10526315789473684,
+       "p": 0.972125329731665,
+       "p_tost": 0.0010728116544783334,
+       "p_holm": 1.0,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H2_S2_Winf",
+       "days": 19,
+       "mean": -0.044215914612208695,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.19610818609418723,
+       "p_tost": 0.00010620501865924664,
+       "p_holm": 0.7844327443767489,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.14771294108852465,
+       "mean_trucks": 0.05263157894736842,
+       "p": 0.03924327615032667,
+       "p_tost": 0.0004638018636026033,
+       "p_holm": 0.20502283615337644,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": 0.022116892046701933,
+       "mean_trucks": 0.05263157894736842,
+       "p": 0.7536837177261574,
+       "p_tost": 8.363599011023177e-05,
+       "p_holm": 1.0,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_H2_Sinf_Winf",
+       "days": 19,
+       "mean": -0.1698298331352266,
+       "mean_trucks": 0,
+       "p": 0.034170472692229406,
+       "p_tost": 0.001049377332462916,
+       "p_holm": 0.20502283615337644,
+       "verdict": "equivalent"
+      }
+     ],
+     "ii_storage": [
+      {
+       "a": "yards_H1_S1_Winf",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -1.0079261472111083,
+       "mean_trucks": -0.3684210526315789,
+       "p": 0.020412445068359375,
+       "p_tost": 0.7293910980224609,
+       "p_holm": 0.061237335205078125,
+       "verdict": "inconclusive"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H1_S3_Winf",
+       "days": 19,
+       "mean": -0.12271890868938622,
+       "mean_trucks": 0.05263157894736842,
+       "p": 0.8202800980995039,
+       "p_tost": 0.00873425069066385,
+       "p_holm": 1.0,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S3_Winf",
+       "b": "yards_H1_Sinf_Winf",
+       "days": 19,
+       "mean": 0.1309747416754364,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.8260910288588201,
+       "p_tost": 0.00867725701612688,
+       "p_holm": 1.0,
+       "verdict": "equivalent"
+      }
+     ],
+     "iii_dwell": [
+      {
+       "a": "yards_H1_S2_W30",
+       "b": "yards_H1_S2_W60",
+       "days": 19,
+       "mean": -0.956940956624276,
+       "mean_trucks": -0.2631578947368421,
+       "p": 0.007685794055213263,
+       "p_tost": 0.6283371629738006,
+       "p_holm": 0.015371588110426526,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W60",
+       "b": "yards_H1_S2_W120",
+       "days": 19,
+       "mean": -1.5760730671493832,
+       "mean_trucks": -0.5263157894736842,
+       "p": 0.00043777719457466354,
+       "p_tost": 0.9799725686920989,
+       "p_holm": 0.0017511087782986542,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W120",
+       "b": "yards_H1_S2_W240",
+       "days": 19,
+       "mean": -1.6420500469193586,
+       "mean_trucks": -0.5789473684210527,
+       "p": 0.0007126267024380472,
+       "p_tost": 0.9943858795773415,
+       "p_holm": 0.002137880107314142,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W240",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.3775205073428336,
+       "mean_trucks": -0.10526315789473684,
+       "p": 0.07032573521121915,
+       "p_tost": 0.098825736644783,
+       "p_holm": 0.07032573521121915,
+       "verdict": "inconclusive"
+      }
+     ],
+     "iv_interaction": {
+      "days": 19,
+      "mean": -1.2668200650616608,
+      "p": 0.015972137451171875,
+      "verdict": "different"
+     }
+    },
+    "saturation": {
+     "yards_H1_S1_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.277894736842105,
+      "max_dwell_max": 29.33,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_S1_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 29.426315789473684,
+      "max_dwell_max": 59.06,
+      "transfers_mean": 0.7368421052631579
+     },
+     "yards_H1_S1_W120": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 88.55947368421053,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_H1_S1_Winf": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 226.4463157894737,
+      "max_dwell_max": 413.1,
+      "transfers_mean": 2
+     },
+     "yards_H1_S2_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.681052631578948,
+      "max_dwell_max": 29.81,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_S2_W60": {
+      "peak_storage_mean": 0.5263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 25.93,
+      "max_dwell_max": 59.06,
+      "transfers_mean": 0.631578947368421
+     },
+     "yards_H1_S2_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 87.52421052631578,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_H1_S2_W240": {
+      "peak_storage_mean": 1.368421052631579,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 170.17631578947368,
+      "max_dwell_max": 239.68,
+      "transfers_mean": 2.3157894736842106
+     },
+     "yards_H1_S2_Winf": {
+      "peak_storage_mean": 1.5263157894736843,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 248.8057894736842,
+      "max_dwell_max": 450.39,
+      "transfers_mean": 2.6315789473684212
+     },
+     "yards_H1_S3_W30": {
+      "peak_storage_mean": 0.21052631578947367,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 4.49421052631579,
+      "max_dwell_max": 26.23,
+      "transfers_mean": 0.21052631578947367
+     },
+     "yards_H1_S3_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 27.124736842105264,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.7368421052631579
+     },
+     "yards_H1_S3_W120": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 81.46368421052631,
+      "max_dwell_max": 119.33,
+      "transfers_mean": 1.2105263157894737
+     },
+     "yards_H1_S3_Winf": {
+      "peak_storage_mean": 1.736842105263158,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 238.4463157894737,
+      "max_dwell_max": 407.99,
+      "transfers_mean": 2.5789473684210527
+     },
+     "yards_H1_Sinf_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.3,
+      "max_dwell_max": 29.33,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_Sinf_W60": {
+      "peak_storage_mean": 0.5263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 26.30315789473684,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.8421052631578947
+     },
+     "yards_H1_Sinf_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 87.74315789473684,
+      "max_dwell_max": 119.48,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_H1_Sinf_Winf": {
+      "peak_storage_mean": 1.7894736842105263,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 233.69315789473683,
+      "max_dwell_max": 461.02,
+      "transfers_mean": 2.6842105263157894
+     },
+     "yards_H2_S2_Winf": {
+      "peak_storage_mean": 1.631578947368421,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 247.00578947368422,
+      "max_dwell_max": 404.79,
+      "transfers_mean": 2.789473684210526
+     },
+     "yards_H2_Sinf_Winf": {
+      "peak_storage_mean": 1.6842105263157894,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 226.84,
+      "max_dwell_max": 404.29,
+      "transfers_mean": 2.5789473684210527
+     },
+     "yards_Hinf_S1_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.575263157894737,
+      "max_dwell_max": 29.81,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S1_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 29.70157894736842,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.7894736842105263
+     },
+     "yards_Hinf_S1_W120": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.08105263157894,
+      "max_dwell_max": 118.96,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_Hinf_S1_Winf": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 195.36105263157896,
+      "max_dwell_max": 400.01,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S2_W30": {
+      "peak_storage_mean": 0.3157894736842105,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.122105263157895,
+      "max_dwell_max": 29.82,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_S2_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 26.868947368421054,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.8947368421052632
+     },
+     "yards_Hinf_S2_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 89.87421052631579,
+      "max_dwell_max": 119.54,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S2_Winf": {
+      "peak_storage_mean": 1.4736842105263157,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 239.5821052631579,
+      "max_dwell_max": 401.28,
+      "transfers_mean": 2.4210526315789473
+     },
+     "yards_Hinf_S3_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.003684210526316,
+      "max_dwell_max": 29.69,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S3_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 26.572105263157894,
+      "max_dwell_max": 59.06,
+      "transfers_mean": 0.7368421052631579
+     },
+     "yards_Hinf_S3_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 88.70052631578947,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_Hinf_S3_Winf": {
+      "peak_storage_mean": 2.0,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 266.7042105263158,
+      "max_dwell_max": 407.48,
+      "transfers_mean": 2.9473684210526314
+     },
+     "yards_Hinf_Sinf_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.157368421052632,
+      "max_dwell_max": 29.81,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_Sinf_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 25.82894736842105,
+      "max_dwell_max": 59.03,
+      "transfers_mean": 0.9473684210526315
+     },
+     "yards_Hinf_Sinf_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 90.85631578947368,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "peak_storage_mean": 1.736842105263158,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 219.27789473684211,
+      "max_dwell_max": 407.48,
+      "transfers_mean": 2.6842105263157894
+     }
+    }
+   },
+   "50": {
+    "map": {
+     "yards_H1_S1_W30": {
+      "days": 19,
+      "delta_cost": -0.019277163028971023,
+      "wins": 1,
+      "delta_trucks": 0,
+      "p": 0.8272762347653871,
+      "p_holm": 1.0
+     },
+     "yards_H1_S1_W60": {
+      "days": 19,
+      "delta_cost": -0.4727083723186853,
+      "wins": 6,
+      "delta_trucks": -0.2631578947368421,
+      "p": 0.03723091570870273,
+      "p_holm": 0.5956946513392437
+     },
+     "yards_H1_S1_W120": {
+      "days": 19,
+      "delta_cost": -1.132361287853137,
+      "wins": 13,
+      "delta_trucks": -0.7368421052631579,
+      "p": 0.0013538538590129523,
+      "p_holm": 0.024369369462233142
+     },
+     "yards_H1_S1_Winf": {
+      "days": 19,
+      "delta_cost": -1.9818308100072382,
+      "wins": 15,
+      "delta_trucks": -0.9473684210526315,
+      "p": 0.0002513150322900971,
+      "p_holm": 0.0062828758072524275
+     },
+     "yards_H1_S2_W30": {
+      "days": 19,
+      "delta_cost": -0.10184079880215349,
+      "wins": 3,
+      "delta_trucks": -0.05263157894736842,
+      "p": 0.3000897435702769,
+      "p_holm": 1.0
+     },
+     "yards_H1_S2_W60": {
+      "days": 19,
+      "delta_cost": -0.36631167079396937,
+      "wins": 5,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.10131080385615598,
+      "p_holm": 1.0
+     },
+     "yards_H1_S2_W120": {
+      "days": 19,
+      "delta_cost": -1.4478376248416034,
+      "wins": 14,
+      "delta_trucks": -0.7894736842105263,
+      "p": 0.0004229273113302267,
+      "p_holm": 0.00888147353793476
+     },
+     "yards_H1_S2_W240": {
+      "days": 19,
+      "delta_cost": -2.290255067680523,
+      "wins": 16,
+      "delta_trucks": -1.2105263157894737,
+      "p": 0.0001635063314664326,
+      "p_holm": 0.004578177281060113
+     },
+     "yards_H1_S2_Winf": {
+      "days": 19,
+      "delta_cost": -2.8255990826293,
+      "wins": 16,
+      "delta_trucks": -1.4210526315789473,
+      "p": 0.0001635063314664326,
+      "p_holm": 0.004578177281060113
+     },
+     "yards_H1_S3_W30": {
+      "days": 19,
+      "delta_cost": -0.0322654919759492,
+      "wins": 1,
+      "delta_trucks": -0.05263157894736842,
+      "p": 0.8272762347653871,
+      "p_holm": 1.0
+     },
+     "yards_H1_S3_W60": {
+      "days": 19,
+      "delta_cost": -0.31258210717550927,
+      "wins": 4,
+      "delta_trucks": -0.15789473684210525,
+      "p": 0.1871296596401122,
+      "p_holm": 1.0
+     },
+     "yards_H1_S3_W120": {
+      "days": 19,
+      "delta_cost": -1.3464064789736905,
+      "wins": 11,
+      "delta_trucks": -0.7368421052631579,
+      "p": 0.001755181835752071,
+      "p_holm": 0.029838091207785206
+     },
+     "yards_H1_S3_Winf": {
+      "days": 19,
+      "delta_cost": -3.0630738985677692,
+      "wins": 17,
+      "delta_trucks": -1.5789473684210527,
+      "p": 0.0001166146670247956,
+      "p_holm": 0.0033818253437190725
+     },
+     "yards_H1_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -0.06099531525037896,
+      "wins": 2,
+      "delta_trucks": -0.05263157894736842,
+      "p": 0.6323416546813297,
+      "p_holm": 1.0
+     },
+     "yards_H1_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -0.4623100101419618,
+      "wins": 7,
+      "delta_trucks": -0.2631578947368421,
+      "p": 0.04558039700259832,
+      "p_holm": 0.6381255580363765
+     },
+     "yards_H1_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -1.410271891550621,
+      "wins": 14,
+      "delta_trucks": -0.8421052631578947,
+      "p": 0.0004229273113302267,
+      "p_holm": 0.00888147353793476
+     },
+     "yards_H1_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -2.9326913699650903,
+      "wins": 18,
+      "delta_trucks": -1.631578947368421,
+      "p": 9.5367431640625e-06,
+      "p_holm": 0.00030517578125
+     },
+     "yards_H2_S2_Winf": {
+      "days": 19,
+      "delta_cost": -3.1400034157184837,
+      "wins": 17,
+      "delta_trucks": -1.631578947368421,
+      "p": 9.5367431640625e-06,
+      "p_holm": 0.00030517578125
+     },
+     "yards_H2_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -3.4138159649290087,
+      "wins": 18,
+      "delta_trucks": -1.8421052631578947,
+      "p": 3.814697265625e-06,
+      "p_holm": 0.000133514404296875
+     },
+     "yards_Hinf_S1_W30": {
+      "days": 19,
+      "delta_cost": -0.05766546542004083,
+      "wins": 2,
+      "delta_trucks": -0.05263157894736842,
+      "p": 0.6323416546813297,
+      "p_holm": 1.0
+     },
+     "yards_Hinf_S1_W60": {
+      "days": 19,
+      "delta_cost": -0.40608834986381837,
+      "wins": 6,
+      "delta_trucks": -0.2631578947368421,
+      "p": 0.0653325447978833,
+      "p_holm": 0.7839905375745995
+     },
+     "yards_Hinf_S1_W120": {
+      "days": 19,
+      "delta_cost": -1.4804734624667335,
+      "wins": 15,
+      "delta_trucks": -0.7894736842105263,
+      "p": 0.0002995597005840259,
+      "p_holm": 0.006889873113432595
+     },
+     "yards_Hinf_S1_Winf": {
+      "days": 19,
+      "delta_cost": -2.1173216281732823,
+      "wins": 16,
+      "delta_trucks": -0.8947368421052632,
+      "p": 0.0001635063314664326,
+      "p_holm": 0.004578177281060113
+     },
+     "yards_Hinf_S2_W30": {
+      "days": 19,
+      "delta_cost": -0.15169347818118248,
+      "wins": 3,
+      "delta_trucks": -0.10526315789473684,
+      "p": 0.24948114930188053,
+      "p_holm": 1.0
+     },
+     "yards_Hinf_S2_W60": {
+      "days": 19,
+      "delta_cost": -0.43076298292945747,
+      "wins": 5,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.0693203169066093,
+      "p_holm": 0.7839905375745995
+     },
+     "yards_Hinf_S2_W120": {
+      "days": 19,
+      "delta_cost": -1.58490164915913,
+      "wins": 14,
+      "delta_trucks": -0.8421052631578947,
+      "p": 0.00038820574953187426,
+      "p_holm": 0.008540526489701234
+     },
+     "yards_Hinf_S2_Winf": {
+      "days": 19,
+      "delta_cost": -2.9348174449491244,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 9.5367431640625e-06,
+      "p_holm": 0.00030517578125
+     },
+     "yards_Hinf_S3_W30": {
+      "days": 19,
+      "delta_cost": -0.14112217566902957,
+      "wins": 4,
+      "delta_trucks": -0.15789473684210525,
+      "p": 0.1871296596401122,
+      "p_holm": 1.0
+     },
+     "yards_Hinf_S3_W60": {
+      "days": 19,
+      "delta_cost": -0.5189450782352585,
+      "wins": 6,
+      "delta_trucks": -0.3157894736842105,
+      "p": 0.0547554687443204,
+      "p_holm": 0.7118210936761652
+     },
+     "yards_Hinf_S3_W120": {
+      "days": 19,
+      "delta_cost": -1.5851526408561631,
+      "wins": 14,
+      "delta_trucks": -0.8947368421052632,
+      "p": 0.0004229273113302267,
+      "p_holm": 0.00888147353793476
+     },
+     "yards_Hinf_S3_Winf": {
+      "days": 19,
+      "delta_cost": -3.213811271109302,
+      "wins": 18,
+      "delta_trucks": -1.736842105263158,
+      "p": 3.814697265625e-06,
+      "p_holm": 0.000133514404296875
+     },
+     "yards_Hinf_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -0.20093197642248625,
+      "wins": 3,
+      "delta_trucks": -0.10526315789473684,
+      "p": 0.24948114930188053,
+      "p_holm": 1.0
+     },
+     "yards_Hinf_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -0.5181770741254862,
+      "wins": 6,
+      "delta_trucks": -0.2631578947368421,
+      "p": 0.03723091570870273,
+      "p_holm": 0.5956946513392437
+     },
+     "yards_Hinf_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -1.7500830974884727,
+      "wins": 15,
+      "delta_trucks": -1,
+      "p": 0.0002513150322900971,
+      "p_holm": 0.0062828758072524275
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -3.296223136923084,
+      "wins": 18,
+      "delta_trucks": -1.7894736842105263,
+      "p": 3.814697265625e-06,
+      "p_holm": 0.000133514404296875
+     }
+    },
+    "contrasts": {
+     "i_handling": [
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.1092183623198248,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.6529181068049057,
+       "p_tost": 0.005614120422658541,
+       "p_holm": 1.0,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": 0.20518597076935916,
+       "mean_trucks": 0.15789473684210525,
+       "p": 0.2659466461059248,
+       "p_tost": 0.024301006565001997,
+       "p_holm": 0.7978399383177743,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H2_S2_Winf",
+       "days": 19,
+       "mean": -0.314404333089184,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.07070932047868624,
+       "p_tost": 0.14674949645996094,
+       "p_holm": 0.28283728191474494,
+       "verdict": "inconclusive"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.3635317669579936,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.04285796577660062,
+       "p_tost": 0.19773101806640625,
+       "p_holm": 0.2142898288830031,
+       "verdict": "inconclusive"
+      },
+      {
+       "a": "yards_H2_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": 0.11759282800592495,
+       "mean_trucks": 0.05263157894736842,
+       "p": 0.5152778625488281,
+       "p_tost": 0.024682998657226562,
+       "p_holm": 1.0,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_H2_Sinf_Winf",
+       "days": 19,
+       "mean": -0.4811245949639185,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.015972137451171875,
+       "p_tost": 0.5547161102294922,
+       "p_holm": 0.09583282470703125,
+       "verdict": "inconclusive"
+      }
+     ],
+     "ii_storage": [
+      {
+       "a": "yards_H1_S1_Winf",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.8437682726220616,
+       "mean_trucks": -0.47368421052631576,
+       "p": 0.0004207907816778689,
+       "p_tost": 0.9317709890829657,
+       "p_holm": 0.0012623723450336066,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H1_S3_Winf",
+       "days": 19,
+       "mean": -0.23747481593846947,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.044559478759765625,
+       "p_tost": 0.011493682861328125,
+       "p_holm": 0.08911895751953125,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S3_Winf",
+       "b": "yards_H1_Sinf_Winf",
+       "days": 19,
+       "mean": 0.13038252860267885,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.4180412292480469,
+       "p_tost": 0.0070343017578125,
+       "p_holm": 0.4180412292480469,
+       "verdict": "equivalent"
+      }
+     ],
+     "iii_dwell": [
+      {
+       "a": "yards_H1_S2_W30",
+       "b": "yards_H1_S2_W60",
+       "days": 19,
+       "mean": -0.26447087199181585,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.21352435403618242,
+       "p_tost": 0.04665461701925338,
+       "p_holm": 0.21352435403618242,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S2_W60",
+       "b": "yards_H1_S2_W120",
+       "days": 19,
+       "mean": -1.081525954047634,
+       "mean_trucks": -0.5789473684210527,
+       "p": 0.0005312427827532942,
+       "p_tost": 0.986593059658256,
+       "p_holm": 0.0021249711310131767,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W120",
+       "b": "yards_H1_S2_W240",
+       "days": 19,
+       "mean": -0.84241744283892,
+       "mean_trucks": -0.42105263157894735,
+       "p": 0.0022633358728580753,
+       "p_tost": 0.9462847208678731,
+       "p_holm": 0.0067900076185742255,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W240",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.5353440149487764,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.03124928092967935,
+       "p_tost": 0.1773103428977273,
+       "p_holm": 0.0624985618593587,
+       "verdict": "inconclusive"
+      }
+     ],
+     "iv_interaction": {
+      "days": 19,
+      "mean": -0.9612589221345756,
+      "p": 0.004337022178897667,
+      "verdict": "different"
+     }
+    },
+    "saturation": {
+     "yards_H1_S1_W30": {
+      "peak_storage_mean": 0.05263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 1.2647368421052632,
+      "max_dwell_max": 24.03,
+      "transfers_mean": 0.05263157894736842
+     },
+     "yards_H1_S1_W60": {
+      "peak_storage_mean": 0.3157894736842105,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 17.844210526315788,
+      "max_dwell_max": 59.78,
+      "transfers_mean": 0.5263157894736842
+     },
+     "yards_H1_S1_W120": {
+      "peak_storage_mean": 0.6842105263157895,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 73.90157894736842,
+      "max_dwell_max": 119.81,
+      "transfers_mean": 1.3157894736842106
+     },
+     "yards_H1_S1_Winf": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 173.68315789473684,
+      "max_dwell_max": 387.89,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S2_W30": {
+      "peak_storage_mean": 0.10526315789473684,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 2.0494736842105263,
+      "max_dwell_max": 20.91,
+      "transfers_mean": 0.10526315789473684
+     },
+     "yards_H1_S2_W60": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 12.718421052631578,
+      "max_dwell_max": 57.66,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_S2_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.83421052631579,
+      "max_dwell_max": 119.63,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S2_W240": {
+      "peak_storage_mean": 1.368421052631579,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 166.45263157894738,
+      "max_dwell_max": 238.74,
+      "transfers_mean": 2.263157894736842
+     },
+     "yards_H1_S2_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 214.84736842105264,
+      "max_dwell_max": 406.6,
+      "transfers_mean": 2.6315789473684212
+     },
+     "yards_H1_S3_W30": {
+      "peak_storage_mean": 0.05263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 1.2594736842105263,
+      "max_dwell_max": 23.93,
+      "transfers_mean": 0.05263157894736842
+     },
+     "yards_H1_S3_W60": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 10.38,
+      "max_dwell_max": 56.66,
+      "transfers_mean": 0.2631578947368421
+     },
+     "yards_H1_S3_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 63.03,
+      "max_dwell_max": 119.81,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S3_Winf": {
+      "peak_storage_mean": 1.736842105263158,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 250.48,
+      "max_dwell_max": 442.69,
+      "transfers_mean": 3.0526315789473686
+     },
+     "yards_H1_Sinf_W30": {
+      "peak_storage_mean": 0.10526315789473684,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 2.2268421052631577,
+      "max_dwell_max": 21.4,
+      "transfers_mean": 0.10526315789473684
+     },
+     "yards_H1_Sinf_W60": {
+      "peak_storage_mean": 0.42105263157894735,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 17.951052631578946,
+      "max_dwell_max": 59.25,
+      "transfers_mean": 0.631578947368421
+     },
+     "yards_H1_Sinf_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 78.03315789473685,
+      "max_dwell_max": 119.75,
+      "transfers_mean": 1.8421052631578947
+     },
+     "yards_H1_Sinf_Winf": {
+      "peak_storage_mean": 2.1578947368421053,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 244.42684210526315,
+      "max_dwell_max": 405.05,
+      "transfers_mean": 3.4210526315789473
+     },
+     "yards_H2_S2_Winf": {
+      "peak_storage_mean": 1.631578947368421,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 242.77421052631578,
+      "max_dwell_max": 499.25,
+      "transfers_mean": 3.263157894736842
+     },
+     "yards_H2_Sinf_Winf": {
+      "peak_storage_mean": 2.210526315789474,
+      "peak_storage_max": 5.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 271.1584210526316,
+      "max_dwell_max": 507.3,
+      "transfers_mean": 3.8947368421052633
+     },
+     "yards_Hinf_S1_W30": {
+      "peak_storage_mean": 0.10526315789473684,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 2.365263157894737,
+      "max_dwell_max": 24.03,
+      "transfers_mean": 0.10526315789473684
+     },
+     "yards_Hinf_S1_W60": {
+      "peak_storage_mean": 0.3157894736842105,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 14.193684210526316,
+      "max_dwell_max": 57.31,
+      "transfers_mean": 0.47368421052631576
+     },
+     "yards_Hinf_S1_W120": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 83.95421052631579,
+      "max_dwell_max": 118.63,
+      "transfers_mean": 1.4210526315789473
+     },
+     "yards_Hinf_S1_Winf": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 199.16526315789474,
+      "max_dwell_max": 392.48,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S2_W30": {
+      "peak_storage_mean": 0.15789473684210525,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 3.938421052631579,
+      "max_dwell_max": 29.89,
+      "transfers_mean": 0.15789473684210525
+     },
+     "yards_Hinf_S2_W60": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 13.64578947368421,
+      "max_dwell_max": 57.84,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S2_W120": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 78.10421052631578,
+      "max_dwell_max": 119.3,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_Hinf_S2_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 210.86789473684212,
+      "max_dwell_max": 472.04,
+      "transfers_mean": 2.789473684210526
+     },
+     "yards_Hinf_S3_W30": {
+      "peak_storage_mean": 0.21052631578947367,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 5.623157894736842,
+      "max_dwell_max": 29.79,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S3_W60": {
+      "peak_storage_mean": 0.47368421052631576,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 20.34842105263158,
+      "max_dwell_max": 59.2,
+      "transfers_mean": 0.6842105263157895
+     },
+     "yards_Hinf_S3_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 78.68842105263158,
+      "max_dwell_max": 119.64,
+      "transfers_mean": 1.7894736842105263
+     },
+     "yards_Hinf_S3_Winf": {
+      "peak_storage_mean": 2.1578947368421053,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 259.46210526315787,
+      "max_dwell_max": 394.41,
+      "transfers_mean": 3.5789473684210527
+     },
+     "yards_Hinf_Sinf_W30": {
+      "peak_storage_mean": 0.15789473684210525,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 4.33421052631579,
+      "max_dwell_max": 29.66,
+      "transfers_mean": 0.21052631578947367
+     },
+     "yards_Hinf_Sinf_W60": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 16.965263157894736,
+      "max_dwell_max": 58.48,
+      "transfers_mean": 0.5789473684210527
+     },
+     "yards_Hinf_Sinf_W120": {
+      "peak_storage_mean": 1.1578947368421053,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 84.68263157894737,
+      "max_dwell_max": 119.05,
+      "transfers_mean": 1.894736842105263
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "peak_storage_mean": 2.3684210526315788,
+      "peak_storage_max": 5.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 256.34684210526314,
+      "max_dwell_max": 407.54,
+      "transfers_mean": 3.789473684210526
+     }
+    }
+   }
+  }
+ },
+ "pool": {
+  "sizes": {
+   "20": {
+    "map": {
+     "yards_H1_S1_W30": {
+      "days": 19,
+      "delta_cost": -1.4203266044964988,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_S1_W60": {
+      "days": 19,
+      "delta_cost": -2.446362212676989,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_H1_S1_W120": {
+      "days": 19,
+      "delta_cost": -4.471283715489502,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_H1_S1_Winf": {
+      "days": 19,
+      "delta_cost": -5.5901622336296235,
+      "wins": 16,
+      "delta_trucks": -1.2105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_H1_S2_W30": {
+      "days": 19,
+      "delta_cost": -1.4203266044964988,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_S2_W60": {
+      "days": 19,
+      "delta_cost": -2.5615724408517075,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_H1_S2_W120": {
+      "days": 19,
+      "delta_cost": -4.6760911434613295,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_H1_S2_W240": {
+      "days": 19,
+      "delta_cost": -5.941244200586146,
+      "wins": 16,
+      "delta_trucks": -1.3157894736842106,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_H1_S2_Winf": {
+      "days": 19,
+      "delta_cost": -6.38823476035234,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_H1_S3_W30": {
+      "days": 19,
+      "delta_cost": -1.4203266044964988,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_S3_W60": {
+      "days": 19,
+      "delta_cost": -2.5615724408517075,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_H1_S3_W120": {
+      "days": 19,
+      "delta_cost": -4.6760911434613295,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_H1_S3_Winf": {
+      "days": 19,
+      "delta_cost": -6.419531170138467,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_H1_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -1.4203266044964988,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -2.5615724408517075,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_H1_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -4.6760911434613295,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_H1_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -6.426210304522651,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_H2_S2_Winf": {
+      "days": 19,
+      "delta_cost": -6.42224452476948,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_H2_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -6.536051378059841,
+      "wins": 17,
+      "delta_trucks": -1.5263157894736843,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_Hinf_S1_W30": {
+      "days": 19,
+      "delta_cost": -1.4203266044964988,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S1_W60": {
+      "days": 19,
+      "delta_cost": -2.4801188789411803,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_Hinf_S1_W120": {
+      "days": 19,
+      "delta_cost": -4.546709425489217,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_Hinf_S1_Winf": {
+      "days": 19,
+      "delta_cost": -5.5901622336296235,
+      "wins": 16,
+      "delta_trucks": -1.2105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_Hinf_S2_W30": {
+      "days": 19,
+      "delta_cost": -1.4203266044964988,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S2_W60": {
+      "days": 19,
+      "delta_cost": -2.5663861914511026,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_Hinf_S2_W120": {
+      "days": 19,
+      "delta_cost": -4.751516853461044,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_Hinf_S2_Winf": {
+      "days": 19,
+      "delta_cost": -6.42224452476948,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_Hinf_S3_W30": {
+      "days": 19,
+      "delta_cost": -1.4203266044964988,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S3_W60": {
+      "days": 19,
+      "delta_cost": -2.5663861914511026,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_Hinf_S3_W120": {
+      "days": 19,
+      "delta_cost": -4.751516853461044,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_Hinf_S3_Winf": {
+      "days": 19,
+      "delta_cost": -6.451371774801331,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     },
+     "yards_Hinf_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -1.4203266044964988,
+      "wins": 8,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -2.5663861914511026,
+      "wins": 13,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0007368904219375711,
+      "p_holm": 0.011790246751001137
+     },
+     "yards_Hinf_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -4.751516853461044,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.005909992126757958
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -6.536051378059841,
+      "wins": 17,
+      "delta_trucks": -1.5263157894736843,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.005128419103368563
+     }
+    },
+    "contrasts": {
+     "i_handling": [
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.03400976441713987,
+       "mean_trucks": 0,
+       "p": 0.06788915486182899,
+       "p_tost": 2.453094557784451e-05,
+       "p_holm": 0.27155661944731596,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": 0.0,
+       "mean_trucks": 0,
+       "p": null,
+       "p_tost": 6.535922683381509e-06,
+       "p_holm": null,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H2_S2_Winf",
+       "days": 19,
+       "mean": -0.03400976441713987,
+       "mean_trucks": 0,
+       "p": 0.06788915486182899,
+       "p_tost": 2.453094557784451e-05,
+       "p_holm": 0.27155661944731596,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.10984107353719039,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.06788915486182899,
+       "p_tost": 0.0005810122005558478,
+       "p_holm": 0.27155661944731596,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": 0.0,
+       "mean_trucks": 0,
+       "p": null,
+       "p_tost": 6.535922683381509e-06,
+       "p_holm": null,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_H2_Sinf_Winf",
+       "days": 19,
+       "mean": -0.10984107353719039,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.06788915486182899,
+       "p_tost": 0.0005810122005558478,
+       "p_holm": 0.27155661944731596,
+       "verdict": "equivalent"
+      }
+     ],
+     "ii_storage": [
+      {
+       "a": "yards_H1_S1_Winf",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.7980725267227169,
+       "mean_trucks": -0.2631578947368421,
+       "p": 0.007685794055213263,
+       "p_tost": 0.16296188811772744,
+       "p_holm": 0.023057382165639788,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H1_S3_Winf",
+       "days": 19,
+       "mean": -0.03129640978612707,
+       "mean_trucks": 0,
+       "p": 0.10880943004054568,
+       "p_tost": 1.920527592673732e-05,
+       "p_holm": 0.21761886008109135,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S3_Winf",
+       "b": "yards_H1_Sinf_Winf",
+       "days": 19,
+       "mean": -0.006679134384183415,
+       "mean_trucks": 0,
+       "p": 0.31731050786291415,
+       "p_tost": 1.00393280621324e-05,
+       "p_holm": 0.31731050786291415,
+       "verdict": "equivalent"
+      }
+     ],
+     "iii_dwell": [
+      {
+       "a": "yards_H1_S2_W30",
+       "b": "yards_H1_S2_W60",
+       "days": 19,
+       "mean": -1.1412458363552085,
+       "mean_trucks": -0.2631578947368421,
+       "p": 0.0033456181158508813,
+       "p_tost": 0.8958495355691602,
+       "p_holm": 0.0066912362317017625,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W60",
+       "b": "yards_H1_S2_W120",
+       "days": 19,
+       "mean": -2.114518702609622,
+       "mean_trucks": -0.42105263157894735,
+       "p": 0.0009815397525216685,
+       "p_tost": 0.9937917595713228,
+       "p_holm": 0.003926159010086674,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W120",
+       "b": "yards_H1_S2_W240",
+       "days": 19,
+       "mean": -1.2651530571248166,
+       "mean_trucks": -0.21052631578947367,
+       "p": 0.0009815397525216685,
+       "p_tost": 0.9759152885297114,
+       "p_holm": 0.003926159010086674,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W240",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.44699055976619456,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.011718685599768628,
+       "p_tost": 0.045711058007761526,
+       "p_holm": 0.011718685599768628,
+       "verdict": "different"
+      }
+     ],
+     "iv_interaction": {
+      "days": 19,
+      "mean": -0.7208378427183089,
+      "p": 0.007685794055213263,
+      "verdict": "different"
+     }
+    },
+    "saturation": {
+     "yards_H1_S1_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.407894736842104,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_H1_S1_W60": {
+      "peak_storage_mean": 0.5263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 22.45736842105263,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 0.6842105263157895
+     },
+     "yards_H1_S1_W120": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.06105263157895,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S1_Winf": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 185.18315789473684,
+      "max_dwell_max": 498.74,
+      "transfers_mean": 1.736842105263158
+     },
+     "yards_H1_S2_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 9.093684210526316,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.42105263157894735
+     },
+     "yards_H1_S2_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 23.102105263157895,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1
+     },
+     "yards_H1_S2_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 81.27684210526316,
+      "max_dwell_max": 119.74,
+      "transfers_mean": 2
+     },
+     "yards_H1_S2_W240": {
+      "peak_storage_mean": 1.1578947368421053,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 155.47578947368422,
+      "max_dwell_max": 239.56,
+      "transfers_mean": 2.0526315789473686
+     },
+     "yards_H1_S2_Winf": {
+      "peak_storage_mean": 1.2105263157894737,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 208.29263157894738,
+      "max_dwell_max": 563.44,
+      "transfers_mean": 2.1052631578947367
+     },
+     "yards_H1_S3_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_H1_S3_W60": {
+      "peak_storage_mean": 0.631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 27.00842105263158,
+      "max_dwell_max": 59.59,
+      "transfers_mean": 1.2105263157894737
+     },
+     "yards_H1_S3_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.3878947368421,
+      "max_dwell_max": 118.44,
+      "transfers_mean": 1.8421052631578947
+     },
+     "yards_H1_S3_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 207.54684210526315,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_H1_Sinf_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_H1_Sinf_W60": {
+      "peak_storage_mean": 0.7368421052631579,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 33.32684210526316,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1.2105263157894737
+     },
+     "yards_H1_Sinf_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 81.15315789473684,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 2
+     },
+     "yards_H1_Sinf_Winf": {
+      "peak_storage_mean": 1.4736842105263157,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 211.0536842105263,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_H2_S2_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 221.38947368421054,
+      "max_dwell_max": 563.44,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_H2_Sinf_Winf": {
+      "peak_storage_mean": 1.4736842105263157,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 207.50736842105263,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3684210526315788
+     },
+     "yards_Hinf_S1_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_S1_W60": {
+      "peak_storage_mean": 0.631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 29.423684210526314,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1.1578947368421053
+     },
+     "yards_Hinf_S1_W120": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 76.30842105263157,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S1_Winf": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 185.95894736842106,
+      "max_dwell_max": 498.74,
+      "transfers_mean": 1.894736842105263
+     },
+     "yards_Hinf_S2_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.407894736842104,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_S2_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 23.631052631578946,
+      "max_dwell_max": 59.69,
+      "transfers_mean": 0.8421052631578947
+     },
+     "yards_Hinf_S2_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 81.07894736842105,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 2.1052631578947367
+     },
+     "yards_Hinf_S2_Winf": {
+      "peak_storage_mean": 1.3157894736842106,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 201.0863157894737,
+      "max_dwell_max": 563.44,
+      "transfers_mean": 2.263157894736842
+     },
+     "yards_Hinf_S3_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.69578947368421,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.47368421052631576
+     },
+     "yards_Hinf_S3_W60": {
+      "peak_storage_mean": 0.631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 29.228947368421053,
+      "max_dwell_max": 59.92,
+      "transfers_mean": 1.105263157894737
+     },
+     "yards_Hinf_S3_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 80.64421052631579,
+      "max_dwell_max": 119.79,
+      "transfers_mean": 1.9473684210526316
+     },
+     "yards_Hinf_S3_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 213.74,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.3157894736842106
+     },
+     "yards_Hinf_Sinf_W30": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.532105263157895,
+      "max_dwell_max": 29.9,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_Sinf_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 23.266315789473683,
+      "max_dwell_max": 59.91,
+      "transfers_mean": 0.7894736842105263
+     },
+     "yards_Hinf_Sinf_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 75.1778947368421,
+      "max_dwell_max": 117.81,
+      "transfers_mean": 1.8421052631578947
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "peak_storage_mean": 1.631578947368421,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 219.89894736842106,
+      "max_dwell_max": 573.22,
+      "transfers_mean": 2.473684210526316
+     }
+    }
+   },
+   "30": {
+    "map": {
+     "yards_H1_S1_W30": {
+      "days": 19,
+      "delta_cost": -1.081647190891009,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_S1_W60": {
+      "days": 19,
+      "delta_cost": -2.0345603448488383,
+      "wins": 12,
+      "delta_trucks": -0.631578947368421,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_H1_S1_W120": {
+      "days": 19,
+      "delta_cost": -3.479265017332902,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_S1_Winf": {
+      "days": 19,
+      "delta_cost": -4.346573147014645,
+      "wins": 19,
+      "delta_trucks": -1.3157894736842106,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H1_S2_W30": {
+      "days": 19,
+      "delta_cost": -1.081647190891009,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_S2_W60": {
+      "days": 19,
+      "delta_cost": -2.194346167615502,
+      "wins": 12,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_H1_S2_W120": {
+      "days": 19,
+      "delta_cost": -3.665291393816977,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_S2_W240": {
+      "days": 19,
+      "delta_cost": -5.006773294064148,
+      "wins": 17,
+      "delta_trucks": -1.5789473684210527,
+      "p": 0.00014652626009624466,
+      "p_holm": 0.0036631565024061166
+     },
+     "yards_H1_S2_Winf": {
+      "days": 19,
+      "delta_cost": -5.47455129482258,
+      "wins": 19,
+      "delta_trucks": -1.736842105263158,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H1_S3_W30": {
+      "days": 19,
+      "delta_cost": -1.081647190891009,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_S3_W60": {
+      "days": 19,
+      "delta_cost": -2.194346167615502,
+      "wins": 12,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_H1_S3_W120": {
+      "days": 19,
+      "delta_cost": -3.665291393816977,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_S3_Winf": {
+      "days": 19,
+      "delta_cost": -5.575051539638851,
+      "wins": 19,
+      "delta_trucks": -1.7894736842105263,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H1_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -1.081647190891009,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_H1_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -2.194346167615502,
+      "wins": 12,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_H1_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -3.665291393816977,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_H1_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -5.575051539638851,
+      "wins": 19,
+      "delta_trucks": -1.7894736842105263,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H2_S2_Winf": {
+      "days": 19,
+      "delta_cost": -5.511584412618378,
+      "wins": 19,
+      "delta_trucks": -1.736842105263158,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_H2_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -5.608932248809974,
+      "wins": 19,
+      "delta_trucks": -1.7894736842105263,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_Hinf_S1_W30": {
+      "days": 19,
+      "delta_cost": -1.081647190891009,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S1_W60": {
+      "days": 19,
+      "delta_cost": -2.0345603448488383,
+      "wins": 12,
+      "delta_trucks": -0.631578947368421,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_Hinf_S1_W120": {
+      "days": 19,
+      "delta_cost": -3.479265017332902,
+      "wins": 16,
+      "delta_trucks": -1.0526315789473684,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_S1_Winf": {
+      "days": 19,
+      "delta_cost": -4.346573147014645,
+      "wins": 19,
+      "delta_trucks": -1.3157894736842106,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_Hinf_S2_W30": {
+      "days": 19,
+      "delta_cost": -1.081647190891009,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S2_W60": {
+      "days": 19,
+      "delta_cost": -2.194346167615502,
+      "wins": 12,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_Hinf_S2_W120": {
+      "days": 19,
+      "delta_cost": -3.6916146345085923,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_S2_Winf": {
+      "days": 19,
+      "delta_cost": -5.511584412618378,
+      "wins": 19,
+      "delta_trucks": -1.736842105263158,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_Hinf_S3_W30": {
+      "days": 19,
+      "delta_cost": -1.081647190891009,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_S3_W60": {
+      "days": 19,
+      "delta_cost": -2.194346167615502,
+      "wins": 12,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_Hinf_S3_W120": {
+      "days": 19,
+      "delta_cost": -3.6916146345085923,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_S3_Winf": {
+      "days": 19,
+      "delta_cost": -5.608932248809974,
+      "wins": 19,
+      "delta_trucks": -1.7894736842105263,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     },
+     "yards_Hinf_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -1.081647190891009,
+      "wins": 8,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.005859342799884314,
+      "p_holm": 0.046874742399074514
+     },
+     "yards_Hinf_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -2.194346167615502,
+      "wins": 12,
+      "delta_trucks": -0.6842105263157895,
+      "p": 0.0011088607321185246,
+      "p_holm": 0.017741771713896393
+     },
+     "yards_Hinf_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -3.6916146345085923,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.00021888859728733177,
+      "p_holm": 0.0052533263348959625
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -5.608932248809974,
+      "wins": 19,
+      "delta_trucks": -1.7894736842105263,
+      "p": 1.9073486328125e-06,
+      "p_holm": 6.67572021484375e-05
+     }
+    },
+    "contrasts": {
+     "i_handling": [
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.03703311779579789,
+       "mean_trucks": 0,
+       "p": 0.06788915486182899,
+       "p_tost": 2.453094557784451e-05,
+       "p_holm": 0.27155661944731596,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": 0.0,
+       "mean_trucks": 0,
+       "p": null,
+       "p_tost": 6.535922683381509e-06,
+       "p_holm": null,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H2_S2_Winf",
+       "days": 19,
+       "mean": -0.03703311779579789,
+       "mean_trucks": 0,
+       "p": 0.06788915486182899,
+       "p_tost": 2.453094557784451e-05,
+       "p_holm": 0.27155661944731596,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.03388070917112316,
+       "mean_trucks": 0,
+       "p": 0.06788915486182899,
+       "p_tost": 2.453094557784451e-05,
+       "p_holm": 0.27155661944731596,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": 0.0,
+       "mean_trucks": 0,
+       "p": null,
+       "p_tost": 6.535922683381509e-06,
+       "p_holm": null,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_H2_Sinf_Winf",
+       "days": 19,
+       "mean": -0.03388070917112316,
+       "mean_trucks": 0,
+       "p": 0.06788915486182899,
+       "p_tost": 2.453094557784451e-05,
+       "p_holm": 0.27155661944731596,
+       "verdict": "equivalent"
+      }
+     ],
+     "ii_storage": [
+      {
+       "a": "yards_H1_S1_Winf",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -1.1279781478079347,
+       "mean_trucks": -0.42105263157894735,
+       "p": 0.0014737808438751421,
+       "p_tost": 0.8128589770952379,
+       "p_holm": 0.0029475616877502843,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H1_S3_Winf",
+       "days": 19,
+       "mean": -0.1005002448162711,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.027707849358079864,
+       "p_tost": 4.241336316050965e-05,
+       "p_holm": 0.027707849358079864,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S3_Winf",
+       "b": "yards_H1_Sinf_Winf",
+       "days": 19,
+       "mean": 0.0,
+       "mean_trucks": 0,
+       "p": null,
+       "p_tost": 6.535922683381509e-06,
+       "p_holm": null,
+       "verdict": "equivalent"
+      }
+     ],
+     "iii_dwell": [
+      {
+       "a": "yards_H1_S2_W30",
+       "b": "yards_H1_S2_W60",
+       "days": 19,
+       "mean": -1.1126989767244928,
+       "mean_trucks": -0.3157894736842105,
+       "p": 0.005062032126267864,
+       "p_tost": 0.8812902255113112,
+       "p_holm": 0.0066912362317017625,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W60",
+       "b": "yards_H1_S2_W120",
+       "days": 19,
+       "mean": -1.4709452262014753,
+       "mean_trucks": -0.42105263157894735,
+       "p": 0.00043777719457466354,
+       "p_tost": 0.9733453692693413,
+       "p_holm": 0.0017511087782986542,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W120",
+       "b": "yards_H1_S2_W240",
+       "days": 19,
+       "mean": -1.3414819002471707,
+       "mean_trucks": -0.47368421052631576,
+       "p": 0.0006549583433856954,
+       "p_tost": 0.9800330367494169,
+       "p_holm": 0.001964875030157086,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W240",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.467778000758432,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.0033456181158508813,
+       "p_tost": 0.09021557873262459,
+       "p_holm": 0.0066912362317017625,
+       "verdict": "different"
+      }
+     ],
+     "iv_interaction": {
+      "days": 19,
+      "mean": -1.068692569857542,
+      "p": 0.0009815397525216685,
+      "verdict": "different"
+     }
+    },
+    "saturation": {
+     "yards_H1_S1_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.277894736842105,
+      "max_dwell_max": 29.33,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_S1_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 29.426315789473684,
+      "max_dwell_max": 59.06,
+      "transfers_mean": 0.7368421052631579
+     },
+     "yards_H1_S1_W120": {
+      "peak_storage_mean": 0.8421052631578947,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 88.55947368421053,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_H1_S1_Winf": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 226.4463157894737,
+      "max_dwell_max": 413.1,
+      "transfers_mean": 2
+     },
+     "yards_H1_S2_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.681052631578948,
+      "max_dwell_max": 29.81,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_S2_W60": {
+      "peak_storage_mean": 0.5263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 25.93,
+      "max_dwell_max": 59.06,
+      "transfers_mean": 0.631578947368421
+     },
+     "yards_H1_S2_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 87.52421052631578,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_H1_S2_W240": {
+      "peak_storage_mean": 1.368421052631579,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 170.17631578947368,
+      "max_dwell_max": 239.68,
+      "transfers_mean": 2.3157894736842106
+     },
+     "yards_H1_S2_Winf": {
+      "peak_storage_mean": 1.5263157894736843,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 248.8057894736842,
+      "max_dwell_max": 450.39,
+      "transfers_mean": 2.6315789473684212
+     },
+     "yards_H1_S3_W30": {
+      "peak_storage_mean": 0.21052631578947367,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 4.49421052631579,
+      "max_dwell_max": 26.23,
+      "transfers_mean": 0.21052631578947367
+     },
+     "yards_H1_S3_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 27.124736842105264,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.7368421052631579
+     },
+     "yards_H1_S3_W120": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 81.46368421052631,
+      "max_dwell_max": 119.33,
+      "transfers_mean": 1.2105263157894737
+     },
+     "yards_H1_S3_Winf": {
+      "peak_storage_mean": 1.736842105263158,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 238.4463157894737,
+      "max_dwell_max": 407.99,
+      "transfers_mean": 2.5789473684210527
+     },
+     "yards_H1_Sinf_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.3,
+      "max_dwell_max": 29.33,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_Sinf_W60": {
+      "peak_storage_mean": 0.5263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 26.30315789473684,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.8421052631578947
+     },
+     "yards_H1_Sinf_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 87.74315789473684,
+      "max_dwell_max": 119.48,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_H1_Sinf_Winf": {
+      "peak_storage_mean": 1.7894736842105263,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 233.69315789473683,
+      "max_dwell_max": 461.02,
+      "transfers_mean": 2.6842105263157894
+     },
+     "yards_H2_S2_Winf": {
+      "peak_storage_mean": 1.631578947368421,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 247.00578947368422,
+      "max_dwell_max": 404.79,
+      "transfers_mean": 2.789473684210526
+     },
+     "yards_H2_Sinf_Winf": {
+      "peak_storage_mean": 1.6842105263157894,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 226.84,
+      "max_dwell_max": 404.29,
+      "transfers_mean": 2.5789473684210527
+     },
+     "yards_Hinf_S1_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.575263157894737,
+      "max_dwell_max": 29.81,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S1_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 29.70157894736842,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.7894736842105263
+     },
+     "yards_Hinf_S1_W120": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.08105263157894,
+      "max_dwell_max": 118.96,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_Hinf_S1_Winf": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 195.36105263157896,
+      "max_dwell_max": 400.01,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S2_W30": {
+      "peak_storage_mean": 0.3157894736842105,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 8.122105263157895,
+      "max_dwell_max": 29.82,
+      "transfers_mean": 0.3684210526315789
+     },
+     "yards_Hinf_S2_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 26.868947368421054,
+      "max_dwell_max": 59.0,
+      "transfers_mean": 0.8947368421052632
+     },
+     "yards_Hinf_S2_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 89.87421052631579,
+      "max_dwell_max": 119.54,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S2_Winf": {
+      "peak_storage_mean": 1.4736842105263157,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 239.5821052631579,
+      "max_dwell_max": 401.28,
+      "transfers_mean": 2.4210526315789473
+     },
+     "yards_Hinf_S3_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.003684210526316,
+      "max_dwell_max": 29.69,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S3_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 26.572105263157894,
+      "max_dwell_max": 59.06,
+      "transfers_mean": 0.7368421052631579
+     },
+     "yards_Hinf_S3_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 88.70052631578947,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.4736842105263157
+     },
+     "yards_Hinf_S3_Winf": {
+      "peak_storage_mean": 2.0,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 266.7042105263158,
+      "max_dwell_max": 407.48,
+      "transfers_mean": 2.9473684210526314
+     },
+     "yards_Hinf_Sinf_W30": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 6.157368421052632,
+      "max_dwell_max": 29.81,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_Sinf_W60": {
+      "peak_storage_mean": 0.5789473684210527,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 25.82894736842105,
+      "max_dwell_max": 59.03,
+      "transfers_mean": 0.9473684210526315
+     },
+     "yards_Hinf_Sinf_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 90.85631578947368,
+      "max_dwell_max": 118.81,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "peak_storage_mean": 1.736842105263158,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 219.27789473684211,
+      "max_dwell_max": 407.48,
+      "transfers_mean": 2.6842105263157894
+     }
+    }
+   },
+   "50": {
+    "map": {
+     "yards_H1_S1_W30": {
+      "days": 19,
+      "delta_cost": -0.28365478953909595,
+      "wins": 6,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.017845950058402206,
+      "p_holm": 0.14276760046721765
+     },
+     "yards_H1_S1_W60": {
+      "days": 19,
+      "delta_cost": -0.7094792808089802,
+      "wins": 9,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.0034552149039073997,
+      "p_holm": 0.044917793750796194
+     },
+     "yards_H1_S1_W120": {
+      "days": 19,
+      "delta_cost": -1.9628513786473123,
+      "wins": 16,
+      "delta_trucks": -0.8947368421052632,
+      "p": 0.0001757662842537316,
+      "p_holm": 0.004218390822089559
+     },
+     "yards_H1_S1_Winf": {
+      "days": 19,
+      "delta_cost": -2.6249935536532,
+      "wins": 17,
+      "delta_trucks": -1.2105263157894737,
+      "p": 0.0001166146670247956,
+      "p_holm": 0.0034984400107438683
+     },
+     "yards_H1_S2_W30": {
+      "days": 19,
+      "delta_cost": -0.28365478953909595,
+      "wins": 6,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.017845950058402206,
+      "p_holm": 0.14276760046721765
+     },
+     "yards_H1_S2_W60": {
+      "days": 19,
+      "delta_cost": -0.7094792808089802,
+      "wins": 9,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.0034552149039073997,
+      "p_holm": 0.044917793750796194
+     },
+     "yards_H1_S2_W120": {
+      "days": 19,
+      "delta_cost": -2.1725336339291776,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.0001757662842537316,
+      "p_holm": 0.004218390822089559
+     },
+     "yards_H1_S2_W240": {
+      "days": 19,
+      "delta_cost": -3.1959779073467427,
+      "wins": 17,
+      "delta_trucks": -1.4736842105263157,
+      "p": 0.0001166146670247956,
+      "p_holm": 0.0034984400107438683
+     },
+     "yards_H1_S2_Winf": {
+      "days": 19,
+      "delta_cost": -3.5695887584692834,
+      "wins": 17,
+      "delta_trucks": -1.736842105263158,
+      "p": 0.0001166146670247956,
+      "p_holm": 0.0034984400107438683
+     },
+     "yards_H1_S3_W30": {
+      "days": 19,
+      "delta_cost": -0.28365478953909595,
+      "wins": 6,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.017845950058402206,
+      "p_holm": 0.14276760046721765
+     },
+     "yards_H1_S3_W60": {
+      "days": 19,
+      "delta_cost": -0.7094792808089802,
+      "wins": 9,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.0034552149039073997,
+      "p_holm": 0.044917793750796194
+     },
+     "yards_H1_S3_W120": {
+      "days": 19,
+      "delta_cost": -2.1725336339291776,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.0001757662842537316,
+      "p_holm": 0.004218390822089559
+     },
+     "yards_H1_S3_Winf": {
+      "days": 19,
+      "delta_cost": -3.593601422820142,
+      "wins": 18,
+      "delta_trucks": -1.7894736842105263,
+      "p": 9.821836310615567e-05,
+      "p_holm": 0.0034376427087154486
+     },
+     "yards_H1_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -0.28365478953909595,
+      "wins": 6,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.017845950058402206,
+      "p_holm": 0.14276760046721765
+     },
+     "yards_H1_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -0.7094792808089802,
+      "wins": 9,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.0034552149039073997,
+      "p_holm": 0.044917793750796194
+     },
+     "yards_H1_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -2.1725336339291776,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.0001757662842537316,
+      "p_holm": 0.004218390822089559
+     },
+     "yards_H1_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -3.6325039344576044,
+      "wins": 18,
+      "delta_trucks": -1.8421052631578947,
+      "p": 9.821836310615567e-05,
+      "p_holm": 0.0034376427087154486
+     },
+     "yards_H2_S2_Winf": {
+      "days": 19,
+      "delta_cost": -3.5938424044345223,
+      "wins": 17,
+      "delta_trucks": -1.7894736842105263,
+      "p": 0.0001166146670247956,
+      "p_holm": 0.0034984400107438683
+     },
+     "yards_H2_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -3.8418770106193025,
+      "wins": 18,
+      "delta_trucks": -1.9473684210526316,
+      "p": 9.821836310615567e-05,
+      "p_holm": 0.0034376427087154486
+     },
+     "yards_Hinf_S1_W30": {
+      "days": 19,
+      "delta_cost": -0.3059517056484072,
+      "wins": 6,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.017845950058402206,
+      "p_holm": 0.14276760046721765
+     },
+     "yards_Hinf_S1_W60": {
+      "days": 19,
+      "delta_cost": -0.7094792808089802,
+      "wins": 9,
+      "delta_trucks": -0.3684210526315789,
+      "p": 0.0034552149039073997,
+      "p_holm": 0.044917793750796194
+     },
+     "yards_Hinf_S1_W120": {
+      "days": 19,
+      "delta_cost": -1.9628513786473123,
+      "wins": 16,
+      "delta_trucks": -0.8947368421052632,
+      "p": 0.0001757662842537316,
+      "p_holm": 0.004218390822089559
+     },
+     "yards_Hinf_S1_Winf": {
+      "days": 19,
+      "delta_cost": -2.6249935536532,
+      "wins": 17,
+      "delta_trucks": -1.2105263157894737,
+      "p": 0.0001166146670247956,
+      "p_holm": 0.0034984400107438683
+     },
+     "yards_Hinf_S2_W30": {
+      "days": 19,
+      "delta_cost": -0.3059517056484072,
+      "wins": 6,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.017845950058402206,
+      "p_holm": 0.14276760046721765
+     },
+     "yards_Hinf_S2_W60": {
+      "days": 19,
+      "delta_cost": -0.7269717789993261,
+      "wins": 10,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.0022195463283960775,
+      "p_holm": 0.03551274125433724
+     },
+     "yards_Hinf_S2_W120": {
+      "days": 19,
+      "delta_cost": -2.2214794578629076,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.0001757662842537316,
+      "p_holm": 0.004218390822089559
+     },
+     "yards_Hinf_S2_Winf": {
+      "days": 19,
+      "delta_cost": -3.5938424044345223,
+      "wins": 17,
+      "delta_trucks": -1.7894736842105263,
+      "p": 0.0001166146670247956,
+      "p_holm": 0.0034984400107438683
+     },
+     "yards_Hinf_S3_W30": {
+      "days": 19,
+      "delta_cost": -0.3059517056484072,
+      "wins": 6,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.017845950058402206,
+      "p_holm": 0.14276760046721765
+     },
+     "yards_Hinf_S3_W60": {
+      "days": 19,
+      "delta_cost": -0.7269717789993261,
+      "wins": 10,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.0022195463283960775,
+      "p_holm": 0.03551274125433724
+     },
+     "yards_Hinf_S3_W120": {
+      "days": 19,
+      "delta_cost": -2.2214794578629076,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.0001757662842537316,
+      "p_holm": 0.004218390822089559
+     },
+     "yards_Hinf_S3_Winf": {
+      "days": 19,
+      "delta_cost": -3.7918646570363923,
+      "wins": 18,
+      "delta_trucks": -1.9473684210526316,
+      "p": 9.821836310615567e-05,
+      "p_holm": 0.0034376427087154486
+     },
+     "yards_Hinf_Sinf_W30": {
+      "days": 19,
+      "delta_cost": -0.3059517056484072,
+      "wins": 6,
+      "delta_trucks": -0.21052631578947367,
+      "p": 0.017845950058402206,
+      "p_holm": 0.14276760046721765
+     },
+     "yards_Hinf_Sinf_W60": {
+      "days": 19,
+      "delta_cost": -0.7269717789993261,
+      "wins": 10,
+      "delta_trucks": -0.42105263157894735,
+      "p": 0.0022195463283960775,
+      "p_holm": 0.03551274125433724
+     },
+     "yards_Hinf_Sinf_W120": {
+      "days": 19,
+      "delta_cost": -2.2214794578629076,
+      "wins": 16,
+      "delta_trucks": -1.105263157894737,
+      "p": 0.0001757662842537316,
+      "p_holm": 0.004218390822089559
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "days": 19,
+      "delta_cost": -3.8418770106193025,
+      "wins": 18,
+      "delta_trucks": -1.9473684210526316,
+      "p": 9.821836310615567e-05,
+      "p_holm": 0.0034376427087154486
+     }
+    },
+    "contrasts": {
+     "i_handling": [
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": -0.02425364596523898,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.06788915486182899,
+       "p_tost": 2.453094557784451e-05,
+       "p_holm": 0.13577830972365798,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_S2_Winf",
+       "b": "yards_Hinf_S2_Winf",
+       "days": 19,
+       "mean": 0.0,
+       "mean_trucks": 0,
+       "p": null,
+       "p_tost": 6.535922683381509e-06,
+       "p_holm": null,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H2_S2_Winf",
+       "days": 19,
+       "mean": -0.02425364596523898,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.06788915486182899,
+       "p_tost": 2.453094557784451e-05,
+       "p_holm": 0.13577830972365798,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": -0.20937307616169784,
+       "mean_trucks": -0.10526315789473684,
+       "p": 0.017960477526078766,
+       "p_tost": 0.0027361112484447685,
+       "p_holm": 0.07184191010431507,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H2_Sinf_Winf",
+       "b": "yards_Hinf_Sinf_Winf",
+       "days": 19,
+       "mean": 0.0,
+       "mean_trucks": 0,
+       "p": null,
+       "p_tost": 6.535922683381509e-06,
+       "p_holm": null,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_Sinf_Winf",
+       "b": "yards_H2_Sinf_Winf",
+       "days": 19,
+       "mean": -0.20937307616169784,
+       "mean_trucks": -0.10526315789473684,
+       "p": 0.017960477526078766,
+       "p_tost": 0.0027361112484447685,
+       "p_holm": 0.07184191010431507,
+       "verdict": "equivalent"
+      }
+     ],
+     "ii_storage": [
+      {
+       "a": "yards_H1_S1_Winf",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.9445952048160834,
+       "mean_trucks": -0.5263157894736842,
+       "p": 0.002217721464237049,
+       "p_tost": 0.8876580180449534,
+       "p_holm": 0.006653164392711148,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_Winf",
+       "b": "yards_H1_S3_Winf",
+       "days": 19,
+       "mean": -0.024012664350858692,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.31731050786291415,
+       "p_tost": 1.00393280621324e-05,
+       "p_holm": 0.6346210157258283,
+       "verdict": "equivalent"
+      },
+      {
+       "a": "yards_H1_S3_Winf",
+       "b": "yards_H1_Sinf_Winf",
+       "days": 19,
+       "mean": -0.03890251163746253,
+       "mean_trucks": -0.05263157894736842,
+       "p": 0.31731050786291415,
+       "p_tost": 1.2262343857586724e-05,
+       "p_holm": 0.6346210157258283,
+       "verdict": "equivalent"
+      }
+     ],
+     "iii_dwell": [
+      {
+       "a": "yards_H1_S2_W30",
+       "b": "yards_H1_S2_W60",
+       "days": 19,
+       "mean": -0.4258244912698842,
+       "mean_trucks": -0.15789473684210525,
+       "p": 0.017960477526078766,
+       "p_tost": 0.09934942601214547,
+       "p_holm": 0.03592095505215753,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W60",
+       "b": "yards_H1_S2_W120",
+       "days": 19,
+       "mean": -1.4630543531201974,
+       "mean_trucks": -0.7368421052631579,
+       "p": 0.0006549583433856954,
+       "p_tost": 0.9990382251218239,
+       "p_holm": 0.001964875030157086,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W120",
+       "b": "yards_H1_S2_W240",
+       "days": 19,
+       "mean": -1.0234442734175655,
+       "mean_trucks": -0.3684210526315789,
+       "p": 0.00043777719457466354,
+       "p_tost": 0.9779386981674923,
+       "p_holm": 0.0017511087782986542,
+       "verdict": "different"
+      },
+      {
+       "a": "yards_H1_S2_W240",
+       "b": "yards_H1_S2_Winf",
+       "days": 19,
+       "mean": -0.3736108511225405,
+       "mean_trucks": -0.2631578947368421,
+       "p": 0.027707849358079864,
+       "p_tost": 0.3379293240665991,
+       "p_holm": 0.03592095505215753,
+       "verdict": "different"
+      }
+     ],
+     "iv_interaction": {
+      "days": 19,
+      "mean": -1.0075103808044048,
+      "p": 0.0014737808438751421,
+      "verdict": "different"
+     }
+    },
+    "saturation": {
+     "yards_H1_S1_W30": {
+      "peak_storage_mean": 0.05263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 1.2647368421052632,
+      "max_dwell_max": 24.03,
+      "transfers_mean": 0.05263157894736842
+     },
+     "yards_H1_S1_W60": {
+      "peak_storage_mean": 0.3157894736842105,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 17.844210526315788,
+      "max_dwell_max": 59.78,
+      "transfers_mean": 0.5263157894736842
+     },
+     "yards_H1_S1_W120": {
+      "peak_storage_mean": 0.6842105263157895,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 73.90157894736842,
+      "max_dwell_max": 119.81,
+      "transfers_mean": 1.3157894736842106
+     },
+     "yards_H1_S1_Winf": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 173.68315789473684,
+      "max_dwell_max": 387.89,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S2_W30": {
+      "peak_storage_mean": 0.10526315789473684,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 2.0494736842105263,
+      "max_dwell_max": 20.91,
+      "transfers_mean": 0.10526315789473684
+     },
+     "yards_H1_S2_W60": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 12.718421052631578,
+      "max_dwell_max": 57.66,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_H1_S2_W120": {
+      "peak_storage_mean": 1.0526315789473684,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 80.83421052631579,
+      "max_dwell_max": 119.63,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S2_W240": {
+      "peak_storage_mean": 1.368421052631579,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 166.45263157894738,
+      "max_dwell_max": 238.74,
+      "transfers_mean": 2.263157894736842
+     },
+     "yards_H1_S2_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 214.84736842105264,
+      "max_dwell_max": 406.6,
+      "transfers_mean": 2.6315789473684212
+     },
+     "yards_H1_S3_W30": {
+      "peak_storage_mean": 0.05263157894736842,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 1.2594736842105263,
+      "max_dwell_max": 23.93,
+      "transfers_mean": 0.05263157894736842
+     },
+     "yards_H1_S3_W60": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 10.38,
+      "max_dwell_max": 56.66,
+      "transfers_mean": 0.2631578947368421
+     },
+     "yards_H1_S3_W120": {
+      "peak_storage_mean": 1.0,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 63.03,
+      "max_dwell_max": 119.81,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_H1_S3_Winf": {
+      "peak_storage_mean": 1.736842105263158,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 250.48,
+      "max_dwell_max": 442.69,
+      "transfers_mean": 3.0526315789473686
+     },
+     "yards_H1_Sinf_W30": {
+      "peak_storage_mean": 0.10526315789473684,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 2.2268421052631577,
+      "max_dwell_max": 21.4,
+      "transfers_mean": 0.10526315789473684
+     },
+     "yards_H1_Sinf_W60": {
+      "peak_storage_mean": 0.42105263157894735,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 17.951052631578946,
+      "max_dwell_max": 59.25,
+      "transfers_mean": 0.631578947368421
+     },
+     "yards_H1_Sinf_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 78.03315789473685,
+      "max_dwell_max": 119.75,
+      "transfers_mean": 1.8421052631578947
+     },
+     "yards_H1_Sinf_Winf": {
+      "peak_storage_mean": 2.1578947368421053,
+      "peak_storage_max": 4.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 244.42684210526315,
+      "max_dwell_max": 405.05,
+      "transfers_mean": 3.4210526315789473
+     },
+     "yards_H2_S2_Winf": {
+      "peak_storage_mean": 1.631578947368421,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 242.77421052631578,
+      "max_dwell_max": 499.25,
+      "transfers_mean": 3.263157894736842
+     },
+     "yards_H2_Sinf_Winf": {
+      "peak_storage_mean": 2.210526315789474,
+      "peak_storage_max": 5.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 271.1584210526316,
+      "max_dwell_max": 507.3,
+      "transfers_mean": 3.8947368421052633
+     },
+     "yards_Hinf_S1_W30": {
+      "peak_storage_mean": 0.10526315789473684,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 2.365263157894737,
+      "max_dwell_max": 24.03,
+      "transfers_mean": 0.10526315789473684
+     },
+     "yards_Hinf_S1_W60": {
+      "peak_storage_mean": 0.3157894736842105,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 14.193684210526316,
+      "max_dwell_max": 57.31,
+      "transfers_mean": 0.47368421052631576
+     },
+     "yards_Hinf_S1_W120": {
+      "peak_storage_mean": 0.7894736842105263,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 83.95421052631579,
+      "max_dwell_max": 118.63,
+      "transfers_mean": 1.4210526315789473
+     },
+     "yards_Hinf_S1_Winf": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 199.16526315789474,
+      "max_dwell_max": 392.48,
+      "transfers_mean": 1.5789473684210527
+     },
+     "yards_Hinf_S2_W30": {
+      "peak_storage_mean": 0.15789473684210525,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 3.938421052631579,
+      "max_dwell_max": 29.89,
+      "transfers_mean": 0.15789473684210525
+     },
+     "yards_Hinf_S2_W60": {
+      "peak_storage_mean": 0.2631578947368421,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 13.64578947368421,
+      "max_dwell_max": 57.84,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S2_W120": {
+      "peak_storage_mean": 0.8947368421052632,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 78.10421052631578,
+      "max_dwell_max": 119.3,
+      "transfers_mean": 1.6842105263157894
+     },
+     "yards_Hinf_S2_Winf": {
+      "peak_storage_mean": 1.4210526315789473,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 210.86789473684212,
+      "max_dwell_max": 472.04,
+      "transfers_mean": 2.789473684210526
+     },
+     "yards_Hinf_S3_W30": {
+      "peak_storage_mean": 0.21052631578947367,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 5.623157894736842,
+      "max_dwell_max": 29.79,
+      "transfers_mean": 0.3157894736842105
+     },
+     "yards_Hinf_S3_W60": {
+      "peak_storage_mean": 0.47368421052631576,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 20.34842105263158,
+      "max_dwell_max": 59.2,
+      "transfers_mean": 0.6842105263157895
+     },
+     "yards_Hinf_S3_W120": {
+      "peak_storage_mean": 0.9473684210526315,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 78.68842105263158,
+      "max_dwell_max": 119.64,
+      "transfers_mean": 1.7894736842105263
+     },
+     "yards_Hinf_S3_Winf": {
+      "peak_storage_mean": 2.1578947368421053,
+      "peak_storage_max": 3.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 259.46210526315787,
+      "max_dwell_max": 394.41,
+      "transfers_mean": 3.5789473684210527
+     },
+     "yards_Hinf_Sinf_W30": {
+      "peak_storage_mean": 0.15789473684210525,
+      "peak_storage_max": 1.0,
+      "peak_handling_max": 1,
+      "max_dwell_mean": 4.33421052631579,
+      "max_dwell_max": 29.66,
+      "transfers_mean": 0.21052631578947367
+     },
+     "yards_Hinf_Sinf_W60": {
+      "peak_storage_mean": 0.3684210526315789,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 16.965263157894736,
+      "max_dwell_max": 58.48,
+      "transfers_mean": 0.5789473684210527
+     },
+     "yards_Hinf_Sinf_W120": {
+      "peak_storage_mean": 1.1578947368421053,
+      "peak_storage_max": 2.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 84.68263157894737,
+      "max_dwell_max": 119.05,
+      "transfers_mean": 1.894736842105263
+     },
+     "yards_Hinf_Sinf_Winf": {
+      "peak_storage_mean": 2.3684210526315788,
+      "peak_storage_max": 5.0,
+      "peak_handling_max": 2,
+      "max_dwell_mean": 256.34684210526314,
+      "max_dwell_max": 407.54,
+      "transfers_mean": 3.789473684210526
+     }
+    }
+   }
+  }
+ }
+}

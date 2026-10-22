@@ -1,0 +1,1 @@
+{"cost": 950.45, "distance": 930.8, "vehicles": 2, "transfers": 1, "feasible": true, "unassigned": 0, "it": 11789, "t_best": 29.69, "violations": [], "kind": "lyuyu", "instance": "PDPT-R12-K3-T3-Q100-7", "set": "PDPT", "seed": 2, "tl": 120.0, "wall": 120.0, "argv": ["lyuyu", "ext/lyuyu/PDP-T/PDPT-R12-K3-T3/PDPT-R12-K3-T3-Q100-7.txt", "2", "120"]}

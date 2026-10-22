@@ -1,0 +1,191 @@
+{
+ "counts": {
+  "port7:checked": 2220,
+  "port7:with-transfers": 1308,
+  "port:checked": 200,
+  "port:with-transfers": 76,
+  "sampaio:checked": 1800,
+  "sampaio:with-transfers": 1793,
+  "sampaio-integer:checked": 720,
+  "sampaio:violations": 56
+ },
+ "violations": {
+  "results/jobs/sampaio_ext-sampaio-100-json-180_long-81_0_900.json": [
+   "vehicle d4_5 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_mixed-80_0_900.json": [
+   "vehicle d4_9 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_mixed-81_0_900.json": [
+   "vehicle d2_2 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_mixed-82_0_900.json": [
+   "vehicle d2_6 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_mixed-83_0_900.json": [
+   "vehicle d2_0 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_mixed-84_0_900.json": [
+   "vehicle d2_4 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_mixed-86_0_900.json": [
+   "vehicle d3_1 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_mixed-87_0_900.json": [
+   "vehicle d1_2 visits a transfer point more than once (single-visit convention)",
+   "vehicle d1_4 visits a transfer point more than once (single-visit convention)",
+   "vehicle d2_3 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_short-84_0_900.json": [
+   "vehicle d4_5 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_short-86_0_900.json": [
+   "vehicle d1_6 visits a transfer point more than once (single-visit convention)",
+   "vehicle d2_4 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_short-87_0_900.json": [
+   "vehicle d2_4 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-180_short-89_0_900.json": [
+   "vehicle d3_2 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-240_long-81_0_900.json": [
+   "vehicle d1_2 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-240_long-82_0_900.json": [
+   "vehicle d2_4 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-240_long-85_0_900.json": [
+   "vehicle d2_8 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-240_long-89_0_900.json": [
+   "vehicle d1_5 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-240_mixed-85_0_900.json": [
+   "vehicle d4_3 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-240_mixed-86_0_900.json": [
+   "vehicle d3_0 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-240_mixed-87_0_900.json": [
+   "vehicle d1_3 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-240_short-80_0_900.json": [
+   "vehicle d1_1 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-240_short-84_0_900.json": [
+   "vehicle d2_0 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-240_short-89_0_900.json": [
+   "vehicle d2_4 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-300_long-83_0_900.json": [
+   "vehicle d4_8 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-300_long-85_0_900.json": [
+   "vehicle d2_9 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-300_mixed-81_0_900.json": [
+   "vehicle d3_9 visits a transfer point more than once (single-visit convention)",
+   "vehicle d4_8 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-300_mixed-84_0_900.json": [
+   "vehicle d1_0 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-300_mixed-87_0_900.json": [
+   "vehicle d2_4 visits a transfer point more than once (single-visit convention)",
+   "vehicle d3_4 visits a transfer point more than once (single-visit convention)",
+   "vehicle d4_1 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-300_mixed-89_0_900.json": [
+   "vehicle d2_2 visits a transfer point more than once (single-visit convention)",
+   "vehicle d2_3 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-300_short-85_0_900.json": [
+   "vehicle d1_3 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-100-json-300_short-87_0_900.json": [
+   "vehicle d4_6 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-50-50-json-50-50-json-4T_rpk-180_short-1_0_300.json": [
+   "vehicle d4_1 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-50-50-json-50-50-json-4T_rpk-240_long-3_0_300.json": [
+   "vehicle d4_5 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-50-50-json-50-50-json-4T_rpk-240_mixed-4_0_300.json": [
+   "vehicle d2_0 visits a transfer point more than once (single-visit convention)",
+   "vehicle d3_2 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-50-50-json-50-50-json-4T_rpk-240_short-8_0_300.json": [
+   "vehicle d3_0 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-50-50-json-50-50-json-5T_rpk-180_mixed-9_0_300.json": [
+   "vehicle d1_4 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-50-50-json-50-50-json-5T_rpk-240_long-0_0_300.json": [
+   "vehicle d1_0 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-50-50-json-50-50-json-5T_rpk-240_long-3_0_300.json": [
+   "vehicle d3_5 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-50-50-json-50-50-json-5T_rpk-240_long-7_0_300.json": [
+   "vehicle d4_4 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-50-50-json-50-50-json-5T_rpk-240_mixed-8_0_300.json": [
+   "vehicle d2_0 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-180_long-37_0_600.json": [
+   "vehicle d1_1 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-180_long-39_0_600.json": [
+   "vehicle d1_3 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-180_mixed-30_0_600.json": [
+   "vehicle d2_0 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-180_mixed-36_0_600.json": [
+   "vehicle d4_5 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-180_mixed-37_0_600.json": [
+   "vehicle d3_1 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-180_short-33_0_600.json": [
+   "vehicle d2_1 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-180_short-34_0_600.json": [
+   "vehicle d3_4 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-240_long-30_0_600.json": [
+   "vehicle d2_1 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-240_long-38_0_600.json": [
+   "vehicle d2_6 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-240_long-39_0_600.json": [
+   "vehicle d1_3 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-240_mixed-31_0_600.json": [
+   "vehicle d2_4 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-240_mixed-36_0_600.json": [
+   "vehicle d3_1 visits a transfer point more than once (single-visit convention)",
+   "vehicle d4_3 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-240_short-34_0_600.json": [
+   "vehicle d1_1 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-300_long-31_0_600.json": [
+   "vehicle d4_3 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-300_mixed-39_0_600.json": [
+   "vehicle d3_9 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-300_short-33_0_600.json": [
+   "vehicle d3_1 visits a transfer point more than once (single-visit convention)"
+  ],
+  "results/jobs/sampaio_ext-sampaio-75-75-json-300_short-38_0_600.json": [
+   "vehicle d4_0 visits a transfer point more than once (single-visit convention)"
+  ]
+ }
+}

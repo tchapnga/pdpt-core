@@ -1,0 +1,1 @@
+{"cost": 405.41, "distance": 405.41, "vehicles": 2, "transfers": 2, "feasible": true, "unassigned": 0, "it": 19100, "t_best": 0.8, "violations": [], "kind": "lyuyu", "instance": "4R-4K-4T-300L-0", "set": "PDPTW-T", "seed": 1, "tl": 60.0, "wall": 60.0, "argv": ["lyuyu", "ext/lyuyu/PDPTW-T/4R4K4T/4R-4K-4T-300L-0.txt", "1", "60"]}

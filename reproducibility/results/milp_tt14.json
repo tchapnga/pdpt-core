@@ -1,0 +1,178 @@
+[
+ {
+  "instance": "E1",
+  "status": "Optimal",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 61446.2,
+  "gap": 0.0,
+  "time": 16.8,
+  "vars": 561,
+  "rows": 1837
+ },
+ {
+  "instance": "E2",
+  "status": "Optimal",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 46566.2,
+  "gap": 0.0,
+  "time": 14.1,
+  "vars": 564,
+  "rows": 1849
+ },
+ {
+  "instance": "E3",
+  "status": "Optimal",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 60166.2,
+  "gap": 0.0,
+  "time": 17.8,
+  "vars": 561,
+  "rows": 1837
+ },
+ {
+  "instance": "E4",
+  "status": "Optimal",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 70406.2,
+  "gap": 0.0,
+  "time": 49.6,
+  "vars": 919,
+  "rows": 3159
+ },
+ {
+  "instance": "E5",
+  "status": "Optimal",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 57126.17,
+  "gap": 0.0,
+  "time": 119.0,
+  "vars": 913,
+  "rows": 3135
+ },
+ {
+  "instance": "E6",
+  "status": "Optimal",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 63206.17,
+  "gap": 0.0,
+  "time": 51.0,
+  "vars": 922,
+  "rows": 3171
+ },
+ {
+  "instance": "E7",
+  "status": "Time limit reached",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 71843.14,
+  "gap": 0.0023,
+  "time": 600.1,
+  "vars": 1370,
+  "rows": 4853
+ },
+ {
+  "instance": "E8",
+  "status": "Optimal",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 70726.2,
+  "gap": 0.0,
+  "time": 328.4,
+  "vars": 1352,
+  "rows": 4781
+ },
+ {
+  "instance": "E9",
+  "status": "Time limit reached",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 30835.91,
+  "gap": 0.4915,
+  "time": 600.1,
+  "vars": 1358,
+  "rows": 4805
+ },
+ {
+  "instance": "E10",
+  "status": "Time limit reached",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 35757.71,
+  "gap": 0.4944,
+  "time": 600.2,
+  "vars": 1887,
+  "rows": 6811
+ },
+ {
+  "instance": "E11",
+  "status": "Time limit reached",
+  "veh": 2,
+  "dist": 1131.37,
+  "bound": 43090.11,
+  "gap": 0.4966,
+  "time": 600.2,
+  "vars": 1908,
+  "rows": 6895
+ },
+ {
+  "instance": "E12",
+  "status": "Time limit reached",
+  "veh": 3,
+  "dist": 1131.37,
+  "bound": 40883.1,
+  "gap": 0.6618,
+  "time": 600.2,
+  "vars": 1887,
+  "rows": 6811
+ },
+ {
+  "instance": "E13",
+  "status": "Time limit reached",
+  "veh": 3,
+  "dist": 1565.93,
+  "bound": 48161.04,
+  "gap": 0.6641,
+  "time": 600.3,
+  "vars": 2509,
+  "rows": 9189
+ },
+ {
+  "instance": "E14",
+  "status": "Time limit reached",
+  "veh": 3,
+  "dist": 1309.56,
+  "bound": 40764.43,
+  "gap": 0.6626,
+  "time": 600.2,
+  "vars": 2521,
+  "rows": 9237
+ },
+ {
+  "instance": "E15",
+  "status": "Time limit reached",
+  "veh": 3,
+  "dist": 1131.37,
+  "bound": 39881.49,
+  "gap": 0.662,
+  "time": 600.2,
+  "vars": 2509,
+  "rows": 9189
+ },
+ {
+  "instance": "E16",
+  "status": "Time limit reached",
+  "veh": 3,
+  "dist": 1649.54,
+  "bound": 56742.5,
+  "gap": 0.665,
+  "time": 600.3,
+  "vars": 3239,
+  "rows": 11999
+ }
+]

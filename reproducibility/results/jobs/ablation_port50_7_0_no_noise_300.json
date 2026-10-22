@@ -1,0 +1,1 @@
+{"cost": 4657.72, "distance": 2581.43, "vehicles": 10, "transfers": 3, "feasible": true, "unassigned": 0, "it": 2257, "t_best": 229.38, "violations": [], "kind": "ablation", "family": "port50", "instance": "PORT-n50-y2-S2-H1-s7", "seed": 0, "tl": 300.0, "variant": "no_noise", "wall": 300.0, "argv": ["ablation", "port50", "7", "0", "no_noise", "300"]}

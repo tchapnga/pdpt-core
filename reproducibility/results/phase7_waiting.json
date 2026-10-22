@@ -1,0 +1,527 @@
+{
+ "20/yards_H1_S1_W30": {
+  "pool_mean": -1.3493102742716738,
+  "waiting_mean": -1.6779430793511647,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 3.170068507662971
+ },
+ "20/yards_H1_S1_W60": {
+  "pool_mean": -2.3240441020431395,
+  "waiting_mean": -2.4180771773910723,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 1.880661506958658
+ },
+ "20/yards_H1_S1_W120": {
+  "pool_mean": -4.2477195297150265,
+  "waiting_mean": -4.421411907583604,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 2.531330769435735
+ },
+ "20/yards_H1_S2_W30": {
+  "pool_mean": -1.3493102742716738,
+  "waiting_mean": -1.6779430793511647,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 3.170068507662971
+ },
+ "20/yards_H1_S2_W60": {
+  "pool_mean": -2.433493818809122,
+  "waiting_mean": -2.527526894157055,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 1.880661506958658
+ },
+ "20/yards_H1_S2_W120": {
+  "pool_mean": -4.442286586288263,
+  "waiting_mean": -4.61597896415684,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 2.531330769435735
+ },
+ "20/yards_H1_S3_W30": {
+  "pool_mean": -1.3493102742716738,
+  "waiting_mean": -1.6779430793511647,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 3.170068507662971
+ },
+ "20/yards_H1_S3_W60": {
+  "pool_mean": -2.433493818809122,
+  "waiting_mean": -2.527526894157055,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 1.880661506958658
+ },
+ "20/yards_H1_S3_W120": {
+  "pool_mean": -4.442286586288263,
+  "waiting_mean": -4.61597896415684,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 2.531330769435735
+ },
+ "20/yards_H1_Sinf_W30": {
+  "pool_mean": -1.3493102742716738,
+  "waiting_mean": -1.6779430793511647,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 3.170068507662971
+ },
+ "20/yards_H1_Sinf_W60": {
+  "pool_mean": -2.433493818809122,
+  "waiting_mean": -2.527526894157055,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 1.880661506958658
+ },
+ "20/yards_H1_Sinf_W120": {
+  "pool_mean": -4.442286586288263,
+  "waiting_mean": -4.61597896415684,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 2.531330769435735
+ },
+ "20/yards_Hinf_S1_W30": {
+  "pool_mean": -1.3493102742716738,
+  "waiting_mean": -1.6779430793511647,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 3.170068507662971
+ },
+ "20/yards_Hinf_S1_W60": {
+  "pool_mean": -2.356112934994121,
+  "waiting_mean": -2.450146010342054,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 1.880661506958658
+ },
+ "20/yards_Hinf_S1_W120": {
+  "pool_mean": -4.319373954214756,
+  "waiting_mean": -4.421411907583604,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.0982422794411524
+ },
+ "20/yards_Hinf_S2_W30": {
+  "pool_mean": -1.3493102742716738,
+  "waiting_mean": -1.6779430793511647,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 3.170068507662971
+ },
+ "20/yards_Hinf_S2_W60": {
+  "pool_mean": -2.438066881878547,
+  "waiting_mean": -2.715393268901034,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.665866233491077
+ },
+ "20/yards_Hinf_S2_W120": {
+  "pool_mean": -4.513941010787992,
+  "waiting_mean": -4.61597896415684,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.0982422794411524
+ },
+ "20/yards_Hinf_S3_W30": {
+  "pool_mean": -1.3493102742716738,
+  "waiting_mean": -1.6779430793511647,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 3.170068507662971
+ },
+ "20/yards_Hinf_S3_W60": {
+  "pool_mean": -2.438066881878547,
+  "waiting_mean": -2.715393268901034,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.665866233491077
+ },
+ "20/yards_Hinf_S3_W120": {
+  "pool_mean": -4.513941010787992,
+  "waiting_mean": -4.61597896415684,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.0982422794411524
+ },
+ "20/yards_Hinf_Sinf_W30": {
+  "pool_mean": -1.3493102742716738,
+  "waiting_mean": -1.6779430793511647,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 3.170068507662971
+ },
+ "20/yards_Hinf_Sinf_W60": {
+  "pool_mean": -2.438066881878547,
+  "waiting_mean": -2.715393268901034,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.665866233491077
+ },
+ "20/yards_Hinf_Sinf_W120": {
+  "pool_mean": -4.513941010787992,
+  "waiting_mean": -4.61597896415684,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.0982422794411524
+ },
+ "20/yards_H1_S2_W240": {
+  "pool_mean": -5.644181990556839,
+  "waiting_mean": -5.69102977303095,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 0.5508942218446
+ },
+ "30/yards_H1_S1_W30": {
+  "pool_mean": -1.2028539078236316,
+  "waiting_mean": -1.347253666488406,
+  "days_cheaper": 3,
+  "days_from_waiting": 3,
+  "max_gain_points": 2.02834944546586
+ },
+ "30/yards_H1_S1_W60": {
+  "pool_mean": -2.1081214040835694,
+  "waiting_mean": -2.269177868268967,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.2099574189321967
+ },
+ "30/yards_H1_S1_W120": {
+  "pool_mean": -3.4882003436587232,
+  "waiting_mean": -3.4980411724544447,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 0.19681657591442692
+ },
+ "30/yards_H1_S2_W30": {
+  "pool_mean": -1.2028539078236316,
+  "waiting_mean": -1.347253666488406,
+  "days_cheaper": 3,
+  "days_from_waiting": 3,
+  "max_gain_points": 2.02834944546586
+ },
+ "30/yards_H1_S2_W60": {
+  "pool_mean": -2.2599179357118997,
+  "waiting_mean": -2.4209743998972972,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.2099574189321967
+ },
+ "30/yards_H1_S2_W120": {
+  "pool_mean": -3.750980399407764,
+  "waiting_mean": -3.77068438881979,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 0.19726321232609223
+ },
+ "30/yards_H1_S3_W30": {
+  "pool_mean": -1.2028539078236316,
+  "waiting_mean": -1.347253666488406,
+  "days_cheaper": 3,
+  "days_from_waiting": 3,
+  "max_gain_points": 2.02834944546586
+ },
+ "30/yards_H1_S3_W60": {
+  "pool_mean": -2.2599179357118997,
+  "waiting_mean": -2.4209743998972972,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.2099574189321967
+ },
+ "30/yards_H1_S3_W120": {
+  "pool_mean": -3.750980399407764,
+  "waiting_mean": -3.77068438881979,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 0.19726321232609223
+ },
+ "30/yards_H1_Sinf_W30": {
+  "pool_mean": -1.2028539078236316,
+  "waiting_mean": -1.347253666488406,
+  "days_cheaper": 3,
+  "days_from_waiting": 3,
+  "max_gain_points": 2.02834944546586
+ },
+ "30/yards_H1_Sinf_W60": {
+  "pool_mean": -2.2599179357118997,
+  "waiting_mean": -2.4209743998972972,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.2099574189321967
+ },
+ "30/yards_H1_Sinf_W120": {
+  "pool_mean": -3.750980399407764,
+  "waiting_mean": -3.77068438881979,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 0.19726321232609223
+ },
+ "30/yards_Hinf_S1_W30": {
+  "pool_mean": -1.2028539078236316,
+  "waiting_mean": -1.4403015471012248,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 2.02834944546586
+ },
+ "30/yards_Hinf_S1_W60": {
+  "pool_mean": -2.1081214040835694,
+  "waiting_mean": -2.269177868268967,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.2099574189321967
+ },
+ "30/yards_Hinf_S1_W120": {
+  "pool_mean": -3.4882003436587232,
+  "waiting_mean": -3.4980411724544447,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 0.19681657591442692
+ },
+ "30/yards_Hinf_S2_W30": {
+  "pool_mean": -1.2028539078236316,
+  "waiting_mean": -1.4403015471012248,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 2.02834944546586
+ },
+ "30/yards_Hinf_S2_W60": {
+  "pool_mean": -2.2599179357118997,
+  "waiting_mean": -2.4209743998972972,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.2099574189321967
+ },
+ "30/yards_Hinf_S2_W120": {
+  "pool_mean": -3.7759874780647986,
+  "waiting_mean": -3.7956914674768245,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 0.19726321232609223
+ },
+ "30/yards_Hinf_S3_W30": {
+  "pool_mean": -1.2028539078236316,
+  "waiting_mean": -1.4403015471012248,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 2.02834944546586
+ },
+ "30/yards_Hinf_S3_W60": {
+  "pool_mean": -2.2599179357118997,
+  "waiting_mean": -2.4209743998972972,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.2099574189321967
+ },
+ "30/yards_Hinf_S3_W120": {
+  "pool_mean": -3.7759874780647986,
+  "waiting_mean": -3.7956914674768245,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 0.19726321232609223
+ },
+ "30/yards_Hinf_Sinf_W30": {
+  "pool_mean": -1.2028539078236316,
+  "waiting_mean": -1.4403015471012248,
+  "days_cheaper": 4,
+  "days_from_waiting": 4,
+  "max_gain_points": 2.02834944546586
+ },
+ "30/yards_Hinf_Sinf_W60": {
+  "pool_mean": -2.2599179357118997,
+  "waiting_mean": -2.4209743998972972,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 3.2099574189321967
+ },
+ "30/yards_Hinf_Sinf_W120": {
+  "pool_mean": -3.7759874780647986,
+  "waiting_mean": -3.7956914674768245,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 0.19726321232609223
+ },
+ "30/yards_H1_S2_W240": {
+  "pool_mean": -5.025388204642576,
+  "waiting_mean": -5.192031350816003,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 2.836749586774724
+ },
+ "50/yards_H1_S1_W30": {
+  "pool_mean": -0.26947205006214114,
+  "waiting_mean": -0.3651001550559707,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.4934410072657056
+ },
+ "50/yards_H1_S1_W60": {
+  "pool_mean": -0.6740053167685311,
+  "waiting_mean": -0.7837204839630552,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 2.19430334389048
+ },
+ "50/yards_H1_S1_W120": {
+  "pool_mean": -1.9222263539003022,
+  "waiting_mean": -1.9310636736599602,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 0.17674639519316138
+ },
+ "50/yards_H1_S2_W30": {
+  "pool_mean": -0.26947205006214114,
+  "waiting_mean": -0.3651001550559707,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.4934410072657056
+ },
+ "50/yards_H1_S2_W60": {
+  "pool_mean": -0.6740053167685311,
+  "waiting_mean": -0.7837204839630552,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 2.19430334389048
+ },
+ "50/yards_H1_S2_W120": {
+  "pool_mean": -2.121424496418074,
+  "waiting_mean": -2.130261816177732,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 0.17674639519316138
+ },
+ "50/yards_H1_S3_W30": {
+  "pool_mean": -0.26947205006214114,
+  "waiting_mean": -0.3651001550559707,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.4934410072657056
+ },
+ "50/yards_H1_S3_W60": {
+  "pool_mean": -0.6740053167685311,
+  "waiting_mean": -0.7837204839630552,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 2.19430334389048
+ },
+ "50/yards_H1_S3_W120": {
+  "pool_mean": -2.121424496418074,
+  "waiting_mean": -2.130261816177732,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 0.17674639519316138
+ },
+ "50/yards_H1_Sinf_W30": {
+  "pool_mean": -0.26947205006214114,
+  "waiting_mean": -0.3651001550559707,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.4934410072657056
+ },
+ "50/yards_H1_Sinf_W60": {
+  "pool_mean": -0.6740053167685311,
+  "waiting_mean": -0.7837204839630552,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 2.19430334389048
+ },
+ "50/yards_H1_Sinf_W120": {
+  "pool_mean": -2.121424496418074,
+  "waiting_mean": -2.130261816177732,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 0.17674639519316138
+ },
+ "50/yards_Hinf_S1_W30": {
+  "pool_mean": -0.2906541203659868,
+  "waiting_mean": -0.3651001550559707,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.0697996011887922
+ },
+ "50/yards_Hinf_S1_W60": {
+  "pool_mean": -0.6740053167685311,
+  "waiting_mean": -0.7837204839630552,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 2.19430334389048
+ },
+ "50/yards_Hinf_S1_W120": {
+  "pool_mean": -1.9222263539003022,
+  "waiting_mean": -1.9310636736599602,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 0.17674639519316138
+ },
+ "50/yards_Hinf_S2_W30": {
+  "pool_mean": -0.2906541203659868,
+  "waiting_mean": -0.3651001550559707,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.0697996011887922
+ },
+ "50/yards_Hinf_S2_W60": {
+  "pool_mean": -0.6906231900493598,
+  "waiting_mean": -0.8003383572438838,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 2.19430334389048
+ },
+ "50/yards_Hinf_S2_W120": {
+  "pool_mean": -2.1679230291551175,
+  "waiting_mean": -2.1767603489147755,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 0.17674639519316138
+ },
+ "50/yards_Hinf_S3_W30": {
+  "pool_mean": -0.2906541203659868,
+  "waiting_mean": -0.3651001550559707,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.0697996011887922
+ },
+ "50/yards_Hinf_S3_W60": {
+  "pool_mean": -0.6906231900493598,
+  "waiting_mean": -0.8003383572438838,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 2.19430334389048
+ },
+ "50/yards_Hinf_S3_W120": {
+  "pool_mean": -2.1679230291551175,
+  "waiting_mean": -2.1767603489147755,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 0.17674639519316138
+ },
+ "50/yards_Hinf_Sinf_W30": {
+  "pool_mean": -0.2906541203659868,
+  "waiting_mean": -0.3651001550559707,
+  "days_cheaper": 2,
+  "days_from_waiting": 2,
+  "max_gain_points": 1.0697996011887922
+ },
+ "50/yards_Hinf_Sinf_W60": {
+  "pool_mean": -0.6906231900493598,
+  "waiting_mean": -0.8003383572438838,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 2.19430334389048
+ },
+ "50/yards_Hinf_Sinf_W120": {
+  "pool_mean": -2.1679230291551175,
+  "waiting_mean": -2.1767603489147755,
+  "days_cheaper": 1,
+  "days_from_waiting": 1,
+  "max_gain_points": 0.17674639519316138
+ },
+ "50/yards_H1_S2_W240": {
+  "pool_mean": -3.1230064848741033,
+  "waiting_mean": -3.1230064848741033,
+  "days_cheaper": 0,
+  "days_from_waiting": 0,
+  "max_gain_points": 0.0
+ }
+}

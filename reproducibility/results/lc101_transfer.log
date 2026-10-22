@@ -1,0 +1,8 @@
+   5.6s it 1 sync: vehicles 11 cost 969.80 transfers 0
+   9.0s it 4 tension: vehicles 11 cost 954.01 transfers 0
+   9.8s it 5 worst: vehicles 11 cost 952.27 transfers 1
+  29.7s it 37 worst: vehicles 11 cost 902.05 transfers 0
+  37.8s it 46 sync: vehicles 11 cost 861.94 transfers 0
+  39.4s it 47 point: vehicles 10 cost 828.94 transfers 0
+lc101 + 2 hubs : vehicles 10 dist 828.94 transfers 0 it 444
+lc101 + 2 hubs capacitated (H=1, S=20): vehicles 10 dist 828.94 transfers 0 it 446

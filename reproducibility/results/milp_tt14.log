@@ -1,0 +1,8 @@
+{'instance': 'E5', 'status': 'Optimal', 'veh': 2, 'dist': 1131.37, 'bound': 57126.2, 'gap': 0.0, 'time': 68.9, 'vars': 913, 'rows': 3134}
+{'instance': 'E6', 'status': 'Optimal', 'veh': 2, 'dist': 1131.37, 'bound': 63206.2, 'gap': 0.0, 'time': 55.1, 'vars': 922, 'rows': 3170}
+{'instance': 'E7', 'status': 'Optimal', 'veh': 2, 'dist': 1131.37, 'bound': 72006.2, 'gap': 0.0, 'time': 197.9, 'vars': 1370, 'rows': 4852}
+{'instance': 'E8', 'status': 'Optimal', 'veh': 2, 'dist': 1131.37, 'bound': 70726.15, 'gap': 0.0, 'time': 217.8, 'vars': 1352, 'rows': 4780}
+{'instance': 'E9', 'status': 'Time limit reached', 'veh': 2, 'dist': 1131.37, 'bound': 60547.54, 'gap': 0.0016, 'time': 600.1, 'vars': 1358, 'rows': 4804}
+{'instance': 'E10', 'status': 'Time limit reached', 'veh': 3, 'dist': 1255.82, 'bound': 35881.55, 'gap': 0.6604, 'time': 600.2, 'vars': 1887, 'rows': 6810}
+{'instance': 'E11', 'status': 'Optimal', 'veh': 2, 'dist': 1131.37, 'bound': 85606.18, 'gap': 0.0, 'time': 344.2, 'vars': 1908, 'rows': 6894}
+{'instance': 'E12', 'status': 'Time limit reached', 'veh': 3, 'dist': 1131.37, 'bound': 989.47, 'gap': 0.9918, 'time': 600.2, 'vars': 1887, 'rows': 6810}

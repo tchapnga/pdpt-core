@@ -1,0 +1,1 @@
+{"kind": "cpsat", "n": 20, "seed": 9, "setting": "yards_inf", "tl": 1800.0, "status": "UNKNOWN", "objective": null, "bound": 791.0, "time": 1805.4, "cost": null, "vehicles": null, "wall": 1806.2, "argv": ["cpsat", "20", "9", "yards_inf", "1800"]}

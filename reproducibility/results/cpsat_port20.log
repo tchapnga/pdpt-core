@@ -1,0 +1,5 @@
+{'seed': 0, 'setting': 'no_yard', 'status': 'OPTIMAL', 'cp_cost': 1943.1, 'cp_feasible': True, 'bound': 1940.0, 'lns_cost': 1943.1, 'gap_lns_vs_bound': 0.2, 'time': 16}
+{'seed': 0, 'setting': 'yards_H1_S2', 'status': 'UNKNOWN', 'cp_cost': None, 'cp_feasible': None, 'bound': 588.0, 'lns_cost': 1968.0, 'gap_lns_vs_bound': 70.1, 'time': 243}
+{'seed': 1, 'setting': 'no_yard', 'status': 'OPTIMAL', 'cp_cost': 2165.6, 'cp_feasible': True, 'bound': 2163.0, 'lns_cost': 2269.1, 'gap_lns_vs_bound': 4.7, 'time': 18}
+{'seed': 1, 'setting': 'yards_H1_S2', 'status': 'UNKNOWN', 'cp_cost': None, 'cp_feasible': None, 'bound': 526.0, 'lns_cost': 2050.1, 'gap_lns_vs_bound': 74.3, 'time': 243}
+{'seed': 2, 'setting': 'no_yard', 'status': 'OPTIMAL', 'cp_cost': 2252.6, 'cp_feasible': True, 'bound': 2253.0, 'lns_cost': 2261.0, 'gap_lns_vs_bound': 0.4, 'time': 6}

@@ -1,0 +1,1 @@
+{"kind": "cpsat", "n": 30, "seed": 17, "setting": "no_yard", "tl": 1800.0, "status": "FEASIBLE", "objective": 3022.0, "bound": 2750.0, "time": 1802.1, "cost": 3023.0, "vehicles": 7, "wall": 1802.7, "argv": ["cpsat", "30", "17", "no_yard", "1800"], "versions": {"python": "3.12.3", "numba": "0.68.0", "ortools": "9.15.6755", "highspy": null, "numpy": "2.5.4"}}

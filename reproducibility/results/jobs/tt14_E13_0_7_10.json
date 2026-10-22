@@ -1,0 +1,1 @@
+{"cost": 1565.93, "distance": 1565.93, "vehicles": 3, "transfers": 0, "feasible": true, "unassigned": 0, "it": 8149, "t_best": 4.0, "violations": [], "kind": "tt14", "instance": "E13", "transfer": false, "seed": 7, "tl": 10.0, "wall": 10.0, "argv": ["tt14", "E13", "0", "7", "10"]}

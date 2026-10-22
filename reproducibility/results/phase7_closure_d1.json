@@ -1,0 +1,3698 @@
+{
+ "20/1/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2165.57,
+  "closed_cost": 2146.37,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/1/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_Sinf_Winf",
+  "raw_cost": 2010.89,
+  "closed_cost": 2010.44,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/1/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2149.46,
+  "closed_cost": 2146.37,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/1/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 2031.44,
+  "closed_cost": 2019.13,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/1/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_Sinf_W120",
+  "raw_cost": 2091.35,
+  "closed_cost": 2085.05,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/1/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_Sinf_Winf",
+  "raw_cost": 2043.61,
+  "closed_cost": 2010.44,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/2/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 2149.49,
+  "closed_cost": 2137.43,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/4/yards_H1_S2_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 2420.48,
+  "closed_cost": 2420.19,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/4/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 2258.94,
+  "closed_cost": 2258.93,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/4/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2383.46,
+  "closed_cost": 2383.45,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/4/yards_H1_Sinf_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 2422.17,
+  "closed_cost": 2420.19,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/4/yards_Hinf_S2_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 2379.52,
+  "closed_cost": 2379.22,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/4/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 2422.17,
+  "closed_cost": 2420.19,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/5/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2424.36,
+  "closed_cost": 2354.53,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "20/5/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2367.89,
+  "closed_cost": 2354.53,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/5/yards_Hinf_S2_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 2424.36,
+  "closed_cost": 2414.77,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "20/5/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S3_W60",
+  "raw_cost": 2424.36,
+  "closed_cost": 2385.15,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "20/6/yards_H1_S1_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2513.62,
+  "closed_cost": 2503.3,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/6/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2513.62,
+  "closed_cost": 2503.3,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/6/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2513.59,
+  "closed_cost": 2503.3,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/6/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2513.59,
+  "closed_cost": 2503.3,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/7/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 1768.81,
+  "closed_cost": 1767.88,
+  "raw_vehicles": 5,
+  "closed_vehicles": 4
+ },
+ "20/7/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 1675.1,
+  "closed_cost": 1674.68,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/7/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 1768.81,
+  "closed_cost": 1767.88,
+  "raw_vehicles": 5,
+  "closed_vehicles": 4
+ },
+ "20/7/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 1675.1,
+  "closed_cost": 1674.68,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/7/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_Hinf_S3_W60",
+  "raw_cost": 1768.81,
+  "closed_cost": 1738.65,
+  "raw_vehicles": 5,
+  "closed_vehicles": 4
+ },
+ "20/8/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 1935.28,
+  "closed_cost": 1883.92,
+  "raw_vehicles": 5,
+  "closed_vehicles": 4
+ },
+ "20/8/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 1935.28,
+  "closed_cost": 1883.92,
+  "raw_vehicles": 5,
+  "closed_vehicles": 4
+ },
+ "20/8/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 1935.28,
+  "closed_cost": 1883.92,
+  "raw_vehicles": 5,
+  "closed_vehicles": 4
+ },
+ "20/8/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 1935.28,
+  "closed_cost": 1883.92,
+  "raw_vehicles": 5,
+  "closed_vehicles": 4
+ },
+ "20/9/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 2079.1,
+  "closed_cost": 2078.95,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/9/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 2149.42,
+  "closed_cost": 2148.9,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/10/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 1828.29,
+  "closed_cost": 1827.56,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/10/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 1829.85,
+  "closed_cost": 1827.56,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/10/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 1822.19,
+  "closed_cost": 1818.24,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/11/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 1781.12,
+  "closed_cost": 1776.57,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/11/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 1800.27,
+  "closed_cost": 1781.59,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/11/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 1781.12,
+  "closed_cost": 1764.18,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/11/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 1781.12,
+  "closed_cost": 1776.57,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/11/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 1800.27,
+  "closed_cost": 1781.59,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/11/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 1767.16,
+  "closed_cost": 1764.18,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/11/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 1769.16,
+  "closed_cost": 1764.18,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/11/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 1800.27,
+  "closed_cost": 1781.59,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/12/yards_H1_S3_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 2831.8,
+  "closed_cost": 2828.38,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "20/12/yards_H1_Sinf_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 2831.8,
+  "closed_cost": 2828.38,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "20/12/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2743.12,
+  "closed_cost": 2739.64,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/12/yards_Hinf_S2_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 2633.24,
+  "closed_cost": 2614.03,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/12/yards_Hinf_S2_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 2831.8,
+  "closed_cost": 2828.38,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "20/12/yards_Hinf_S2_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 2738.61,
+  "closed_cost": 2737.05,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/12/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 2701.67,
+  "closed_cost": 2614.03,
+  "raw_vehicles": 6,
+  "closed_vehicles": 5
+ },
+ "20/12/yards_Hinf_S3_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 2831.8,
+  "closed_cost": 2828.38,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "20/12/yards_Hinf_S3_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 2741.89,
+  "closed_cost": 2737.05,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/12/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 2638.22,
+  "closed_cost": 2614.03,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/12/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 2831.8,
+  "closed_cost": 2828.38,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "20/12/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 2738.08,
+  "closed_cost": 2737.05,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/13/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 2581.18,
+  "closed_cost": 2528.62,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "20/13/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 2592.54,
+  "closed_cost": 2528.62,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "20/13/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 2274.6,
+  "closed_cost": 2269.92,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/13/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 2592.54,
+  "closed_cost": 2528.62,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "20/13/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_Sinf_W60",
+  "raw_cost": 2592.54,
+  "closed_cost": 2521.67,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "20/14/yards_Hinf_S2_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 2289.06,
+  "closed_cost": 2253.23,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/14/yards_Hinf_S3_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 2283.43,
+  "closed_cost": 2253.23,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "20/14/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_Sinf_W60",
+  "raw_cost": 2305.04,
+  "closed_cost": 2253.23,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "20/15/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2059.03,
+  "closed_cost": 2055.78,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/15/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 2052.95,
+  "closed_cost": 2052.93,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/15/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 2052.95,
+  "closed_cost": 2052.93,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/15/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 2052.95,
+  "closed_cost": 2052.93,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/15/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 2052.95,
+  "closed_cost": 2052.93,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/15/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 2057.4,
+  "closed_cost": 2052.93,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/15/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 2057.4,
+  "closed_cost": 2052.93,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/16/yards_H1_S2_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 2368.26,
+  "closed_cost": 2308.07,
+  "raw_vehicles": 6,
+  "closed_vehicles": 5
+ },
+ "20/16/yards_Hinf_S2_W30": {
+  "from_cell": "yards_Hinf_S1_W30",
+  "raw_cost": 2308.07,
+  "closed_cost": 2304.03,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/16/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S3_W30",
+  "raw_cost": 2304.03,
+  "closed_cost": 2302.37,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/18/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 2065.37,
+  "closed_cost": 2062.48,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/18/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 2126.71,
+  "closed_cost": 2100.27,
+  "raw_vehicles": 5,
+  "closed_vehicles": 4
+ },
+ "20/18/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 2065.37,
+  "closed_cost": 2062.48,
+  "raw_vehicles": 4,
+  "closed_vehicles": 4
+ },
+ "20/18/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2168.22,
+  "closed_cost": 2165.7,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/18/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_Sinf_W120",
+  "raw_cost": 2126.71,
+  "closed_cost": 2084.74,
+  "raw_vehicles": 5,
+  "closed_vehicles": 4
+ },
+ "20/19/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2205.69,
+  "closed_cost": 2201.75,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/19/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2246.09,
+  "closed_cost": 2201.75,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "20/19/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2204.74,
+  "closed_cost": 2201.75,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "30/1/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 3319.47,
+  "closed_cost": 3278.35,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/1/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3316.85,
+  "closed_cost": 3266.21,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/1/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 3321.2,
+  "closed_cost": 3278.35,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/1/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3271.55,
+  "closed_cost": 3266.21,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/1/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 3319.47,
+  "closed_cost": 3311.96,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/1/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3339.15,
+  "closed_cost": 3339.12,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/1/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 3312.48,
+  "closed_cost": 3278.35,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/1/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3267.17,
+  "closed_cost": 3266.21,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/1/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3287.61,
+  "closed_cost": 3266.21,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_H1_S1_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2853.45,
+  "closed_cost": 2852.26,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2862.71,
+  "closed_cost": 2852.26,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2917.28,
+  "closed_cost": 2853.36,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 2868.15,
+  "closed_cost": 2848.55,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2858.88,
+  "closed_cost": 2852.26,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2917.28,
+  "closed_cost": 2853.36,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2878.26,
+  "closed_cost": 2852.26,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 2863.75,
+  "closed_cost": 2815.57,
+  "raw_vehicles": 6,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 2854.44,
+  "closed_cost": 2815.57,
+  "raw_vehicles": 6,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2917.28,
+  "closed_cost": 2852.26,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_S1_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2917.28,
+  "closed_cost": 2853.36,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2858.88,
+  "closed_cost": 2852.26,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_S2_W30": {
+  "from_cell": "yards_Hinf_S1_W30",
+  "raw_cost": 2917.28,
+  "closed_cost": 2853.36,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2908.21,
+  "closed_cost": 2853.36,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2852.78,
+  "closed_cost": 2852.26,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_S3_W30": {
+  "from_cell": "yards_Hinf_S1_W30",
+  "raw_cost": 2917.28,
+  "closed_cost": 2853.36,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2917.28,
+  "closed_cost": 2853.36,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 2830.51,
+  "closed_cost": 2815.57,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2870.52,
+  "closed_cost": 2852.26,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S1_W30",
+  "raw_cost": 2859.87,
+  "closed_cost": 2853.36,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2917.28,
+  "closed_cost": 2853.36,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/2/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 2838.68,
+  "closed_cost": 2815.57,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/3/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2672.06,
+  "closed_cost": 2670.19,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/3/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 2664.92,
+  "closed_cost": 2663.84,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/3/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2672.06,
+  "closed_cost": 2670.19,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/3/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2672.06,
+  "closed_cost": 2670.19,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/3/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_Hinf_S3_Winf",
+  "raw_cost": 2664.92,
+  "closed_cost": 2652.16,
+  "raw_vehicles": 6,
+  "closed_vehicles": 5
+ },
+ "30/4/yards_H1_S3_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 3397.85,
+  "closed_cost": 3333.38,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/4/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3308.62,
+  "closed_cost": 3304.43,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/4/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3297.8,
+  "closed_cost": 3290.28,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/4/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3211.0,
+  "closed_cost": 3197.85,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/4/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 3217.5,
+  "closed_cost": 3216.82,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/4/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3199.23,
+  "closed_cost": 3197.85,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/4/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3305.44,
+  "closed_cost": 3290.28,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/4/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3306.37,
+  "closed_cost": 3290.28,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/4/yards_Hinf_S2_W30": {
+  "from_cell": "yards_Hinf_S1_W30",
+  "raw_cost": 3397.85,
+  "closed_cost": 3317.95,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/4/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 3226.71,
+  "closed_cost": 3216.82,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/4/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3304.43,
+  "closed_cost": 3290.28,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/4/yards_Hinf_S3_W30": {
+  "from_cell": "yards_Hinf_S1_W30",
+  "raw_cost": 3318.94,
+  "closed_cost": 3317.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/4/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3213.18,
+  "closed_cost": 3197.85,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/4/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S1_W30",
+  "raw_cost": 3397.85,
+  "closed_cost": 3317.95,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/4/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3209.07,
+  "closed_cost": 3197.85,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/5/yards_H1_S1_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3295.47,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_H1_S2_W240": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3303.73,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3418.78,
+  "closed_cost": 3323.73,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3291.57,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3418.78,
+  "closed_cost": 3323.73,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3303.73,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3410.24,
+  "closed_cost": 3323.73,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3293.93,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3291.57,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_Hinf_S1_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3364.69,
+  "closed_cost": 3323.73,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3313.15,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3418.78,
+  "closed_cost": 3323.73,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3293.3,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3292.62,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3418.78,
+  "closed_cost": 3323.73,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3291.57,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3295.47,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3418.78,
+  "closed_cost": 3323.73,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/5/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3309.94,
+  "closed_cost": 3290.95,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/6/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3758.11,
+  "closed_cost": 3676.79,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/6/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3796.5,
+  "closed_cost": 3761.08,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/6/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3757.99,
+  "closed_cost": 3676.79,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/6/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 3551.79,
+  "closed_cost": 3519.11,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/6/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3757.99,
+  "closed_cost": 3676.79,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/6/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 3536.04,
+  "closed_cost": 3519.11,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/6/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3757.96,
+  "closed_cost": 3676.79,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/6/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3757.96,
+  "closed_cost": 3676.79,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/6/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3757.96,
+  "closed_cost": 3676.79,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/6/yards_Hinf_S3_W30": {
+  "from_cell": "yards_Hinf_S2_W30",
+  "raw_cost": 3878.03,
+  "closed_cost": 3837.17,
+  "raw_vehicles": 10,
+  "closed_vehicles": 9
+ },
+ "30/6/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_Hinf_S2_Winf",
+  "raw_cost": 3524.15,
+  "closed_cost": 3518.22,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/6/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3682.69,
+  "closed_cost": 3676.79,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/6/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S2_W30",
+  "raw_cost": 3878.03,
+  "closed_cost": 3837.17,
+  "raw_vehicles": 10,
+  "closed_vehicles": 9
+ },
+ "30/6/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_Hinf_S2_Winf",
+  "raw_cost": 3519.11,
+  "closed_cost": 3518.22,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/7/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 2465.43,
+  "closed_cost": 2462.45,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "30/7/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 2465.43,
+  "closed_cost": 2459.24,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "30/7/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 2465.43,
+  "closed_cost": 2459.24,
+  "raw_vehicles": 5,
+  "closed_vehicles": 5
+ },
+ "30/7/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_Hinf_S1_Winf",
+  "raw_cost": 2524.41,
+  "closed_cost": 2459.24,
+  "raw_vehicles": 6,
+  "closed_vehicles": 5
+ },
+ "30/8/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3392.86,
+  "closed_cost": 3390.7,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/8/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 3398.79,
+  "closed_cost": 3387.75,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/8/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 3397.42,
+  "closed_cost": 3397.24,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/8/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3271.87,
+  "closed_cost": 3261.03,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/8/yards_Hinf_S2_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 3389.56,
+  "closed_cost": 3387.75,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/8/yards_Hinf_S2_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 3397.24,
+  "closed_cost": 3395.96,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/8/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 3389.56,
+  "closed_cost": 3387.75,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/8/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 3389.56,
+  "closed_cost": 3387.75,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/8/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S3_W30",
+  "raw_cost": 3397.24,
+  "closed_cost": 3392.86,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/8/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_Hinf_S3_W60",
+  "raw_cost": 3397.24,
+  "closed_cost": 3390.91,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/9/yards_H1_S2_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 3010.71,
+  "closed_cost": 3009.1,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/9/yards_H1_S3_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 3018.64,
+  "closed_cost": 3009.1,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/9/yards_H1_Sinf_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 3009.23,
+  "closed_cost": 3009.1,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/9/yards_Hinf_S1_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 3013.3,
+  "closed_cost": 3009.1,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/9/yards_Hinf_S3_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 3009.23,
+  "closed_cost": 3009.1,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/9/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_Hinf_S3_W120",
+  "raw_cost": 3001.53,
+  "closed_cost": 2889.28,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "30/9/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 3010.58,
+  "closed_cost": 3009.1,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/10/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 2819.03,
+  "closed_cost": 2817.59,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/10/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 2855.85,
+  "closed_cost": 2832.64,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/10/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 2829.27,
+  "closed_cost": 2817.59,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/10/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 2830.23,
+  "closed_cost": 2817.38,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/10/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2849.09,
+  "closed_cost": 2838.86,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/10/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 2828.71,
+  "closed_cost": 2824.51,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/10/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 2825.95,
+  "closed_cost": 2817.38,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/10/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 2838.74,
+  "closed_cost": 2832.64,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/10/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 2827.12,
+  "closed_cost": 2817.38,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/10/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 2856.87,
+  "closed_cost": 2832.64,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/10/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 2825.75,
+  "closed_cost": 2817.38,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/11/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3046.6,
+  "closed_cost": 3008.64,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/11/yards_H1_Sinf_W30": {
+  "from_cell": "yards_H1_S3_W30",
+  "raw_cost": 3078.99,
+  "closed_cost": 3059.13,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/11/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_Sinf_Winf",
+  "raw_cost": 2952.95,
+  "closed_cost": 2951.02,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/11/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3003.3,
+  "closed_cost": 2999.79,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/11/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3019.77,
+  "closed_cost": 3008.64,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/11/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 2962.71,
+  "closed_cost": 2956.0,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/11/yards_Hinf_S3_W30": {
+  "from_cell": "yards_H1_S3_W30",
+  "raw_cost": 3078.99,
+  "closed_cost": 3059.13,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/11/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_Sinf_Winf",
+  "raw_cost": 2952.76,
+  "closed_cost": 2951.02,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/12/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 3770.75,
+  "closed_cost": 3702.87,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/12/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3525.2,
+  "closed_cost": 3524.28,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/12/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 3774.53,
+  "closed_cost": 3702.87,
+  "raw_vehicles": 9,
+  "closed_vehicles": 8
+ },
+ "30/12/yards_Hinf_S3_W30": {
+  "from_cell": "yards_Hinf_S2_W30",
+  "raw_cost": 3990.87,
+  "closed_cost": 3918.88,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "30/13/yards_H1_S2_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 3288.5,
+  "closed_cost": 3278.0,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/13/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3266.4,
+  "closed_cost": 3262.56,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/13/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3266.63,
+  "closed_cost": 3262.56,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/13/yards_H1_Sinf_W30": {
+  "from_cell": "yards_H1_S3_W30",
+  "raw_cost": 3269.31,
+  "closed_cost": 3268.04,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/13/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3268.17,
+  "closed_cost": 3262.56,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/13/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 3028.31,
+  "closed_cost": 3018.88,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/13/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 3058.89,
+  "closed_cost": 3027.33,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/13/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3146.98,
+  "closed_cost": 3146.25,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/13/yards_Hinf_S2_W30": {
+  "from_cell": "yards_Hinf_S1_W30",
+  "raw_cost": 3290.7,
+  "closed_cost": 3275.24,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/13/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 3031.57,
+  "closed_cost": 3027.33,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/13/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S3_W30",
+  "raw_cost": 3270.46,
+  "closed_cost": 3266.4,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "30/13/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_Hinf_S3_W60",
+  "raw_cost": 3204.28,
+  "closed_cost": 3159.57,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/13/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_Sinf_Winf",
+  "raw_cost": 3018.88,
+  "closed_cost": 3013.54,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/14/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 3084.73,
+  "closed_cost": 3073.63,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/14/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 3194.15,
+  "closed_cost": 3188.75,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/14/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 3065.63,
+  "closed_cost": 3065.38,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/14/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 3194.75,
+  "closed_cost": 3188.75,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/14/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 3192.85,
+  "closed_cost": 3188.75,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/14/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 3073.12,
+  "closed_cost": 3065.38,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/15/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 3167.38,
+  "closed_cost": 3156.46,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/15/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 3167.38,
+  "closed_cost": 3156.46,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/15/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 3167.38,
+  "closed_cost": 3156.46,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/15/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 3165.53,
+  "closed_cost": 3156.46,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/15/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 3167.38,
+  "closed_cost": 3156.46,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/15/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 3167.38,
+  "closed_cost": 3156.46,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/15/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 3167.38,
+  "closed_cost": 3156.46,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/15/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_Hinf_S3_Winf",
+  "raw_cost": 3167.38,
+  "closed_cost": 3147.34,
+  "raw_vehicles": 8,
+  "closed_vehicles": 7
+ },
+ "30/16/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2977.31,
+  "closed_cost": 2942.22,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/16/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 3000.64,
+  "closed_cost": 2942.22,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "30/16/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2985.68,
+  "closed_cost": 2942.22,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/16/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 2890.69,
+  "closed_cost": 2886.57,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/16/yards_Hinf_S3_W120": {
+  "from_cell": "yards_Hinf_S2_W120",
+  "raw_cost": 2986.22,
+  "closed_cost": 2931.37,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/16/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_Sinf_W120",
+  "raw_cost": 2951.41,
+  "closed_cost": 2931.37,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/17/yards_H1_S2_W240": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2908.15,
+  "closed_cost": 2900.97,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/17/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2915.51,
+  "closed_cost": 2900.97,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/17/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2909.11,
+  "closed_cost": 2900.97,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/17/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2955.42,
+  "closed_cost": 2937.21,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/17/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2918.72,
+  "closed_cost": 2900.97,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/17/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3022.1,
+  "closed_cost": 2937.21,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "30/17/yards_Hinf_S1_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2967.29,
+  "closed_cost": 2937.21,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/17/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2950.14,
+  "closed_cost": 2937.21,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/17/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2940.63,
+  "closed_cost": 2937.21,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/17/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 2965.86,
+  "closed_cost": 2937.21,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/18/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 2845.32,
+  "closed_cost": 2837.52,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/18/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2997.52,
+  "closed_cost": 2929.5,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/18/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 2848.87,
+  "closed_cost": 2837.52,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/18/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2953.23,
+  "closed_cost": 2929.5,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/18/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 2848.87,
+  "closed_cost": 2837.52,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/18/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_Sinf_Winf",
+  "raw_cost": 2845.31,
+  "closed_cost": 2836.6,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/18/yards_Hinf_S1_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 3087.67,
+  "closed_cost": 3085.16,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/18/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2956.42,
+  "closed_cost": 2929.5,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/18/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 3132.4,
+  "closed_cost": 3080.65,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/18/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 2839.04,
+  "closed_cost": 2837.52,
+  "raw_vehicles": 6,
+  "closed_vehicles": 6
+ },
+ "30/18/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S3_W60",
+  "raw_cost": 3081.62,
+  "closed_cost": 3071.88,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/18/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 2966.97,
+  "closed_cost": 2929.5,
+  "raw_vehicles": 7,
+  "closed_vehicles": 7
+ },
+ "30/18/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S3_W60",
+  "raw_cost": 3110.51,
+  "closed_cost": 3071.88,
+  "raw_vehicles": 8,
+  "closed_vehicles": 8
+ },
+ "30/19/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 3056.29,
+  "closed_cost": 3044.46,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "30/19/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 3056.29,
+  "closed_cost": 3044.46,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "30/19/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 3056.29,
+  "closed_cost": 3040.48,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "30/19/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 3056.29,
+  "closed_cost": 3045.05,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "30/19/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 3056.29,
+  "closed_cost": 3040.48,
+  "raw_vehicles": 7,
+  "closed_vehicles": 6
+ },
+ "50/1/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 4698.73,
+  "closed_cost": 4676.79,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/1/yards_Hinf_S2_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 4722.98,
+  "closed_cost": 4717.04,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/1/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4717.97,
+  "closed_cost": 4647.43,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/1/yards_Hinf_S3_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 4726.43,
+  "closed_cost": 4717.04,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/1/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4718.72,
+  "closed_cost": 4647.43,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/1/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_Sinf_W60",
+  "raw_cost": 4802.57,
+  "closed_cost": 4731.49,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/1/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_Sinf_Winf",
+  "raw_cost": 4700.71,
+  "closed_cost": 4640.86,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/2/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 4699.55,
+  "closed_cost": 4683.51,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/2/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 4715.43,
+  "closed_cost": 4683.51,
+  "raw_vehicles": 10,
+  "closed_vehicles": 11
+ },
+ "50/2/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_Sinf_Winf",
+  "raw_cost": 4657.93,
+  "closed_cost": 4588.81,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H1_S1_W120": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 4648.14,
+  "closed_cost": 4636.7,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H1_S1_Winf": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 4641.52,
+  "closed_cost": 4636.7,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H1_S2_W240": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 4629.76,
+  "closed_cost": 4621.74,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4648.14,
+  "closed_cost": 4634.81,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 4634.71,
+  "closed_cost": 4621.74,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S3_W30",
+  "raw_cost": 4638.75,
+  "closed_cost": 4618.36,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S3_W30",
+  "raw_cost": 4646.81,
+  "closed_cost": 4618.36,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H1_Sinf_W30": {
+  "from_cell": "yards_H1_S3_W30",
+  "raw_cost": 4648.14,
+  "closed_cost": 4618.36,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S3_W30",
+  "raw_cost": 4623.51,
+  "closed_cost": 4618.36,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 4641.54,
+  "closed_cost": 4614.8,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 4624.11,
+  "closed_cost": 4621.74,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 4638.06,
+  "closed_cost": 4614.8,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_S1_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 4648.14,
+  "closed_cost": 4636.7,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_S1_W60": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 4648.14,
+  "closed_cost": 4636.7,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 4627.77,
+  "closed_cost": 4624.0,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_Hinf_S2_W120",
+  "raw_cost": 4626.5,
+  "closed_cost": 4614.8,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_S3_W120": {
+  "from_cell": "yards_Hinf_S2_W120",
+  "raw_cost": 4648.14,
+  "closed_cost": 4614.8,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_S3_W30": {
+  "from_cell": "yards_Hinf_S2_W30",
+  "raw_cost": 4636.7,
+  "closed_cost": 4614.8,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_S3_W60": {
+  "from_cell": "yards_Hinf_S2_W30",
+  "raw_cost": 4618.36,
+  "closed_cost": 4614.8,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 4629.76,
+  "closed_cost": 4614.8,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_Hinf_S2_W120",
+  "raw_cost": 4630.47,
+  "closed_cost": 4614.8,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S2_W30",
+  "raw_cost": 4618.36,
+  "closed_cost": 4614.8,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/3/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 4618.36,
+  "closed_cost": 4614.8,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/4/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_H1_S3_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_H1_Sinf_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 4805.16,
+  "closed_cost": 4788.47,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/4/yards_Hinf_S2_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 4911.78,
+  "closed_cost": 4881.72,
+  "raw_vehicles": 13,
+  "closed_vehicles": 12
+ },
+ "50/4/yards_Hinf_S2_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_Hinf_S3_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 4911.78,
+  "closed_cost": 4881.72,
+  "raw_vehicles": 13,
+  "closed_vehicles": 12
+ },
+ "50/4/yards_Hinf_S3_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4911.78,
+  "closed_cost": 4909.99,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/4/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_Hinf_S3_Winf",
+  "raw_cost": 4788.61,
+  "closed_cost": 4746.21,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/5/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 5148.24,
+  "closed_cost": 5100.16,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/5/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 5211.93,
+  "closed_cost": 5100.16,
+  "raw_vehicles": 13,
+  "closed_vehicles": 12
+ },
+ "50/5/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 5093.29,
+  "closed_cost": 5086.38,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/5/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 5089.55,
+  "closed_cost": 5074.24,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/5/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 5208.64,
+  "closed_cost": 5188.03,
+  "raw_vehicles": 13,
+  "closed_vehicles": 12
+ },
+ "50/5/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 5125.24,
+  "closed_cost": 5100.16,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/5/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 5096.23,
+  "closed_cost": 5074.24,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/5/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 5159.55,
+  "closed_cost": 5100.16,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/5/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 5080.98,
+  "closed_cost": 5074.24,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/5/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 5169.61,
+  "closed_cost": 5100.16,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/5/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 5100.88,
+  "closed_cost": 5074.24,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/6/yards_H1_S2_W240": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 5404.51,
+  "closed_cost": 5373.39,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/6/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5533.86,
+  "closed_cost": 5504.52,
+  "raw_vehicles": 15,
+  "closed_vehicles": 14
+ },
+ "50/6/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5533.86,
+  "closed_cost": 5504.52,
+  "raw_vehicles": 15,
+  "closed_vehicles": 14
+ },
+ "50/6/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 5440.5,
+  "closed_cost": 5321.35,
+  "raw_vehicles": 14,
+  "closed_vehicles": 13
+ },
+ "50/6/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5518.18,
+  "closed_cost": 5504.52,
+  "raw_vehicles": 14,
+  "closed_vehicles": 14
+ },
+ "50/6/yards_Hinf_S1_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5533.86,
+  "closed_cost": 5504.52,
+  "raw_vehicles": 15,
+  "closed_vehicles": 14
+ },
+ "50/6/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 5466.47,
+  "closed_cost": 5373.39,
+  "raw_vehicles": 14,
+  "closed_vehicles": 13
+ },
+ "50/6/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5533.86,
+  "closed_cost": 5504.52,
+  "raw_vehicles": 15,
+  "closed_vehicles": 14
+ },
+ "50/6/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 5214.58,
+  "closed_cost": 5189.03,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/6/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 5357.7,
+  "closed_cost": 5321.35,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/6/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5533.83,
+  "closed_cost": 5504.52,
+  "raw_vehicles": 14,
+  "closed_vehicles": 14
+ },
+ "50/6/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 5322.84,
+  "closed_cost": 5321.35,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/6/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5533.86,
+  "closed_cost": 5504.52,
+  "raw_vehicles": 15,
+  "closed_vehicles": 14
+ },
+ "50/6/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_Hinf_S3_Winf",
+  "raw_cost": 5105.59,
+  "closed_cost": 5093.54,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/7/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4662.5,
+  "closed_cost": 4610.96,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/7/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 4499.42,
+  "closed_cost": 4498.68,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "50/7/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4662.5,
+  "closed_cost": 4610.96,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/7/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 4573.13,
+  "closed_cost": 4498.68,
+  "raw_vehicles": 10,
+  "closed_vehicles": 9
+ },
+ "50/7/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 4518.89,
+  "closed_cost": 4498.68,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "50/7/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 4517.17,
+  "closed_cost": 4498.68,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "50/7/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 4594.56,
+  "closed_cost": 4592.65,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/7/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4662.5,
+  "closed_cost": 4610.96,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/7/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 4617.29,
+  "closed_cost": 4579.26,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/7/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4662.5,
+  "closed_cost": 4610.96,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/7/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_Hinf_S2_Winf",
+  "raw_cost": 4498.27,
+  "closed_cost": 4497.23,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "50/7/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_Sinf_W120",
+  "raw_cost": 4580.67,
+  "closed_cost": 4574.37,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/7/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S3_W30",
+  "raw_cost": 4662.5,
+  "closed_cost": 4638.31,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/7/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4616.84,
+  "closed_cost": 4610.96,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/7/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_Hinf_S2_Winf",
+  "raw_cost": 4503.01,
+  "closed_cost": 4497.23,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "50/8/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 5152.58,
+  "closed_cost": 5109.53,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/8/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 5080.2,
+  "closed_cost": 5076.89,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/8/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_Hinf_S2_Winf",
+  "raw_cost": 5142.79,
+  "closed_cost": 5067.47,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/8/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_Sinf_W120",
+  "raw_cost": 5174.28,
+  "closed_cost": 5134.79,
+  "raw_vehicles": 13,
+  "closed_vehicles": 12
+ },
+ "50/8/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_Hinf_S2_Winf",
+  "raw_cost": 5133.3,
+  "closed_cost": 5067.47,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/9/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4797.81,
+  "closed_cost": 4795.22,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 4851.83,
+  "closed_cost": 4820.54,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4808.68,
+  "closed_cost": 4795.22,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 4821.7,
+  "closed_cost": 4820.54,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4818.97,
+  "closed_cost": 4795.22,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4808.22,
+  "closed_cost": 4795.22,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4802.98,
+  "closed_cost": 4795.22,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_Hinf_S2_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 4818.11,
+  "closed_cost": 4811.1,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4819.01,
+  "closed_cost": 4795.22,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4803.47,
+  "closed_cost": 4795.22,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_Hinf_S3_W120",
+  "raw_cost": 4822.35,
+  "closed_cost": 4804.1,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_Hinf_S3_W60",
+  "raw_cost": 4906.58,
+  "closed_cost": 4892.74,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/9/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4796.98,
+  "closed_cost": 4795.22,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_H1_S2_W240": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S3_W30",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4408.52,
+  "closed_cost": 4405.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/10/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_Sinf_Winf",
+  "raw_cost": 4392.96,
+  "closed_cost": 4356.02,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "50/11/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4880.01,
+  "closed_cost": 4857.17,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/11/yards_H1_S2_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 4932.54,
+  "closed_cost": 4925.74,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_H1_S3_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 4972.31,
+  "closed_cost": 4925.74,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 4837.21,
+  "closed_cost": 4795.88,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/11/yards_H1_Sinf_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 4949.16,
+  "closed_cost": 4925.74,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S3_W60",
+  "raw_cost": 4904.34,
+  "closed_cost": 4881.56,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 4775.37,
+  "closed_cost": 4745.05,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/11/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_Sinf_Winf",
+  "raw_cost": 4754.91,
+  "closed_cost": 4655.09,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/11/yards_Hinf_S1_W30": {
+  "from_cell": "yards_H1_S1_W30",
+  "raw_cost": 4954.65,
+  "closed_cost": 4925.74,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_Hinf_S1_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 4933.09,
+  "closed_cost": 4913.4,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 4854.86,
+  "closed_cost": 4814.01,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/11/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S2_W60",
+  "raw_cost": 4927.08,
+  "closed_cost": 4897.37,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 4746.18,
+  "closed_cost": 4745.05,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/11/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 4812.99,
+  "closed_cost": 4795.88,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/11/yards_Hinf_S3_W30": {
+  "from_cell": "yards_Hinf_S2_W30",
+  "raw_cost": 4932.54,
+  "closed_cost": 4925.18,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S3_W60",
+  "raw_cost": 4886.34,
+  "closed_cost": 4881.56,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 4730.7,
+  "closed_cost": 4683.93,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/11/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 4818.65,
+  "closed_cost": 4795.88,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/11/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S2_W30",
+  "raw_cost": 4934.27,
+  "closed_cost": 4925.18,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S3_W60",
+  "raw_cost": 4918.15,
+  "closed_cost": 4881.56,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/11/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_Sinf_Winf",
+  "raw_cost": 4714.46,
+  "closed_cost": 4655.09,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/12/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 5503.66,
+  "closed_cost": 5437.83,
+  "raw_vehicles": 14,
+  "closed_vehicles": 13
+ },
+ "50/12/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 5229.08,
+  "closed_cost": 5210.9,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/12/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 5272.06,
+  "closed_cost": 5210.9,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/12/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 5292.24,
+  "closed_cost": 5210.9,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/12/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 5217.92,
+  "closed_cost": 5210.9,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/12/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 5275.59,
+  "closed_cost": 5210.9,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/12/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 5269.69,
+  "closed_cost": 5210.9,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/12/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 5239.85,
+  "closed_cost": 5210.9,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/13/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5087.89,
+  "closed_cost": 5053.22,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/13/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4931.72,
+  "closed_cost": 4899.17,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/13/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5117.01,
+  "closed_cost": 5053.22,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/13/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4911.05,
+  "closed_cost": 4899.17,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/13/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 5070.68,
+  "closed_cost": 5028.98,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/13/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5054.67,
+  "closed_cost": 5053.22,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/13/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4900.4,
+  "closed_cost": 4899.17,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/13/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4899.47,
+  "closed_cost": 4894.76,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/13/yards_Hinf_S2_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 5093.07,
+  "closed_cost": 5050.63,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/13/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4938.98,
+  "closed_cost": 4894.76,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/13/yards_Hinf_S3_W120": {
+  "from_cell": "yards_Hinf_S2_W120",
+  "raw_cost": 5030.47,
+  "closed_cost": 4937.72,
+  "raw_vehicles": 13,
+  "closed_vehicles": 12
+ },
+ "50/13/yards_Hinf_S3_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 5051.02,
+  "closed_cost": 5050.63,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/13/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4900.57,
+  "closed_cost": 4894.76,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/13/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_Hinf_S2_W120",
+  "raw_cost": 4980.8,
+  "closed_cost": 4937.72,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/13/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 5054.67,
+  "closed_cost": 5050.63,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/14/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4842.11,
+  "closed_cost": 4806.56,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/14/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4884.85,
+  "closed_cost": 4806.56,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/14/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4841.95,
+  "closed_cost": 4806.56,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/14/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 4796.27,
+  "closed_cost": 4771.22,
+  "raw_vehicles": 10,
+  "closed_vehicles": 11
+ },
+ "50/14/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4729.93,
+  "closed_cost": 4716.2,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/14/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4846.15,
+  "closed_cost": 4806.56,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/14/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4845.84,
+  "closed_cost": 4806.56,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/14/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4780.47,
+  "closed_cost": 4716.2,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/14/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4826.05,
+  "closed_cost": 4806.56,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/14/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4737.64,
+  "closed_cost": 4716.2,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/14/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4846.22,
+  "closed_cost": 4806.56,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/14/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4728.19,
+  "closed_cost": 4716.2,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/15/yards_H1_S2_W240": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 4757.77,
+  "closed_cost": 4754.75,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/15/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 4867.62,
+  "closed_cost": 4754.75,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/15/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S2_W120",
+  "raw_cost": 4770.62,
+  "closed_cost": 4754.75,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/15/yards_Hinf_S2_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 4796.6,
+  "closed_cost": 4742.33,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/15/yards_Hinf_S3_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 4780.11,
+  "closed_cost": 4742.33,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/15/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_Hinf_S1_W120",
+  "raw_cost": 4749.43,
+  "closed_cost": 4742.33,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/15/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4741.65,
+  "closed_cost": 4736.68,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4695.17,
+  "closed_cost": 4661.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/16/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4758.42,
+  "closed_cost": 4758.23,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4647.99,
+  "closed_cost": 4642.62,
+  "raw_vehicles": 9,
+  "closed_vehicles": 10
+ },
+ "50/16/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4679.72,
+  "closed_cost": 4661.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/16/yards_H1_S3_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4758.42,
+  "closed_cost": 4758.23,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4758.42,
+  "closed_cost": 4758.23,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4656.6,
+  "closed_cost": 4642.62,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/16/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4662.75,
+  "closed_cost": 4661.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/16/yards_H1_Sinf_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4758.42,
+  "closed_cost": 4758.23,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4758.42,
+  "closed_cost": 4758.23,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_Hinf_S2_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4758.42,
+  "closed_cost": 4758.23,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_Hinf_S2_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4758.42,
+  "closed_cost": 4758.23,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_Hinf_S3_W120": {
+  "from_cell": "yards_Hinf_S2_W120",
+  "raw_cost": 4653.82,
+  "closed_cost": 4651.3,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/16/yards_Hinf_S3_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4758.42,
+  "closed_cost": 4758.23,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4758.42,
+  "closed_cost": 4758.23,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_Hinf_S3_Winf": {
+  "from_cell": "yards_Hinf_S2_Winf",
+  "raw_cost": 4672.27,
+  "closed_cost": 4597.79,
+  "raw_vehicles": 10,
+  "closed_vehicles": 9
+ },
+ "50/16/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_Hinf_S2_W120",
+  "raw_cost": 4674.38,
+  "closed_cost": 4651.3,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/16/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4758.42,
+  "closed_cost": 4758.23,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/16/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_H2_Sinf_Winf",
+  "raw_cost": 4613.93,
+  "closed_cost": 4583.31,
+  "raw_vehicles": 9,
+  "closed_vehicles": 9
+ },
+ "50/17/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 5072.69,
+  "closed_cost": 5063.71,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5168.0,
+  "closed_cost": 5070.66,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_H1_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4980.19,
+  "closed_cost": 4956.41,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/17/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 5092.87,
+  "closed_cost": 5063.71,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_H1_S3_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5168.0,
+  "closed_cost": 5070.66,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_H1_S3_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4994.61,
+  "closed_cost": 4956.41,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/17/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 5088.56,
+  "closed_cost": 5063.71,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5167.96,
+  "closed_cost": 5070.66,
+  "raw_vehicles": 12,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4967.4,
+  "closed_cost": 4956.41,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/17/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4971.04,
+  "closed_cost": 4956.41,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/17/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 4968.76,
+  "closed_cost": 4956.41,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/17/yards_Hinf_S1_W120": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 5062.01,
+  "closed_cost": 5046.72,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_Hinf_S2_W120": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 5073.61,
+  "closed_cost": 5046.72,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_Hinf_S2_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 5060.3,
+  "closed_cost": 5046.72,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H1_S2_W240",
+  "raw_cost": 5011.89,
+  "closed_cost": 4956.41,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/17/yards_Hinf_S3_W120": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 5054.41,
+  "closed_cost": 5046.72,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_Hinf_S3_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 5071.92,
+  "closed_cost": 5046.72,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 5072.39,
+  "closed_cost": 5046.72,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_Hinf_S1_W60",
+  "raw_cost": 5079.18,
+  "closed_cost": 5046.72,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/17/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_Hinf_S3_Winf",
+  "raw_cost": 4996.88,
+  "closed_cost": 4955.07,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/18/yards_H1_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 5017.38,
+  "closed_cost": 4994.26,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/18/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5138.68,
+  "closed_cost": 5132.69,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/18/yards_H1_S3_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 5019.28,
+  "closed_cost": 4994.26,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/18/yards_H1_Sinf_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 5061.36,
+  "closed_cost": 4994.26,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/18/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S3_W60",
+  "raw_cost": 5128.64,
+  "closed_cost": 5123.13,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/18/yards_H1_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 4922.35,
+  "closed_cost": 4921.39,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/18/yards_H2_S2_Winf": {
+  "from_cell": "yards_H1_S2_Winf",
+  "raw_cost": 4945.76,
+  "closed_cost": 4928.19,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/18/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_S3_Winf",
+  "raw_cost": 4927.18,
+  "closed_cost": 4921.39,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/18/yards_Hinf_S1_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 5000.08,
+  "closed_cost": 4994.26,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/18/yards_Hinf_S1_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 5177.29,
+  "closed_cost": 5132.69,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/18/yards_Hinf_S2_W120": {
+  "from_cell": "yards_H1_S1_W120",
+  "raw_cost": 4995.58,
+  "closed_cost": 4994.26,
+  "raw_vehicles": 12,
+  "closed_vehicles": 12
+ },
+ "50/18/yards_Hinf_S3_W60": {
+  "from_cell": "yards_H1_S3_W60",
+  "raw_cost": 5123.98,
+  "closed_cost": 5123.13,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/18/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_Hinf_S3_W30",
+  "raw_cost": 5235.56,
+  "closed_cost": 5188.7,
+  "raw_vehicles": 14,
+  "closed_vehicles": 13
+ },
+ "50/18/yards_Hinf_Sinf_W60": {
+  "from_cell": "yards_H1_S3_W60",
+  "raw_cost": 5123.35,
+  "closed_cost": 5123.13,
+  "raw_vehicles": 13,
+  "closed_vehicles": 13
+ },
+ "50/18/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_Hinf_S3_Winf",
+  "raw_cost": 4921.09,
+  "closed_cost": 4913.69,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/19/yards_H1_S2_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 4698.19,
+  "closed_cost": 4695.07,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/19/yards_H1_S3_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4735.07,
+  "closed_cost": 4695.07,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/19/yards_H1_Sinf_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4700.44,
+  "closed_cost": 4695.07,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/19/yards_H1_Sinf_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 4698.19,
+  "closed_cost": 4695.07,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/19/yards_H2_Sinf_Winf": {
+  "from_cell": "yards_H1_Sinf_Winf",
+  "raw_cost": 4594.13,
+  "closed_cost": 4563.61,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/19/yards_Hinf_S1_W60": {
+  "from_cell": "yards_H1_S1_W60",
+  "raw_cost": 4708.22,
+  "closed_cost": 4695.07,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/19/yards_Hinf_S1_Winf": {
+  "from_cell": "yards_H1_S1_Winf",
+  "raw_cost": 4658.26,
+  "closed_cost": 4623.44,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/19/yards_Hinf_S2_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4698.19,
+  "closed_cost": 4695.07,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/19/yards_Hinf_S2_Winf": {
+  "from_cell": "yards_H2_S2_Winf",
+  "raw_cost": 4594.11,
+  "closed_cost": 4567.34,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ },
+ "50/19/yards_Hinf_S3_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 4675.2,
+  "closed_cost": 4631.16,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/19/yards_Hinf_S3_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4726.0,
+  "closed_cost": 4695.07,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/19/yards_Hinf_Sinf_W120": {
+  "from_cell": "yards_H1_S3_W120",
+  "raw_cost": 4695.09,
+  "closed_cost": 4631.16,
+  "raw_vehicles": 11,
+  "closed_vehicles": 10
+ },
+ "50/19/yards_Hinf_Sinf_W30": {
+  "from_cell": "yards_H1_S2_W30",
+  "raw_cost": 4705.72,
+  "closed_cost": 4695.07,
+  "raw_vehicles": 11,
+  "closed_vehicles": 11
+ },
+ "50/19/yards_Hinf_Sinf_Winf": {
+  "from_cell": "yards_Hinf_S3_Winf",
+  "raw_cost": 4563.61,
+  "closed_cost": 4560.49,
+  "raw_vehicles": 10,
+  "closed_vehicles": 10
+ }
+}

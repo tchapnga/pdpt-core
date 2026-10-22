@@ -1,0 +1,17 @@
+{'instance': 'E1', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 2.3}
+{'instance': 'E2', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 1.8}
+{'instance': 'E3', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 1.5}
+{'instance': 'E4', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 4.8}
+{'instance': 'E5', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 4.3}
+{'instance': 'E6', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 5.7}
+{'instance': 'E7', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 22.8}
+{'instance': 'E8', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 18.5}
+{'instance': 'E9', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 12.3}
+{'instance': 'E10', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 42.9}
+{'instance': 'E11', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 37.4}
+{'instance': 'E12', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 26.2}
+{'instance': 'E13', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 97.9}
+{'instance': 'E14', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 80.3}
+{'instance': 'E15', 'status': 'OPTIMAL', 'veh': 2, 'dist': 1131.37, 'gap': 0.0, 'time': 115.9}
+{'instance': 'E16', 'status': 'FEASIBLE', 'veh': 2, 'dist': 1131.37, 'gap': 0.001487212627143401, 'time': 300.1}
+DONE

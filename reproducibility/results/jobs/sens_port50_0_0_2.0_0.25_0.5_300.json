@@ -1,0 +1,1 @@
+{"cost": 4208.11, "distance": 2348.42, "vehicles": 9, "transfers": 2, "feasible": true, "unassigned": 0, "it": 2244, "t_best": 241.93, "violations": [], "kind": "sens", "family": "port50", "instance": "PORT-n50-y2-S2-H1-s0", "seed": 0, "tl": 300.0, "rho_mult": 2.0, "dlo": 0.25, "dhi": 0.5, "wall": 300.0, "argv": ["sens", "port50", "0", "0", "2.0", "0.25", "0.5", "300"]}

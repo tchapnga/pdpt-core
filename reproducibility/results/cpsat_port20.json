@@ -1,0 +1,134 @@
+[
+ {
+  "seed": 0,
+  "setting": "no_yard",
+  "status": "OPTIMAL",
+  "cp_cost": 1943.1,
+  "cp_feasible": true,
+  "bound": 1940.0,
+  "lns_cost": 1943.1,
+  "gap_lns_vs_bound": 0.2,
+  "time": 16
+ },
+ {
+  "seed": 0,
+  "setting": "yards_H1_S2",
+  "status": "UNKNOWN",
+  "cp_cost": null,
+  "cp_feasible": null,
+  "bound": 588.0,
+  "lns_cost": 1968.0,
+  "gap_lns_vs_bound": 70.1,
+  "time": 243
+ },
+ {
+  "seed": 1,
+  "setting": "no_yard",
+  "status": "OPTIMAL",
+  "cp_cost": 2165.6,
+  "cp_feasible": true,
+  "bound": 2163.0,
+  "lns_cost": 2269.1,
+  "gap_lns_vs_bound": 4.7,
+  "time": 18
+ },
+ {
+  "seed": 1,
+  "setting": "yards_H1_S2",
+  "status": "UNKNOWN",
+  "cp_cost": null,
+  "cp_feasible": null,
+  "bound": 526.0,
+  "lns_cost": 2050.1,
+  "gap_lns_vs_bound": 74.3,
+  "time": 243
+ },
+ {
+  "seed": 2,
+  "setting": "no_yard",
+  "status": "OPTIMAL",
+  "cp_cost": 2252.6,
+  "cp_feasible": true,
+  "bound": 2253.0,
+  "lns_cost": 2261.0,
+  "gap_lns_vs_bound": 0.4,
+  "time": 6
+ },
+ {
+  "seed": 3,
+  "setting": "no_yard",
+  "status": "OPTIMAL",
+  "cp_cost": 2078.6,
+  "cp_feasible": true,
+  "bound": 2077.0,
+  "lns_cost": 2078.6,
+  "gap_lns_vs_bound": 0.1,
+  "time": 27
+ },
+ {
+  "seed": 4,
+  "setting": "no_yard",
+  "status": "OPTIMAL",
+  "cp_cost": 2477.0,
+  "cp_feasible": true,
+  "bound": 2473.0,
+  "lns_cost": 2477.0,
+  "gap_lns_vs_bound": 0.2,
+  "time": 49
+ },
+ {
+  "seed": 5,
+  "setting": "no_yard",
+  "status": "OPTIMAL",
+  "cp_cost": 2398.0,
+  "cp_feasible": false,
+  "bound": 2400.0,
+  "lns_cost": 2424.4,
+  "gap_lns_vs_bound": 1.0,
+  "time": 5
+ },
+ {
+  "seed": 6,
+  "setting": "no_yard",
+  "status": "OPTIMAL",
+  "cp_cost": 2591.3,
+  "cp_feasible": true,
+  "bound": 2592.0,
+  "lns_cost": 2591.3,
+  "gap_lns_vs_bound": -0.0,
+  "time": 8
+ },
+ {
+  "seed": 7,
+  "setting": "no_yard",
+  "status": "OPTIMAL",
+  "cp_cost": 1768.9,
+  "cp_feasible": true,
+  "bound": 1767.0,
+  "lns_cost": 1768.8,
+  "gap_lns_vs_bound": 0.1,
+  "time": 7
+ },
+ {
+  "seed": 8,
+  "setting": "no_yard",
+  "status": "OPTIMAL",
+  "cp_cost": 1935.3,
+  "cp_feasible": true,
+  "bound": 1934.0,
+  "lns_cost": 1936.1,
+  "gap_lns_vs_bound": 0.1,
+  "time": 8
+ },
+ {
+  "seed": 9,
+  "setting": "no_yard",
+  "status": "OPTIMAL",
+  "cp_cost": 2280.0,
+  "cp_feasible": true,
+  "bound": 2277.0,
+  "lns_cost": 2279.4,
+  "gap_lns_vs_bound": 0.1,
+  "time": 8
+ }
+]

@@ -1,0 +1,1 @@
+{"cost": 1650.8, "distance": 1650.8, "vehicles": 19, "transfers": 0, "feasible": true, "unassigned": 0, "it": 3181, "t_best": 49.17, "violations": [], "kind": "lilim", "instance": "lr101", "seed": 6, "tl": 120.0, "wall": 120.0, "argv": ["lilim", "instances/lr101.txt", "6", "120"]}
